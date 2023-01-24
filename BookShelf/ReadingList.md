@@ -19,6 +19,7 @@ TABLE WITHOUT ID
 	link(file.link, title) as Title,
 	author as Author,
 	join(list(publisher, publish)) as Publisher
+	category as Genre
 FROM #📚Book
 WHERE !contains(file.path, "Templates")
 SORT status DESC, file.ctime ASC

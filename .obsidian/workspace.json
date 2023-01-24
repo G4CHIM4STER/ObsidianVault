@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b112c77bdb9771cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/01 BookTemplate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -166,12 +178,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "cbef45ed1d3ba7a7",
   "lastOpenFiles": [
-    "CoreNotes/{{coverUrl}}.md",
-    "BookShelf/1984 Population Census of Ghana.md",
     "Templates/01 BookTemplate.md",
     "BookShelf/ReadingList.md",
+    "CoreNotes/{{coverUrl}}.md",
+    "BookShelf/1984 Population Census of Ghana.md",
     "CoreNotes/test.md",
     "CoreNotes/Special Series.md",
     "CoreNotes/1984 - Джордж Оруэлл.md",
