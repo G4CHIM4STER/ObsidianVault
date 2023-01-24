@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "99127de617d37d3c",
-        "type": "split",
+        "id": "7a5cda01c1d8020c",
+        "type": "tabs",
         "children": [
           {
-            "id": "7a5cda01c1d8020c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f0e5e05a3566877f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/01 BookTemplate.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "f0e5e05a3566877f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "e60a7cd060ecb214",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6b204fb423b409f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/01 BookTemplate.md",
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/01 BookTemplate.md",
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/01 BookTemplate.md"
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md"
               }
             }
           },
@@ -193,15 +168,15 @@
   },
   "active": "f0e5e05a3566877f",
   "lastOpenFiles": [
-    "Templates/01 DefaultNote.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf/ReadingList.md",
+    "Templates/01 BookTemplate.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "Templates/01 DefaultNote.md",
     "BookShelf/Требуется Темный Властелин - Алексей Ефимов.md",
     "CoreNotes/Список книг на 2023.md",
     "BookShelf/Компьютерные сети Основы построения компьютерных сетей и телекоммуникаций - Александр Проскуряков.md",
     "BookShelf/АС Макаренко.md",
-    "BookShelf/Сравнительная грамматика восточноиранских языков - D I Edelman Джой Иосифовна Эдельман.md",
-    "README.md"
+    "BookShelf/Сравнительная грамматика восточноиранских языков - D I Edelman Джой Иосифовна Эдельман.md"
   ]
 }
