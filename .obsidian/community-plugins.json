@@ -5,5 +5,8 @@
   "obsidian-mind-map",
   "nldates-obsidian",
   "obsidian-outliner",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-book-search-plugin",
+  "obsidian-git",
+  "obsidian-sortable"
 ]

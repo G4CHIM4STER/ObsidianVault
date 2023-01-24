@@ -6,8 +6,16 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "section:(00 Продуктивность)",
+      "color": {
+        "a": 1,
+        "rgb": 4794572
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -18,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.7132754626224496,
-  "close": true
+  "close": false
 }
