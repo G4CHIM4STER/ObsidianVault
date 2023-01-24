@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -54,8 +54,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000009,
-                  "close": true
+                  "scale": 1.0000000000000013,
+                  "close": false
                 }
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md"
+                "file": "CoreNotes/Цели на начало 23-ого года.md"
               }
             }
           },
@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,17 +208,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "bde4aba4454d4afb",
+  "active": "c591ef16d665ec9d",
   "lastOpenFiles": [
+    "CoreNotes/Zen Zettel.md",
+    "CoreNotes/2023-01-10.md",
     "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Изучаем Python.md",
     "CoreNotes/2023-01-11.md",
-    "CoreNotes/2023-01-10.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Жизнь Core.md",
     "BookShelf/ReadingList.md",
-    "Files/Asyncio и конкурентное программирование на Python [2022] Фаулер Мэтью.pdf",
-    "CoreNotes/Список книг на 2023.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md"
+    "Files/Asyncio и конкурентное программирование на Python [2022] Фаулер Мэтью.pdf"
   ]
 }
