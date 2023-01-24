@@ -1,27 +1,26 @@
-# 📚 My Bookshelf
+
+# 📚 Полка
 
 ```dataview
 TABLE WITHOUT ID
-	status as Status,
-	rows.file.link as Book
+	status as Статус,
+	rows.file.link as Книга
 FROM  #📚Book
 WHERE !contains(file.path, "Templates")
 GROUP BY status
 SORT status
 ```
 
-## List of all books
+## Общий список книг
 
 ```dataview
 TABLE WITHOUT ID
-	status as Status,
-	"![|60](" + cover + ")" as Cover,
-	link(file.link, title) as Title,
-	author as Author,
-	join(list(publisher, publish)) as Publisher,
-	category as Genre 
+	status as Статус,
+	"![|60](" + cover + ")" as Обложка,
+	link(file.link, title) as Название,
+	author as Автор,
+	category as Жанр
 FROM #📚Book
 WHERE !contains(file.path, "Templates")
 SORT status DESC, file.ctime ASC
 ```
-

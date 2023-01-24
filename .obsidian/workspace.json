@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e60a7cd060ecb214",
-        "type": "tabs",
+        "id": "99127de617d37d3c",
+        "type": "split",
         "children": [
           {
-            "id": "6b204fb423b409f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
-                "mode": "source",
-                "source": false
+            "id": "7a5cda01c1d8020c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f0e5e05a3566877f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/01 BookTemplate.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "e60a7cd060ecb214",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b204fb423b409f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
+                "file": "Templates/01 BookTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
+                "file": "Templates/01 BookTemplate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md"
+                "file": "Templates/01 BookTemplate.md"
               }
             }
           },
@@ -166,17 +191,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6b204fb423b409f1",
+  "active": "f0e5e05a3566877f",
   "lastOpenFiles": [
-    "BookShelf/ReadingList.md",
-    "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
+    "Templates/01 DefaultNote.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "BookShelf/Внутреннее устройство Linux 4-е изд - Уорд Брайан.md",
+    "BookShelf/ReadingList.md",
+    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "BookShelf/Требуется Темный Властелин - Алексей Ефимов.md",
     "CoreNotes/Список книг на 2023.md",
-    "Templates/01 BookTemplate.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/{{coverUrl}}.md",
-    "BookShelf/1984 Population Census of Ghana.md",
-    "CoreNotes/test.md"
+    "BookShelf/Компьютерные сети Основы построения компьютерных сетей и телекоммуникаций - Александр Проскуряков.md",
+    "BookShelf/АС Макаренко.md",
+    "BookShelf/Сравнительная грамматика восточноиранских языков - D I Edelman Джой Иосифовна Эдельман.md",
+    "README.md"
   ]
 }
