@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "read",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,14 +186,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "bde4aba4454d4afb",
   "lastOpenFiles": [
     "BookShelf/ReadingList.md",
+    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Математика для Data Science и машинного обучения.md",

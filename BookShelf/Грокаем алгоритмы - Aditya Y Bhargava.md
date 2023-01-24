@@ -7,7 +7,7 @@ publish: 2021
 total: 288
 isbn: 5446109236 9785446109234
 cover: 
-status: Читаю****
+status: Читаю
 created: 2023-01-24 18:40:47
 updated: 2023-01-24 18:40:47
 category: Computer algorithms
