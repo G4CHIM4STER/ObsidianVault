@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbef45ed1d3ba7a7",
+            "id": "6b204fb423b409f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/ReadingList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b112c77bdb9771cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/01 BookTemplate.md",
+                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/ReadingList.md"
+                "file": "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md"
               }
             }
           },
@@ -178,17 +166,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cbef45ed1d3ba7a7",
+  "active": "6b204fb423b409f1",
   "lastOpenFiles": [
-    "Templates/01 BookTemplate.md",
     "BookShelf/ReadingList.md",
+    "BookShelf/Компьютерные сети - Виктор Григорьевич Олифер.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf/Внутреннее устройство Linux 4-е изд - Уорд Брайан.md",
+    "CoreNotes/Список книг на 2023.md",
+    "Templates/01 BookTemplate.md",
+    "CoreNotes/План обучения 2023.md",
     "CoreNotes/{{coverUrl}}.md",
     "BookShelf/1984 Population Census of Ghana.md",
-    "CoreNotes/test.md",
-    "CoreNotes/Special Series.md",
-    "CoreNotes/1984 - Джордж Оруэлл.md",
-    "CoreNotes/Основы  Zettelkasten.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/00 Продуктивность.md"
+    "CoreNotes/test.md"
   ]
 }

@@ -24,3 +24,4 @@ FROM #📚Book
 WHERE !contains(file.path, "Templates")
 SORT status DESC, file.ctime ASC
 ```
+
