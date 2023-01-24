@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,20 +31,20 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -55,7 +55,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1.0000000000000013,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md"
+                "file": "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md"
               }
             }
           },
@@ -208,17 +208,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c591ef16d665ec9d",
+  "active": "bde4aba4454d4afb",
   "lastOpenFiles": [
-    "CoreNotes/Zen Zettel.md",
-    "CoreNotes/2023-01-10.md",
+    "BookShelf/ReadingList.md",
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Zen Zettel.md",
+    "CoreNotes/2023-01-10.md",
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Изучаем Python.md",
     "CoreNotes/2023-01-11.md",
     "CoreNotes/Жизнь Core.md",
-    "BookShelf/ReadingList.md",
     "Files/Asyncio и конкурентное программирование на Python [2022] Фаулер Мэтью.pdf"
   ]
 }
