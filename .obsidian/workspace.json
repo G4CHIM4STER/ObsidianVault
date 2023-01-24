@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md"
+                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md"
               }
             }
           },
@@ -210,15 +210,15 @@
   },
   "active": "bde4aba4454d4afb",
   "lastOpenFiles": [
+    "BookShelf/ReadingList.md",
+    "CoreNotes/План обучения 2023.md",
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Математика для Data Science и машинного обучения.md",
     "CoreNotes/Изучаем Python.md",
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Цели на начало 23-ого года.md",
-    "BookShelf/ReadingList.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md"
+    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md"
   ]
 }
