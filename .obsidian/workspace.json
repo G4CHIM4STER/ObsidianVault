@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "7a5cda01c1d8020c",
+        "id": "fcbd49b9b80fa6e4",
         "type": "tabs",
         "children": [
           {
-            "id": "f0e5e05a3566877f",
+            "id": "bde4aba4454d4afb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
+                "file": "CoreNotes/Список книг на 2023.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a5cda01c1d8020c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c591ef16d665ec9d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes/Список книг на 2023.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000009,
+                  "close": true
+                }
               }
             }
           }
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
+                "file": "CoreNotes/Список книг на 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
+                "file": "CoreNotes/Список книг на 2023.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md"
+                "file": "CoreNotes/Список книг на 2023.md"
               }
             }
           },
@@ -166,17 +207,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f0e5e05a3566877f",
+  "active": "bde4aba4454d4afb",
   "lastOpenFiles": [
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Изучаем Python.md",
+    "CoreNotes/2023-01-11.md",
+    "CoreNotes/2023-01-10.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Жизнь Core.md",
     "BookShelf/ReadingList.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "Templates/01 BookTemplate.md",
-    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "Templates/01 DefaultNote.md",
-    "BookShelf/Требуется Темный Властелин - Алексей Ефимов.md",
+    "Files/Asyncio и конкурентное программирование на Python [2022] Фаулер Мэтью.pdf",
     "CoreNotes/Список книг на 2023.md",
-    "BookShelf/Компьютерные сети Основы построения компьютерных сетей и телекоммуникаций - Александр Проскуряков.md",
-    "BookShelf/АС Макаренко.md"
+    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md"
   ]
 }
