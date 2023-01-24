@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md"
+                "file": "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md"
               }
             }
           },
@@ -169,14 +169,14 @@
   "active": "f0e5e05a3566877f",
   "lastOpenFiles": [
     "BookShelf/ReadingList.md",
-    "Templates/01 BookTemplate.md",
+    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "Templates/01 BookTemplate.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "Templates/01 DefaultNote.md",
     "BookShelf/Требуется Темный Властелин - Алексей Ефимов.md",
     "CoreNotes/Список книг на 2023.md",
     "BookShelf/Компьютерные сети Основы построения компьютерных сетей и телекоммуникаций - Александр Проскуряков.md",
-    "BookShelf/АС Макаренко.md",
-    "BookShelf/Сравнительная грамматика восточноиранских языков - D I Edelman Джой Иосифовна Эдельман.md"
+    "BookShelf/АС Макаренко.md"
   ]
 }
