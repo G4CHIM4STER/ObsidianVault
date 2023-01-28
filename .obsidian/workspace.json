@@ -11,29 +11,9 @@
             "id": "bde4aba4454d4afb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7a5cda01c1d8020c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d45f97b18ff10386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
               }
             }
           }
@@ -104,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md"
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
               }
             }
           },
@@ -188,10 +168,10 @@
   },
   "active": "bde4aba4454d4afb",
   "lastOpenFiles": [
-    "BookShelf/ReadingList.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "BookShelf/ReadingList.md",
+    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "CoreNotes/План обучения 2023.md",
