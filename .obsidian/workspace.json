@@ -21,11 +21,9 @@
             "id": "c463ea0a44399d76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CoreNotes/29.01.2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
               }
             }
           }
@@ -59,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/29.01.2023.md",
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/29.01.2023.md",
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/29.01.2023.md"
+                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
               }
             }
           },
@@ -181,15 +178,15 @@
   },
   "active": "c463ea0a44399d76",
   "lastOpenFiles": [
-    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/ReadingList.md",
+    "CoreNotes/29.01.2023.md",
+    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Основы  Zettelkasten.md",
-    "CoreNotes/Математика для Data Science и машинного обучения.md"
+    "CoreNotes/Основы  Zettelkasten.md"
   ]
 }
