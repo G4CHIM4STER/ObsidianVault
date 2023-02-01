@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fcbd49b9b80fa6e4",
+        "id": "fa08c491a3a2d30c",
         "type": "tabs",
         "children": [
           {
-            "id": "bde4aba4454d4afb",
+            "id": "bf551073a85a6899",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
-              }
-            }
-          },
-          {
-            "id": "c463ea0a44399d76",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc0a8fc6e04f7776",
@@ -164,8 +152,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": true,
       "switcher:Меню быстрого перехода": true,
       "graph:Граф": false,
       "canvas:Create new canvas": true,
@@ -173,10 +159,12 @@
       "templates:Вставить шаблон": true,
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c463ea0a44399d76",
+  "active": "7b848dd7327860d0",
   "lastOpenFiles": [
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/ReadingList.md",
