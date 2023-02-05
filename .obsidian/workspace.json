@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "Daily/2023-02-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "Daily/2023-02-05.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "Daily/2023-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md",
+                "file": "Daily/2023-02-05.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/План обучения 2023.md"
+                "file": "Daily/2023-02-05.md"
               }
             }
           },
@@ -212,8 +212,8 @@
   },
   "active": "bf551073a85a6899",
   "lastOpenFiles": [
-    "CoreNotes/Изучаем Python.md",
     "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Изучаем Python.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/00 Книги.md",
     "README.md",
