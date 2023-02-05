@@ -11,9 +11,56 @@
             "id": "bf551073a85a6899",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/План обучения 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "a751e30f68bd70e4"
+          }
+        ]
+      },
+      {
+        "id": "d874925e34211d20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f18ad80e1a43ce7c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes/План обучения 2023.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "a751e30f68bd70e4"
           }
         ]
       }
@@ -65,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc0a8fc6e04f7776",
@@ -82,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
+                "file": "CoreNotes/План обучения 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
+                "file": "CoreNotes/План обучения 2023.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
+                "file": "CoreNotes/План обучения 2023.md"
               }
             }
           },
@@ -164,17 +210,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "bf551073a85a6899",
   "lastOpenFiles": [
+    "CoreNotes/Изучаем Python.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/00 Книги.md",
+    "README.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/ReadingList.md",
     "CoreNotes/29.01.2023.md",
     "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Основы  Zettelkasten.md"
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md"
   ]
 }
