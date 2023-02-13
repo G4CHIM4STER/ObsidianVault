@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Математика для Data Science и машинного обучения.md",
+                "file": "BookShelf/ReadingList.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Математика для Data Science и машинного обучения.md",
+                "file": "BookShelf/ReadingList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Математика для Data Science и машинного обучения.md",
+                "file": "BookShelf/ReadingList.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Математика для Data Science и машинного обучения.md"
+                "file": "BookShelf/ReadingList.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "0950c2e8c7182064",
   "lastOpenFiles": [
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/График.md",
+    "CoreNotes/Математика для Data Science и машинного обучения.md",
     "CoreNotes/тест.md",
     "CoreNotes/Без названия.md",
     "Daily/2023-02-13.md",
-    "CoreNotes/00 Цели.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Список книг на 2023.md",
-    "Daily/2023-02-05.md",
-    "CoreNotes/Изучаем Python.md",
-    "CoreNotes/00 Книги.md"
+    "CoreNotes/00 Цели.md"
   ]
 }
