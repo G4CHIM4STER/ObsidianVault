@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fa08c491a3a2d30c",
+        "id": "b0b57ca3be581ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "bf551073a85a6899",
+            "id": "0950c2e8c7182064",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -159,17 +159,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "bf551073a85a6899",
+  "active": "0950c2e8c7182064",
   "lastOpenFiles": [
-    "Daily/2023-02-05.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Изучаем Python.md",
+    "CoreNotes/Без названия.md",
+    "CoreNotes/тест.md",
     "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/00 Цели.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Список книг на 2023.md",
+    "Daily/2023-02-05.md",
+    "CoreNotes/Изучаем Python.md",
     "CoreNotes/00 Книги.md",
-    "README.md",
-    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf/ReadingList.md",
-    "CoreNotes/29.01.2023.md",
-    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
+    "README.md"
   ]
 }
