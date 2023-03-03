@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7944a63aa4f34699",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,9 +163,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": true,
       "graph:Граф": false,
-      "canvas:Create new canvas": true,
       "daily-notes:Сегодняшняя заметка": true,
       "templates:Вставить шаблон": true,
       "command-palette:Открыть палитру команд": false,
@@ -164,7 +175,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "7944a63aa4f34699",
   "lastOpenFiles": [
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/ReadingList.md",
