@@ -4,41 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "fa08c491a3a2d30c",
+        "id": "1f17172732960253",
         "type": "tabs",
         "children": [
           {
-            "id": "bf551073a85a6899",
+            "id": "b9991430f2c15bfd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7944a63aa4f34699",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
+                "viewState": {
+                  "x": -1280,
+                  "y": 262.5,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "4b77b8047fac98f7",
+            "id": "bc9091e8feba16ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DMNotes/Ravenloft Adventure/Фракции/Северная торговая компания.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aa502f22c881460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43b36d08e8d3d80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md"
               }
             }
           },
@@ -186,20 +207,50 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "4b77b8047fac98f7",
+  "active": "43b36d08e8d3d80d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Daily/2023-02-13.md",
+    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
+    "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
+    "DMNotes/Ravenloft Adventure/Фракции/Вечный орден.md",
+    "DMNotes/Ravenloft Adventure/Фракции/Северная торговая компания.md",
+    "CoreNotes/Без названия.md",
+    "CoreNotes/00 Zettel.md",
+    "DMNotes/Ravenloft Adventure/Фракции",
+    "Daily/2023-03-03.md",
+    "Daily/29.01.2023.md",
+    "Daily/2023-01-09.md",
+    "Daily/2023-01-23.md",
     "Daily/2023-02-05.md",
+    "Daily/2023-02-13.md",
+    "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
+    "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
+    "Templates/01 DMNote.md",
+    "Files/Макет акта.png",
+    "Files/Распределение опыта.png",
+    "Files/Pasted image 20230303231127.png",
+    "Files/Структура здания.png",
+    "Files/Испытания. Пример.png",
+    "Files/Испытания. Макет.png",
+    "Files/Pasted image 20230303223252.png",
+    "Files/Pasted image 20230303222523.png",
+    "Files/Pasted image 20230303222518.png",
+    "Без названия 1.canvas",
+    "CoreNotes/00 D&D.md",
+    "CoreNotes/Zen Zettel.md",
+    "CoreNotes/Untitled.md",
+    "CoreNotes/00 Книги.md",
+    "CoreNotes/Без названия 3.md",
+    "CoreNotes/00 Обучение.md",
+    "Templates/01 DefaultNote.md",
+    "Templates/01 BookTemplate.md",
+    "CoreNotes/Без названия 2.md",
+    "README.md",
+    "CoreNotes/Без названия 1.md",
+    "DMNotes/Ravenloft Adventure/Акт 5",
+    "DMNotes/Ravenloft Adventure",
+    "DMNotes",
+    "conflict-files-obsidian-git.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf/ReadingList.md",
-    "CoreNotes/29.01.2023.md",
-    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Основы  Zettelkasten.md"
+    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
   ]
 }

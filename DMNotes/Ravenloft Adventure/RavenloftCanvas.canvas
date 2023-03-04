@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"file","file":"Files/Испытания. Макет.png","id":"7d098cac5a6f0dc4","x":-760,"y":-260,"width":580,"height":1035},
+		{"type":"text","text":"## Испытания и его примеры","id":"a1a9f495a928089d","x":-280,"y":-420,"width":315,"height":80},
+		{"type":"file","file":"Files/Испытания. Пример.png","id":"14a305fe9d03e844","x":-80,"y":-240,"width":692,"height":475},
+		{"type":"file","file":"Files/Распределение опыта.png","id":"f348c5e5b8a76c03","x":720,"y":-240,"width":430,"height":810},
+		{"type":"file","file":"Files/Структура здания.png","id":"693cf7e41b122580","x":35,"y":340,"width":400,"height":368},
+		{"type":"file","file":"Files/Макет акта.png","id":"d462223998f59e24","x":-1640,"y":-260,"width":720,"height":1045}
+	],
+	"edges":[
+		{"id":"b73410195631f054","fromNode":"a1a9f495a928089d","fromSide":"left","toNode":"7d098cac5a6f0dc4","toSide":"top"},
+		{"id":"0ed09109fd7b6a46","fromNode":"a1a9f495a928089d","fromSide":"right","toNode":"14a305fe9d03e844","toSide":"top"}
+	]
+}
