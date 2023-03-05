@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a6d6040c6c0ab6a8","x":-240,"y":-440,"width":280,"height":80,"type":"text","text":"# Структура Акта"},
+		{"id":"504411be66510068","x":-225,"y":-200,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
