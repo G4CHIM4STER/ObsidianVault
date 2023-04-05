@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Жизнь Core.md",
+                "file": "CoreNotes/Список книг на 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Жизнь Core.md",
+                "file": "CoreNotes/Список книг на 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Жизнь Core.md",
+                "file": "CoreNotes/Список книг на 2023.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Жизнь Core.md"
+                "file": "CoreNotes/Список книг на 2023.md"
               }
             }
           },
@@ -169,12 +169,17 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "CoreNotes/Список книг на 2023.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Приоритеты.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Жизнь Core.md",
     "CoreNotes/График.md",
     "CoreNotes/Без названия.md",
     "BookShelf/ReadingList.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "Daily/2023-04-05.md",
@@ -193,7 +198,6 @@
     "CoreNotes/00 Zettel.md",
     "DMNotes/Ravenloft Adventure/Фракции",
     "Daily/2023-03-03.md",
-    "Templates/01 DMNote.md",
     "Files/Макет акта.png",
     "Files/Распределение опыта.png",
     "Files/Pasted image 20230303231127.png",
@@ -204,10 +208,6 @@
     "Files/Pasted image 20230303222523.png",
     "Files/Pasted image 20230303222518.png",
     "Без названия 1.canvas",
-    "CoreNotes/00 D&D.md",
-    "CoreNotes/Zen Zettel.md",
-    "CoreNotes/Untitled.md",
-    "CoreNotes/00 Книги.md",
     "DMNotes/Ravenloft Adventure/Акт 5",
     "DMNotes/Ravenloft Adventure",
     "DMNotes",
