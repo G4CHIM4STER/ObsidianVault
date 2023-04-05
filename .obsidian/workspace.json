@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ce0841c9e1f5a5b",
+        "id": "b2bfe1c15b3ea7d1",
         "type": "tabs",
         "children": [
           {
-            "id": "5160abef2622e2bf",
+            "id": "fda42c98094d910b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
+                "file": "Daily/2023-04-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
+                "file": "Daily/2023-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
+                "file": "Daily/2023-04-05.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md"
+                "file": "Daily/2023-04-05.md"
               }
             }
           },
@@ -167,45 +167,50 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5160abef2622e2bf",
+  "active": "fda42c98094d910b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
+    "Daily/2023-02-05.md",
+    "Daily/2023-01-23.md",
+    "Daily/2023-01-09.md",
+    "Daily/29.01.2023.md",
+    "Daily/2023-02-13.md",
+    "Daily/2023-04-05.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
-    "README.md",
+    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
+    "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
+    "DMNotes/Ravenloft Adventure/Фракции/Вечный орден.md",
+    "DMNotes/Ravenloft Adventure/Фракции/Северная торговая компания.md",
+    "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
+    "CoreNotes/Без названия.md",
+    "CoreNotes/00 Zettel.md",
+    "DMNotes/Ravenloft Adventure/Фракции",
+    "Daily/2023-03-03.md",
     "Templates/01 DMNote.md",
-    "DMNotes/Ravenloft Adventure/Акт 5/Без названия",
-    "Files/Структура здания.png",
-    "Files/Распределение опыта.png",
     "Files/Макет акта.png",
+    "Files/Распределение опыта.png",
+    "Files/Pasted image 20230303231127.png",
+    "Files/Структура здания.png",
     "Files/Испытания. Пример.png",
     "Files/Испытания. Макет.png",
-    "Files/Pasted image 20230303231127.png",
     "Files/Pasted image 20230303223252.png",
     "Files/Pasted image 20230303222523.png",
     "Files/Pasted image 20230303222518.png",
-    "Daily/29.01.2023.md",
-    "DMNotes/Ravenloft Adventure/Фракции/Северная торговая компания.md",
-    "DMNotes/Ravenloft Adventure/Фракции/Вечный орден.md",
-    "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
-    "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
-    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
-    "DMNotes/Ravenloft Adventure/Фракции",
+    "Без названия 1.canvas",
+    "CoreNotes/00 D&D.md",
+    "CoreNotes/Zen Zettel.md",
+    "CoreNotes/Untitled.md",
+    "CoreNotes/00 Книги.md",
+    "CoreNotes/Без названия 3.md",
+    "CoreNotes/00 Обучение.md",
+    "Templates/01 DefaultNote.md",
+    "Templates/01 BookTemplate.md",
+    "CoreNotes/Без названия 2.md",
+    "README.md",
+    "CoreNotes/Без названия 1.md",
     "DMNotes/Ravenloft Adventure/Акт 5",
     "DMNotes/Ravenloft Adventure",
     "DMNotes",
-    "CoreNotes/Без названия.md",
-    "CoreNotes/00 D&D.md",
-    "Без названия.canvas",
-    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
-    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf/ReadingList.md",
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "CoreNotes/Список книг на 2023.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/График.md",
-    "CoreNotes/Математика для Data Science и машинного обучения.md",
-    "CoreNotes/тест.md"
+    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
   ]
 }
