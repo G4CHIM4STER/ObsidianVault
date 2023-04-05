@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-04-05.md",
+                "file": "CoreNotes/Жизнь Core.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-04-05.md",
+                "file": "CoreNotes/Жизнь Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-04-05.md",
+                "file": "CoreNotes/Жизнь Core.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-04-05.md"
+                "file": "CoreNotes/Жизнь Core.md"
               }
             }
           },
@@ -169,20 +169,27 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
+    "CoreNotes/График.md",
+    "CoreNotes/Без названия.md",
+    "BookShelf/ReadingList.md",
+    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
+    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "Daily/2023-04-05.md",
+    "Daily/2023-02-13.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
     "Daily/2023-02-05.md",
     "Daily/2023-01-23.md",
     "Daily/2023-01-09.md",
     "Daily/29.01.2023.md",
-    "Daily/2023-02-13.md",
-    "Daily/2023-04-05.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
     "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
     "DMNotes/Ravenloft Adventure/Фракции/Вечный орден.md",
     "DMNotes/Ravenloft Adventure/Фракции/Северная торговая компания.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
-    "CoreNotes/Без названия.md",
     "CoreNotes/00 Zettel.md",
     "DMNotes/Ravenloft Adventure/Фракции",
     "Daily/2023-03-03.md",
@@ -201,13 +208,6 @@
     "CoreNotes/Zen Zettel.md",
     "CoreNotes/Untitled.md",
     "CoreNotes/00 Книги.md",
-    "CoreNotes/Без названия 3.md",
-    "CoreNotes/00 Обучение.md",
-    "Templates/01 DefaultNote.md",
-    "Templates/01 BookTemplate.md",
-    "CoreNotes/Без названия 2.md",
-    "README.md",
-    "CoreNotes/Без названия 1.md",
     "DMNotes/Ravenloft Adventure/Акт 5",
     "DMNotes/Ravenloft Adventure",
     "DMNotes",
