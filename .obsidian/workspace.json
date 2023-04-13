@@ -11,12 +11,8 @@
             "id": "fda42c98094d910b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-04-13.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-04-13.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2023-04-13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +160,10 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
+    "CoreNotes/Untitled.md",
     "CoreNotes/Без названия.md",
     "Daily/2023-04-13.md",
     "CoreNotes/Математика для Data Science и машинного обучения.md",
-    "CoreNotes/Untitled.md",
     "CoreNotes/Основы  Zettelkasten.md",
     "Daily/2023-02-13.md",
     "Daily/2023-02-05.md",
