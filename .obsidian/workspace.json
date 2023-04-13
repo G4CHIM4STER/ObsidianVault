@@ -11,13 +11,26 @@
             "id": "fda42c98094d910b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9d106a3b3357704",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf"
+                "file": "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
+                "file": "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
+                "file": "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf"
+                "file": "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf"
               }
             }
           },
@@ -164,12 +177,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "fda42c98094d910b",
+  "active": "b9d106a3b3357704",
   "lastOpenFiles": [
+    "BookShelf/Без названия.md",
+    "CoreNotes/{{coverUrl}}.md",
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "CoreNotes/Без названия.md",
+    "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
     "CoreNotes/План обучения 2023.md",
     "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "CoreNotes/Untitled.md",
-    "CoreNotes/Без названия.md",
     "Daily/2023-04-13.md",
     "CoreNotes/Математика для Data Science и машинного обучения.md",
     "CoreNotes/Основы  Zettelkasten.md",
@@ -177,22 +196,18 @@
     "Daily/2023-02-05.md",
     "Daily/29.01.2023.md",
     "BookShelf/ReadingList.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "CoreNotes/Список книг на 2023.md",
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Приоритеты.md",
     "CoreNotes/Жизнь Core.md",
     "CoreNotes/График.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "Daily/2023-04-05.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
     "Daily/2023-01-23.md",
     "Daily/2023-01-09.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
-    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
     "Files/Макет акта.png",
