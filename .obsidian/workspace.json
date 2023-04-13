@@ -11,8 +11,10 @@
             "id": "fda42c98094d910b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Files/Путь_Python_Черный_пояс_по_разработке.pdf"
+              }
             }
           },
           {
@@ -160,6 +166,8 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
+    "CoreNotes/План обучения 2023.md",
+    "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "CoreNotes/Untitled.md",
     "CoreNotes/Без названия.md",
     "Daily/2023-04-13.md",
@@ -174,7 +182,6 @@
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Приоритеты.md",
-    "CoreNotes/План обучения 2023.md",
     "CoreNotes/Жизнь Core.md",
     "CoreNotes/График.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
@@ -186,7 +193,6 @@
     "Daily/2023-01-09.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
-    "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
     "Files/Макет акта.png",
