@@ -7,7 +7,7 @@ publish: 2010-10
 total: 148
 isbn: 4871876691 9784871876698
 cover: http://books.google.com/books/content?id=lvKrcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-status: Прочитно
+status: Прочитано
 created: 2023-01-24 17:56:32
 updated: 2023-01-24 17:56:32
 category: Философия
