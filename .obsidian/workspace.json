@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/План обучения 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/План обучения 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/План обучения 2023.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/ReadingList.md"
+                "file": "CoreNotes/План обучения 2023.md"
               }
             }
           },
@@ -168,31 +168,32 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
-    "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
+    "CoreNotes/Список книг на 2023.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Основы  Zettelkasten.md",
+    "CoreNotes/Жизнь Core.md",
+    "CoreNotes/График.md",
+    "CoreNotes/{{coverUrl}}.md",
+    "README.md",
     "BookShelf/ReadingList.md",
+    "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "BookShelf/Без названия.md",
-    "CoreNotes/{{coverUrl}}.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes/Без названия.md",
     "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
-    "CoreNotes/План обучения 2023.md",
     "CoreNotes/Untitled.md",
     "Daily/2023-04-13.md",
     "CoreNotes/Математика для Data Science и машинного обучения.md",
-    "CoreNotes/Основы  Zettelkasten.md",
     "Daily/2023-02-13.md",
     "Daily/2023-02-05.md",
     "Daily/29.01.2023.md",
-    "CoreNotes/Список книг на 2023.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Приоритеты.md",
-    "CoreNotes/Жизнь Core.md",
-    "CoreNotes/График.md",
     "Daily/2023-04-05.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
