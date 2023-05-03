@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
+                "file": "CoreNotes/План обучения 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
+                "file": "CoreNotes/План обучения 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
+                "file": "CoreNotes/План обучения 2023.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md"
+                "file": "CoreNotes/План обучения 2023.md"
               }
             }
           },
@@ -150,16 +150,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Создать новый холст": false,
-      "switcher:Меню быстрого перехода": true,
+      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "daily-notes:Сегодняшняя заметка": true,
-      "templates:Вставить шаблон": true,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -169,35 +168,37 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/Приоритеты.md",
     "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Жизнь Core.md",
     "CoreNotes/График.md",
-    "CoreNotes/Без названия.md",
+    "CoreNotes/{{coverUrl}}.md",
+    "README.md",
     "BookShelf/ReadingList.md",
+    "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "Daily/2023-04-05.md",
+    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
+    "BookShelf/Без названия.md",
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "CoreNotes/Без названия.md",
+    "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
+    "CoreNotes/Untitled.md",
+    "Daily/2023-04-13.md",
+    "CoreNotes/Математика для Data Science и машинного обучения.md",
     "Daily/2023-02-13.md",
-    "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
     "Daily/2023-02-05.md",
-    "Daily/2023-01-23.md",
-    "Daily/2023-01-09.md",
     "Daily/29.01.2023.md",
+    "CoreNotes/Приоритеты.md",
+    "Daily/2023-04-05.md",
+    "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
-    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
-    "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
-    "DMNotes/Ravenloft Adventure/Фракции/Вечный орден.md",
-    "DMNotes/Ravenloft Adventure/Фракции/Северная торговая компания.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
-    "CoreNotes/00 Zettel.md",
     "DMNotes/Ravenloft Adventure/Фракции",
-    "Daily/2023-03-03.md",
     "Files/Макет акта.png",
     "Files/Распределение опыта.png",
     "Files/Pasted image 20230303231127.png",

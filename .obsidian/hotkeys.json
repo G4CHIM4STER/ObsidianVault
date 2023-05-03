@@ -7,5 +7,14 @@
       ],
       "key": "B"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
