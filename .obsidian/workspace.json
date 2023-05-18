@@ -11,12 +11,8 @@
             "id": "fda42c98094d910b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Список книг на 2023.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CoreNotes/Список книг на 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,11 +169,11 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
+    "CoreNotes/Список книг на 2023.md",
     "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "Daily/2023-04-13.md",
     "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Приоритеты.md",
     "CoreNotes/План обучения 2023.md",
