@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e69b78f5df2dbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/01 DiaryNote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,8 +196,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "082363cc1aa85a91",
+  "active": "4e69b78f5df2dbfd",
   "lastOpenFiles": [
+    "Templates/01 DefaultNote.md",
+    "CoreNotes/Без названия 1.md",
+    "Templates/01 DiaryNote.md",
     "CoreNotes/Без названия.md",
     "CoreNotes/202306271909.md",
     "Без названия.canvas",
@@ -212,9 +227,6 @@
     "Daily/2023-01-09.md",
     "Daily/29.01.2023.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
-    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
-    "DMNotes/Ravenloft Adventure/Фракции/Андивер Олор (Новый Путь).md",
-    "DMNotes/Ravenloft Adventure/Фракции/Вечный орден.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
     "Files/Макет акта.png",
