@@ -11,36 +11,15 @@
             "id": "fda42c98094d910b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "082363cc1aa85a91",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/01 DiaryNote.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e69b78f5df2dbfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/01 DiaryNote.md",
+                "file": "Daily/2023-02-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/01 DiaryNote.md",
+                "file": "Daily/2023-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/01 DiaryNote.md",
+                "file": "Daily/2023-02-13.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/01 DiaryNote.md"
+                "file": "Daily/2023-02-13.md"
               }
             }
           },
@@ -196,17 +175,21 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "4e69b78f5df2dbfd",
+  "active": "fda42c98094d910b",
   "lastOpenFiles": [
-    "Templates/01 DefaultNote.md",
-    "CoreNotes/Без названия 1.md",
+    "Daily/2023-04-05.md",
+    "Daily/2023-04-13.md",
+    "Daily/2023-02-05.md",
+    "Daily/2023-02-13.md",
+    "Daily/2023-01-23.md",
+    "Daily/27.06.23.md",
     "Templates/01 DiaryNote.md",
+    "Templates/01 DefaultNote.md",
     "CoreNotes/Без названия.md",
     "CoreNotes/202306271909.md",
     "Без названия.canvas",
     "CoreNotes/Список книг на 2023.md",
     "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
-    "Daily/2023-04-13.md",
     "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes/Цели на начало 23-ого года.md",
@@ -219,11 +202,7 @@
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "Daily/2023-04-05.md",
-    "Daily/2023-02-13.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
-    "Daily/2023-02-05.md",
-    "Daily/2023-01-23.md",
     "Daily/2023-01-09.md",
     "Daily/29.01.2023.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
