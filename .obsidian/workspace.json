@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "85fdf8f221200033"
+          }
+        ]
+      },
+      {
+        "id": "9cf48f76cbda62b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5717821edbeea81b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "85fdf8f221200033"
           }
         ]
       }
@@ -93,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/ReadingList.md"
+                "file": "CoreNotes/Цели на начало 23-ого года.md"
               }
             }
           },
@@ -154,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,8 +217,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "fda42c98094d910b",
   "lastOpenFiles": [
+    "CoreNotes/00 Цели.md",
+    "BookShelf/ReadingList.md",
     "Daily/2023-06-27.md",
     "Daily/2023-02-13.md",
     "Daily/2023-04-05.md",
@@ -200,10 +245,8 @@
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/Жизнь Core.md",
     "CoreNotes/График.md",
-    "BookShelf/ReadingList.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
