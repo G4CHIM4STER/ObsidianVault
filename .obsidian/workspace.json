@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "Daily 🗓/2023-06-27.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "85fdf8f221200033"
-          }
-        ]
-      },
-      {
-        "id": "9cf48f76cbda62b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5717821edbeea81b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "85fdf8f221200033"
+            }
           }
         ]
       }
@@ -109,7 +66,7 @@
             }
           },
           {
-            "id": "06b8bca71133cd6d",
+            "id": "861ce0c69b60344e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -136,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "Daily 🗓/2023-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "Daily 🗓/2023-06-27.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md"
+                "file": "Daily 🗓/2023-06-27.md"
               }
             }
           },
@@ -197,19 +154,20 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Создать новый холст": false,
-      "switcher:Меню быстрого перехода": true,
+      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "daily-notes:Сегодняшняя заметка": true,
-      "templates:Вставить шаблон": true,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -219,50 +177,48 @@
   },
   "active": "fda42c98094d910b",
   "lastOpenFiles": [
-    "CoreNotes/00 Цели.md",
-    "BookShelf/ReadingList.md",
-    "Daily/2023-06-27.md",
-    "Daily/2023-02-13.md",
-    "Daily/2023-04-05.md",
-    "Daily/2023-04-13.md",
-    "Templates/01 DiaryNote.md",
-    "Daily/Untitled.md",
-    "Templates/01 DefaultNote.md",
-    "Daily/2023-02-05.md",
-    "Daily/2023-01-09.md",
-    "Daily/29.01.2023.md",
-    "Daily/2023-01-23.md",
-    "Daily/27.06.23.md",
-    "CoreNotes/Без названия.md",
-    "CoreNotes/202306271909.md",
-    "Без названия.canvas",
-    "CoreNotes/Список книг на 2023.md",
-    "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
-    "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
-    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
+    "Daily 🗓/29.01.2023.md",
+    "Daily 🗓/2023-06-27.md",
+    "Daily 🗓/27.06.23.md",
+    "CoreNotes 📝/Список книг на 2023.md",
+    "BookShelf 📚/ReadingList.md",
+    "Daily 🗓/2023-04-05.md",
+    "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
+    "Daily 🗓/2023-04-13.md",
+    "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
+    "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "CoreNotes 📝/Цели на начало 23-ого года.md",
     "CoreNotes/Приоритеты.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Жизнь Core.md",
+    "CoreNotes 📝/План обучения 2023.md",
+    "CoreNotes 📝/Жизнь Core.md",
     "CoreNotes/График.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "CoreNotes/Без названия.md",
+    "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
+    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
+    "Daily 🗓/2023-02-13.md",
+    "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
+    "Daily 🗓/2023-02-05.md",
+    "Daily 🗓/2023-01-23.md",
+    "Daily 🗓/2023-01-09.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
+    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
-    "Files/Макет акта.png",
-    "Files/Распределение опыта.png",
-    "Files/Pasted image 20230303231127.png",
-    "Files/Структура здания.png",
-    "Files/Испытания. Пример.png",
-    "Files/Испытания. Макет.png",
-    "Files/Pasted image 20230303223252.png",
-    "Files/Pasted image 20230303222523.png",
-    "Files/Pasted image 20230303222518.png",
+    "Files 🗂/Макет акта.png",
+    "Files 🗂/Распределение опыта.png",
+    "Files 🗂/Pasted image 20230303231127.png",
+    "Files 🗂/Структура здания.png",
+    "Files 🗂/Испытания. Пример.png",
+    "Files 🗂/Испытания. Макет.png",
+    "Files 🗂/Pasted image 20230303223252.png",
+    "Files 🗂/Pasted image 20230303222523.png",
+    "Files 🗂/Pasted image 20230303222518.png",
     "Без названия 1.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5",
     "DMNotes/Ravenloft Adventure",
     "DMNotes",
-    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
+    "Files 🗂/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
   ]
 }
