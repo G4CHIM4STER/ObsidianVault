@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily 🗓/2023-02-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db55dd1ce58e9230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
+                "file": "CoreNotes 📝/Цели на начало 23-ого года.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "CoreNotes 📝/Цели на начало 23-ого года.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "CoreNotes 📝/Цели на начало 23-ого года.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "CoreNotes 📝/Цели на начало 23-ого года.md"
               }
             }
           },
@@ -188,10 +175,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "db55dd1ce58e9230",
+  "active": "fda42c98094d910b",
   "lastOpenFiles": [
-    "Daily 🗓/2023-02-13.md",
+    "Daily 🗓/2023-07-29.md",
     "Без названия.md",
+    "Daily 🗓/2023-02-13.md",
     "Daily 🗓/2023-06-27.md",
     "Daily 🗓/2023-01-09.md",
     "Daily 🗓/2023-01-23.md",
@@ -217,7 +205,6 @@
     "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
-    "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
     "Files 🗂/Макет акта.png",
