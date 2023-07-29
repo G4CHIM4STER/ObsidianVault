@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily 🗓/2023-01-09.md",
+                "file": "Daily 🗓/2023-02-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db55dd1ce58e9230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily 🗓/2023-01-09.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily 🗓/2023-01-09.md",
+                "file": "Без названия.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily 🗓/2023-01-09.md"
+                "file": "Без названия.md"
               }
             }
           },
@@ -175,14 +188,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "fda42c98094d910b",
+  "active": "db55dd1ce58e9230",
   "lastOpenFiles": [
+    "Daily 🗓/2023-02-13.md",
+    "Без названия.md",
+    "Daily 🗓/2023-06-27.md",
+    "Daily 🗓/2023-01-09.md",
     "Daily 🗓/2023-01-23.md",
     "Daily 🗓/2023-02-05.md",
-    "Daily 🗓/2023-02-13.md",
     "Daily 🗓/2023-04-05.md",
     "Daily 🗓/2023-04-13.md",
-    "Daily 🗓/2023-06-27.md",
     "Daily 🗓/29.01.2023.md",
     "Daily 🗓/27.06.23.md",
     "CoreNotes 📝/Список книг на 2023.md",
@@ -201,7 +216,6 @@
     "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Эпизод 1.md",
-    "Daily 🗓/2023-01-09.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Каранос.md",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
