@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "82bd4449b124b72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2bfe1c15b3ea7d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fda42c98094d910b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily 🗓/2023-01-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8133009800f3f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правка лаб.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9609d69abc1c4854",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b6e228924713b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b848dd7327860d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "251ae2b1ce60cc98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e213195f35211d68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "861ce0c69b60344e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc0a8fc6e04f7776",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1c209668b6dd64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32c8b8536fb5625",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Правка лаб.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4714aab4e21a108a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Правка лаб.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2df7c666ca3e2ddd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f710f9befc6c60bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Правка лаб.md"
+              }
+            }
+          },
+          {
+            "id": "de08cd5ae76d5f86",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e100c8c3511243d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "c8133009800f3f4e",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Правка лаб.md",
+    "Daily 🗓/2023-07-29.md",
+    "Daily 🗓/2023-01-09.md",
+    "Daily 🗓/2023-01-23.md",
+    "Daily 🗓/2023-02-05.md",
+    "Daily 🗓/2023-02-13.md",
+    "Daily 🗓/2023-04-05.md",
+    "Daily 🗓/2023-04-13.md",
+    "Daily 🗓/2023-06-27.md",
+    "Daily 🗓/29.01.2023.md",
+    "Daily 🗓/27.06.23.md",
+    "CoreNotes 📝/Список книг на 2023.md",
+    "BookShelf 📚/ReadingList.md",
+    "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
+    "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
+    "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "CoreNotes 📝/Цели на начало 23-ого года.md",
+    "CoreNotes/Приоритеты.md",
+    "CoreNotes 📝/План обучения 2023.md",
+    "CoreNotes 📝/Жизнь Core.md",
+    "CoreNotes/График.md",
+    "CoreNotes/Без названия.md",
+    "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
+    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
+    "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
+    "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
+    "DMNotes/Ravenloft Adventure/Фракции",
+    "Files 🗂/Макет акта.png",
+    "Files 🗂/Распределение опыта.png",
+    "Files 🗂/Pasted image 20230303231127.png",
+    "Files 🗂/Структура здания.png",
+    "Files 🗂/Испытания. Пример.png",
+    "Files 🗂/Испытания. Макет.png",
+    "Files 🗂/Pasted image 20230303223252.png",
+    "Files 🗂/Pasted image 20230303222523.png",
+    "Files 🗂/Pasted image 20230303222518.png",
+    "Без названия 1.canvas",
+    "DMNotes/Ravenloft Adventure/Акт 5",
+    "DMNotes/Ravenloft Adventure",
+    "DMNotes",
+    "Files 🗂/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf"
+  ]
+}
