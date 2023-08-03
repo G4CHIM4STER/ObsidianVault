@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2bfe1c15b3ea7d1",
+        "id": "a1c9482c49f7c4ee",
         "type": "tabs",
         "children": [
           {
-            "id": "fda42c98094d910b",
+            "id": "554d092fc52d0635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily 🗓/2023-01-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8133009800f3f4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Правка лаб.md",
+                "file": "CoreNotes 📝/Правка лаб.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Правка лаб.md",
+                "file": "CoreNotes 📝/Правка лаб.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Правка лаб.md",
+                "file": "CoreNotes 📝/Правка лаб.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Правка лаб.md"
+                "file": "CoreNotes 📝/Правка лаб.md"
               }
             }
           },
@@ -188,12 +175,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c8133009800f3f4e",
+  "active": "7b848dd7327860d0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Правка лаб.md",
-    "Daily 🗓/2023-07-29.md",
     "Daily 🗓/2023-01-09.md",
+    "00 Moodle.md",
+    "CoreNotes 📝/Правка лаб.md",
+    "conflict-files-obsidian-git.md",
+    "Daily 🗓/2023-07-29.md",
     "Daily 🗓/2023-01-23.md",
     "Daily 🗓/2023-02-05.md",
     "Daily 🗓/2023-02-13.md",
@@ -216,7 +204,6 @@
     "CoreNotes/Без названия.md",
     "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
