@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ffcb03e31ec103e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +186,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "4ffcb03e31ec103e",
   "lastOpenFiles": [
     "Daily 🗓/2023-01-09.md",
-    "00 Moodle.md",
+    "CoreNotes 📝/00 Moodle.md",
     "CoreNotes 📝/Правка лаб.md",
     "conflict-files-obsidian-git.md",
     "Daily 🗓/2023-07-29.md",
