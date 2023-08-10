@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "4ffcb03e31ec103e",
+            "id": "47a24122b7c25fdd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "ВТБ. Инструкция.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Правка лаб.md",
+                "file": "ВТБ. Инструкция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Правка лаб.md",
+                "file": "ВТБ. Инструкция.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Правка лаб.md"
+                "file": "ВТБ. Инструкция.md"
               }
             }
           },
@@ -186,11 +188,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "4ffcb03e31ec103e",
+  "active": "47a24122b7c25fdd",
   "lastOpenFiles": [
+    "CoreNotes 📝/Правка лаб.md",
+    "ВТБ. Инструкция.md",
+    "Правка лаб 1.pdf",
+    "Правка лаб.pdf",
     "Daily 🗓/2023-01-09.md",
     "CoreNotes 📝/00 Moodle.md",
-    "CoreNotes 📝/Правка лаб.md",
     "conflict-files-obsidian-git.md",
     "Daily 🗓/2023-07-29.md",
     "Daily 🗓/2023-01-23.md",
@@ -214,7 +219,6 @@
     "CoreNotes/График.md",
     "CoreNotes/Без названия.md",
     "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
