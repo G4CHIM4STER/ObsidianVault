@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e8f1345e27ca379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wiki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ВТБ. Инструкция.md",
+                "file": "Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ВТБ. Инструкция.md",
+                "file": "Wiki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВТБ. Инструкция.md"
+                "file": "Wiki.md"
               }
             }
           },
@@ -188,10 +200,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "47a24122b7c25fdd",
+  "active": "9e8f1345e27ca379",
   "lastOpenFiles": [
-    "CoreNotes 📝/Правка лаб.md",
     "ВТБ. Инструкция.md",
+    "Wiki.md",
+    "CoreNotes 📝/Правка лаб.md",
     "Правка лаб 1.pdf",
     "Правка лаб.pdf",
     "Daily 🗓/2023-01-09.md",
@@ -218,7 +231,6 @@
     "CoreNotes 📝/Жизнь Core.md",
     "CoreNotes/График.md",
     "CoreNotes/Без названия.md",
-    "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "DMNotes/Ravenloft Adventure/Фракции",
