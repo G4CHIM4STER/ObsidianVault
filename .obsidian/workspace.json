@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cf643c738bc6f4e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily 🗓/2023-08-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily 🗓/2023-08-21.md",
+                "file": "CoreNotes 📝/ВТБ. Инструкция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily 🗓/2023-08-21.md",
+                "file": "CoreNotes 📝/ВТБ. Инструкция.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily 🗓/2023-08-21.md"
+                "file": "CoreNotes 📝/ВТБ. Инструкция.md"
               }
             }
           },
@@ -188,10 +175,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cf643c738bc6f4e9",
+  "active": "fda42c98094d910b",
   "lastOpenFiles": [
-    "Без названия.md",
     "Daily 🗓/2023-08-21.md",
+    "Daily 🗓/2023-01-09.md",
+    "Daily 🗓/29.01.2023.md",
+    "Daily 🗓/2023-01-23.md",
+    "Без названия.md",
     "CoreNotes 📝/Пентест.md",
     "CoreNotes 📝/ВТБ. Инструкция.md",
     "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
@@ -202,12 +192,9 @@
     "Daily 🗓/2023-07-29.md",
     "Daily 🗓/2023-02-13.md",
     "Daily 🗓/2023-06-27.md",
-    "Daily 🗓/2023-01-09.md",
-    "Daily 🗓/2023-01-23.md",
     "Daily 🗓/2023-02-05.md",
     "Daily 🗓/2023-04-05.md",
     "Daily 🗓/2023-04-13.md",
-    "Daily 🗓/29.01.2023.md",
     "Daily 🗓/27.06.23.md",
     "CoreNotes 📝/Список книг на 2023.md",
     "BookShelf 📚/ReadingList.md",
