@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/Цели на начало 23-ого года.md",
+                "file": "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Цели на начало 23-ого года.md",
+                "file": "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Цели на начало 23-ого года.md",
+                "file": "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Цели на начало 23-ого года.md"
+                "file": "CoreNotes 📝/Wiki. Описание инфраструктуры.md"
               }
             }
           },
@@ -175,8 +175,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "fda42c98094d910b",
   "lastOpenFiles": [
+    "CoreNotes 📝/Цели на начало 23-ого года.md",
     "CoreNotes 📝/ВТБ. Инструкция.md",
     "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
     "CoreNotes 📝/Правка лаб.md",
@@ -198,7 +199,6 @@
     "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "CoreNotes 📝/Цели на начало 23-ого года.md",
     "CoreNotes/Приоритеты.md",
     "CoreNotes 📝/План обучения 2023.md",
     "CoreNotes 📝/Жизнь Core.md",
