@@ -20,7 +20,7 @@ TABLE WITHOUT ID
 	link(file.link, title) as Название,
 	author as Автор,
 	category as Жанр
-FROM #📚Book
+FROM #📚Book 
 WHERE !contains(file.path, "Templates")
 SORT status DESC, file.ctime ASC
 ```
