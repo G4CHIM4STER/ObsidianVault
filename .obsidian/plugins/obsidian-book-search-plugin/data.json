@@ -1,11 +1,11 @@
 {
-  "folder": "BookShelf",
+  "folder": "BookShelf 📚",
   "fileNameFormat": "",
   "frontmatter": "",
   "content": "",
   "useDefaultFrontmatter": true,
   "defaultFrontmatterKeyType": "Camel Case",
-  "templateFile": "Templates/01 BookTemplate.md",
+  "templateFile": "Templates 🗄/01 BookTemplate.md",
   "serviceProvider": "google",
   "naverClientId": "",
   "naverClientSecret": "",

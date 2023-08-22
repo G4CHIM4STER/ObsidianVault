@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de4033e63394be3c",
+            "id": "a2f99a4fe68f7f1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md"
+                "file": "BookShelf 📚/ReadingList.md"
               }
             }
           },
@@ -175,16 +175,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "de4033e63394be3c",
+  "active": "a2f99a4fe68f7f1b",
   "lastOpenFiles": [
-    "BookShelf 📚/Без названия.md",
+    "BookShelf 📚/Kali Linux библия пентестера - Хаваджа Гас.md",
+    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "BookShelf 📚/ReadingList.md",
     "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf 📚/Без названия.md",
     "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf 📚/ReadingList.md",
     "{{coverUrl}}.md",
     "CoreNotes 📝/ВТБ. Инструкция.md",
     "Daily 🗓/2023-08-21.md",
@@ -202,7 +203,6 @@
     "Daily 🗓/2023-02-13.md",
     "Daily 🗓/2023-06-27.md",
     "Daily 🗓/2023-02-05.md",
-    "Daily 🗓/2023-04-05.md",
     "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",

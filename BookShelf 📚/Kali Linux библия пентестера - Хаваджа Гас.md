@@ -1,0 +1,25 @@
+---
+tag: 📚Book
+title: "Kali Linux: библия пентестера"
+author: [Хаваджа Гас]
+publisher: "Издательский дом ""Питер"""
+publish: 2022-07-26
+total: 496
+isbn: 5446129717 9785446129713
+cover: http://books.google.com/books/content?id=L2GFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+status: Читаю
+created: 2023-08-22 13:19:54
+updated: 2023-08-22 13:19:54
+category: Computers
+---
+
+![cover|150](http://books.google.com/books/content?id=L2GFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+
+# Kali Linux: библия пентестера
+
+___
+### Zero-Links
+- [[00 Книги]]
+
+### Links
+-
