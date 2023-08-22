@@ -10,7 +10,7 @@ cover: http://books.google.com/books/content?id=L2GFEAAAQBAJ&printsec=frontcover
 status: Читаю
 created: 2023-08-22 13:19:54
 updated: 2023-08-22 13:19:54
-category: Computers
+category: Сети, Pentest
 ---
 
 ![cover|150](http://books.google.com/books/content?id=L2GFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
