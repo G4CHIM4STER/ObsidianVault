@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Безопасность контейнеров от Exec.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров от Exec.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Безопасность контейнеров от Exec.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров от Exec.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Безопасность контейнеров от Exec.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров от Exec.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Безопасность контейнеров от Exec.md"
+                "file": "CoreNotes 📝/Безопасность контейнеров от Exec.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f1e4df1cc172c622",
+  "active": "7b848dd7327860d0",
   "lastOpenFiles": [
     "CoreNotes 📝/Безопасность контейнеров.md",
-    "Безопасность контейнеров от Exec.md",
+    "CoreNotes 📝/Безопасность контейнеров от Exec.md",
     "BookShelf 📚/ReadingList.md",
     "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf 📚/Использование Docker - Эдриен Моуэт.md",
