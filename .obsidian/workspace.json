@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Links/00 Книги.md",
+                "file": "CoreNotes 📝/Описание инфраструктуры.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Links/00 Книги.md",
+                "file": "CoreNotes 📝/Описание инфраструктуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Links/00 Книги.md",
+                "file": "CoreNotes 📝/Описание инфраструктуры.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Links/00 Книги.md"
+                "file": "CoreNotes 📝/Описание инфраструктуры.md"
               }
             }
           },
@@ -175,12 +175,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "fd3415f9f5c7e449",
   "lastOpenFiles": [
+    "0-Links/00 Книги.md",
     "0-Links/00 ВТБ.md",
     "0-Links/00 Wiki.md",
     "0-Links",
-    "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
+    "CoreNotes 📝/Описание инфраструктуры.md",
     "CoreNotes 📝/Цели на начало 23-ого года.md",
     "CoreNotes 📝/Zen Zettel.md",
     "CoreNotes 📝/Инструкция.md",
