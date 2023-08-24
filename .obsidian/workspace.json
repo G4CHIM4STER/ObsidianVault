@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "Zero-Links/00  СОИБ.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пермь. 24.08.md",
+                "file": "CoreNotes 📝/Пермь. 24.08.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "CoreNotes 📝/Пермь. 24.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "CoreNotes 📝/Пермь. 24.08.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md"
+                "file": "CoreNotes 📝/Пермь. 24.08.md"
               }
             }
           },
@@ -165,8 +167,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,11 +188,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "fd3415f9f5c7e449",
+  "active": "7a792250d3cb39e3",
   "lastOpenFiles": [
-    "00  СОИБ.md",
+    "Zero-Links/00  СОИБ.md",
     "CoreNotes 📝/Краснодар. 24.08.md",
-    "Пермь. 24.08.md",
+    "CoreNotes 📝/Пермь. 24.08.md",
     "Files 🗂/Docker-Security-Cheatsheet_hp8lh3.pdf",
     "Без названия 1.md",
     "avatars-000411292317-dt2f28-t500x500.jpg",
