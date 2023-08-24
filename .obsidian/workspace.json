@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09fff9c3354b2c4e",
+        "id": "60a0651d767e1f15",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f99a4fe68f7f1b",
+            "id": "fd3415f9f5c7e449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/ВТБ. Инструкция.md",
+                "file": "0-Links/00 Книги.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/ВТБ. Инструкция.md",
+                "file": "0-Links/00 Книги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/ВТБ. Инструкция.md",
+                "file": "0-Links/00 Книги.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/ВТБ. Инструкция.md"
+                "file": "0-Links/00 Книги.md"
               }
             }
           },
@@ -175,18 +175,23 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a2f99a4fe68f7f1b",
+  "active": "7b848dd7327860d0",
   "lastOpenFiles": [
-    "00 ВТБ.md",
-    "CoreNotes 📝/ВТБ. Инструкция.md",
+    "0-Links/00 ВТБ.md",
+    "0-Links/00 Wiki.md",
+    "0-Links",
+    "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
+    "CoreNotes 📝/Цели на начало 23-ого года.md",
+    "CoreNotes 📝/Zen Zettel.md",
+    "CoreNotes 📝/Инструкция.md",
+    "CoreNotes 📝/Жизнь Core.md",
     "CoreNotes 📝/Математика для Data Science и машинного обучения.md",
-    "CoreNotes 📝/00 Pentest.md",
+    "0-Links/00 Pentest.md",
     "Docker. Безопасность.md",
     "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes 📝/Пентест.md",
     "CoreNotes 📝/План обучения 2023.md",
     "CoreNotes 📝/Правка лаб.md",
-    "CoreNotes 📝/Wiki. Описание инфраструктуры.md",
     "Untitled 1.md",
     "Daily 🗓/2023-08-24.md",
     "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
@@ -198,11 +203,6 @@
     "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf 📚/Без названия.md",
     "{{coverUrl}}.md",
-    "Daily 🗓/2023-08-21.md",
-    "Daily 🗓/2023-01-09.md",
-    "Daily 🗓/29.01.2023.md",
-    "Daily 🗓/2023-01-23.md",
-    "CoreNotes 📝/00 YSTS.md",
     "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
