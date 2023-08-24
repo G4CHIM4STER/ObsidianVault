@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
+                "file": "Краснодар. 24.08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a792250d3cb39e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пермь. 24.08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
+                "file": "Краснодар. 24.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
+                "file": "Краснодар. 24.08.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md"
+                "file": "Краснодар. 24.08.md"
               }
             }
           },
@@ -175,13 +187,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "fd3415f9f5c7e449",
+  "active": "7b848dd7327860d0",
   "lastOpenFiles": [
-    "Pasted image 20230824121956.png",
-    "Docker-Security-Cheatsheet_hp8lh3.pdf",
+    "Пермь. 24.08.md",
+    "Краснодар. 24.08.md",
+    "Files 🗂/Docker-Security-Cheatsheet_hp8lh3.pdf",
+    "Без названия 1.md",
     "avatars-000411292317-dt2f28-t500x500.jpg",
-    "Zero-Links/00 Безопасность.md",
     "CoreNotes 📝/Безопасность контейнеров.md",
+    "Files 🗂/Pasted image 20230824121956.png",
+    "Zero-Links/00 Безопасность.md",
     "Zero-Links/00 Docker.md",
     "CoreNotes 📝/Описание инфраструктуры.md",
     "Zero-Links/00 Книги.md",
@@ -204,8 +219,6 @@
     "BookShelf 📚/ReadingList.md",
     "BookShelf 📚/Kali Linux библия пентестера - Хаваджа Гас.md",
     "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
@@ -218,7 +231,6 @@
     "Files 🗂/Испытания. Макет.png",
     "Files 🗂/Pasted image 20230303223252.png",
     "Files 🗂/Pasted image 20230303222523.png",
-    "Files 🗂/Pasted image 20230303222518.png",
     "Без названия 1.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5",
     "DMNotes/Ravenloft Adventure",
