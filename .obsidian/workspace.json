@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/Описание инфраструктуры.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Описание инфраструктуры.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Описание инфраструктуры.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Описание инфраструктуры.md"
+                "file": "CoreNotes 📝/Безопасность контейнеров.md"
               }
             }
           },
@@ -177,18 +177,22 @@
   },
   "active": "fd3415f9f5c7e449",
   "lastOpenFiles": [
-    "0-Links/00 Книги.md",
-    "0-Links/00 ВТБ.md",
-    "0-Links/00 Wiki.md",
-    "0-Links",
+    "Docker-Security-Cheatsheet_hp8lh3.pdf",
+    "avatars-000411292317-dt2f28-t500x500.jpg",
+    "Zero-Links/00 Безопасность.md",
+    "CoreNotes 📝/Безопасность контейнеров.md",
+    "Zero-Links/00 Docker.md",
     "CoreNotes 📝/Описание инфраструктуры.md",
+    "Zero-Links/00 Книги.md",
+    "Zero-Links/00 ВТБ.md",
+    "Zero-Links/00 Wiki.md",
+    "Zero-Links",
     "CoreNotes 📝/Цели на начало 23-ого года.md",
     "CoreNotes 📝/Zen Zettel.md",
     "CoreNotes 📝/Инструкция.md",
     "CoreNotes 📝/Жизнь Core.md",
     "CoreNotes 📝/Математика для Data Science и машинного обучения.md",
-    "0-Links/00 Pentest.md",
-    "Docker. Безопасность.md",
+    "Zero-Links/00 Pentest.md",
     "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes 📝/Пентест.md",
     "CoreNotes 📝/План обучения 2023.md",
@@ -201,9 +205,6 @@
     "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
-    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "BookShelf 📚/Без названия.md",
-    "{{coverUrl}}.md",
     "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
