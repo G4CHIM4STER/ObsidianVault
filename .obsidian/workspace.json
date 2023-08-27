@@ -11,11 +11,9 @@
             "id": "2787612ac4182c28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
-                "mode": "source",
-                "source": false
+                "file": "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
+                "file": "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
+                "file": "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md"
+                "file": "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf"
               }
             }
           },
@@ -173,14 +171,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "2787612ac4182c28",
   "lastOpenFiles": [
+    "BookShelf 📚/Использование Docker - Эдриен Моуэт.md",
+    "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
+    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "CoreNotes 📝/Безопасность контейнеров.md",
     "CoreNotes 📝/Безопасность контейнеров от Exec.md",
     "BookShelf 📚/ReadingList.md",
     "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf 📚/Использование Docker - Эдриен Моуэт.md",
-    "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
     "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
     "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
@@ -206,9 +206,7 @@
     "CoreNotes 📝/Жизнь Core.md",
     "CoreNotes 📝/Математика для Data Science и машинного обучения.md",
     "Zero-Links/00 Pentest.md",
-    "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "CoreNotes 📝/Пентест.md",
-    "CoreNotes 📝/План обучения 2023.md",
     "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
