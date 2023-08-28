@@ -16,6 +16,7 @@ category: DevOps, Docker
 ![cover|150](http://books.google.com/books/content?id=54KzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Микросервисы и контейнеры Docker
+47 страница
 
 ___
 ### Zero-Links
