@@ -6,7 +6,6 @@
       {
         "id": "60a0651d767e1f15",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "2787612ac4182c28",
@@ -16,29 +15,6 @@
               "state": {
                 "file": "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf"
               }
-            }
-          },
-          {
-            "id": "5c21f2ffab9fa2cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "4ec1c97fb2760f89",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "beb984df25bc75c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -65,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
