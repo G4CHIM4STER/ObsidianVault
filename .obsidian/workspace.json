@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глава 1.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров в Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,13 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
+                "file": "CoreNotes 📝/Безопасность контейнеров в Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,23 +185,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2787612ac4182c28",
+  "active": "7b848dd7327860d0",
   "lastOpenFiles": [
-    "Глава 1.md",
-    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "CoreNotes 📝/Безопасность контейнеров.md",
+    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
+    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "Untitled.md",
     "Untitled 1.md",
     "Daily 🗓/2023-08-29.md",
