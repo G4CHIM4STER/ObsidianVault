@@ -11,8 +11,12 @@
             "id": "f1e4df1cc172c622",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md"
+              }
             }
           },
           {
@@ -145,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -165,7 +174,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7b848dd7327860d0",
+  "active": "f1e4df1cc172c622",
   "lastOpenFiles": [
     "docker-web.drawio",
     "Daily 🗓/2023-08-29.md",
