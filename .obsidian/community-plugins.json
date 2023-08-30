@@ -8,5 +8,6 @@
   "templater-obsidian",
   "obsidian-book-search-plugin",
   "obsidian-git",
-  "obsidian-sortable"
+  "obsidian-sortable",
+  "obsidian-checklist-plugin"
 ]
