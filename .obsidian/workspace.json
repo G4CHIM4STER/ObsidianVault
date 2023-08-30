@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Moodle. Замечания 30.08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Moodle. Замечания 30.08.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Moodle. Замечания 30.08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Moodle. Замечания 30.08.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zero-Links/00 Moodle.md"
+                "file": "Moodle. Замечания 30.08.md"
               }
             }
           },
@@ -221,13 +221,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "f32c8b8536fb5625",
+  "active": "01f375fcced14d1d",
   "lastOpenFiles": [
+    "Zero-Links/00 Moodle.md",
     "Moodle. Замечания 30.08.md",
     "Без названия.md",
     "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "CoreNotes 📝/Правка лаб.md",
-    "Zero-Links/00 Moodle.md",
     "Files 🗂/docker-web.drawio.png",
     "docker-web.drawio",
     "Daily 🗓/2023-08-29.md",
