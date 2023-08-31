@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Moodle. Замечания 30.08.md",
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,21 +53,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01f375fcced14d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moodle. Замечания 30.08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moodle. Замечания 30.08.md",
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moodle. Замечания 30.08.md",
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moodle. Замечания 30.08.md"
+                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md"
               }
             }
           },
@@ -198,6 +186,14 @@
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e211e527a80d7d0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -221,13 +217,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01f375fcced14d1d",
+  "active": "5b9be9d472029c5d",
   "lastOpenFiles": [
-    "Zero-Links/00 Moodle.md",
+    "CoreNotes 📝/Правка лаб.md",
+    "Zero-Links/00 Работа.md",
     "Moodle. Замечания 30.08.md",
+    "Zero-Links/00 Moodle.md",
     "Без названия.md",
     "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
-    "CoreNotes 📝/Правка лаб.md",
     "Files 🗂/docker-web.drawio.png",
     "docker-web.drawio",
     "Daily 🗓/2023-08-29.md",
@@ -237,7 +234,6 @@
     "Zero-Links/00 Универ.md",
     "Zero-Links/00 Статьи.md",
     "Zero-Links/00 Семья.md",
-    "Zero-Links/00 Работа.md",
     "Zero-Links/00 Продуктивность.md",
     "Zero-Links/00 Отношения.md",
     "Zero-Links/00 Обучение.md",
