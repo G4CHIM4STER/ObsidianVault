@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -46,16 +46,26 @@
             "id": "5b9be9d472029c5d",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf"
+              }
+            }
+          },
+          {
+            "id": "7de2c68925f5f1b4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md"
+                "file": "README.md"
               }
             }
           },
@@ -217,18 +227,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5b9be9d472029c5d",
+  "active": "7de2c68925f5f1b4",
   "lastOpenFiles": [
+    "CoreNotes 📝/Moodle. Замечания 30.08.md",
+    "Без названия.md",
+    "BookShelf 📚/ReadingList.md",
+    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
+    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
+    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "CoreNotes 📝/Правка лаб.md",
     "Zero-Links/00 Работа.md",
-    "Moodle. Замечания 30.08.md",
     "Zero-Links/00 Moodle.md",
-    "Без названия.md",
-    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "Files 🗂/docker-web.drawio.png",
     "docker-web.drawio",
     "Daily 🗓/2023-08-29.md",
-    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "Zero-Links/00 Цели.md",
     "Zero-Links/00 Фильмы.md",
     "Zero-Links/00 Универ.md",
@@ -246,7 +258,6 @@
     "Zero-Links/00 Python.md",
     "Zero-Links/00 Pentest.md",
     "Zero-Links/00 ML.md",
-    "Zero-Links/00 Linux.md",
     "Zero-Links",
     "Templates 🗄",
     "Files 🗂/Структура здания.png",
@@ -260,7 +271,6 @@
     "Files 🗂/Испытания. Макет.png",
     "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "Files 🗂/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
-    "Files 🗂/Гифт_Н_,_Берман_К_,_Деза_А_,_Георгиу_Г_Python_и_DevOps_Ключ_к_автоматизации.pdf",
     "Files 🗂/Pasted image 20230824121956.png",
     "Files 🗂/Pasted image 20230303231127.png",
     "Files 🗂/Pasted image 20230303223252.png",
