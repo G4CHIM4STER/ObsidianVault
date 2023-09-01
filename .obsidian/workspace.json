@@ -6,6 +6,7 @@
       {
         "id": "84c6ae2911e2b030",
         "type": "tabs",
+        "dimension": 83.15047021943573,
         "children": [
           {
             "id": "c31475d93b2c103b",
@@ -13,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,6 +61,7 @@
       {
         "id": "aef8ebaa63193113",
         "type": "tabs",
+        "dimension": 16.84952978056426,
         "children": [
           {
             "id": "fe63646bfbc6f716",
@@ -67,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "BookShelf 📚/ReadingList.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md"
+                "file": "BookShelf 📚/ReadingList.md"
               }
             }
           },
@@ -261,21 +263,23 @@
   },
   "active": "a039648771cd581e",
   "lastOpenFiles": [
+    "BookShelf 📚/1000 развивающих заданий для малышей от Синего трактора - Людмила Доманская.md",
+    "BookShelf 📚/ReadingList.md",
+    "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "README.md",
+    "Untitled.md",
+    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+    "00 Vera_Test.md",
     "Zero-Links/00 Docker.md",
     "CoreNotes 📝/Безопасность контейнеров.md",
     "asdsdf.md",
     "Zero-Links/00 Moodle.md",
-    "00 Vera_Test.md",
     "Zero-Links/00 Статьи.md",
     "Zero-Links/00 Универ.md",
-    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/00 Безопасность.md",
-    "Untitled.md",
     "Zero-Links/Без названия.md",
-    "README.md",
     "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "CoreNotes 📝/Moodle. Замечания 30.08.md",
-    "BookShelf 📚/ReadingList.md",
     "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "CoreNotes 📝/Правка лаб.md",
     "Zero-Links/00 Работа.md",
@@ -288,8 +292,6 @@
     "Zero-Links/00 Продуктивность.md",
     "Zero-Links/00 Отношения.md",
     "Zero-Links/00 Обучение.md",
-    "Zero-Links/00 Книги.md",
-    "Zero-Links/00 ВТБ.md",
     "Zero-Links",
     "Templates 🗄",
     "Files 🗂/Структура здания.png",
