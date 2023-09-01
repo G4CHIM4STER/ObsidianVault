@@ -4,64 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "84c6ae2911e2b030",
-        "type": "tabs",
-        "dimension": 83.15047021943573,
-        "children": [
-          {
-            "id": "c31475d93b2c103b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "BookShelf 📚/ReadingList.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "a039648771cd581e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BookShelf 📚/ReadingList.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "aef8ebaa63193113",
         "type": "tabs",
-        "dimension": 16.84952978056426,
         "children": [
           {
             "id": "fe63646bfbc6f716",
@@ -69,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BookShelf 📚/ReadingList.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf 📚/ReadingList.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf 📚/ReadingList.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -211,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BookShelf 📚/ReadingList.md"
-              }
+              "state": {}
             }
           },
           {
@@ -261,11 +200,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a039648771cd581e",
+  "active": "fe63646bfbc6f716",
   "lastOpenFiles": [
-    "BookShelf 📚/1000 развивающих заданий для малышей от Синего трактора - Людмила Доманская.md",
-    "BookShelf 📚/ReadingList.md",
+    "Files 🗂/Asyncio и конкурентное программирование на Python [2022] Фаулер Мэтью.pdf",
+    "Files 🗂/Макет акта.png",
     "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "BookShelf 📚/ReadingList.md",
+    "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
+    "BookShelf 📚/От женщины о женщинах для женщин (сборник) - Анна Маг.md",
+    "BookShelf 📚/1000 развивающих заданий для малышей от Синего трактора - Людмила Доманская.md",
     "README.md",
     "Untitled.md",
     "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
@@ -289,16 +232,12 @@
     "Zero-Links/00 Цели.md",
     "Zero-Links/00 Фильмы.md",
     "Zero-Links/00 Семья.md",
-    "Zero-Links/00 Продуктивность.md",
-    "Zero-Links/00 Отношения.md",
-    "Zero-Links/00 Обучение.md",
     "Zero-Links",
     "Templates 🗄",
     "Files 🗂/Структура здания.png",
     "Files 🗂/Распределение опыта.png",
     "Files 🗂/Путь_Python_Черный_пояс_по_разработке.pdf",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
-    "Files 🗂/Макет акта.png",
     "Files 🗂/Клейнберг Дж. Алгоритмы разработка и применение.pdf",
     "Files 🗂/Классические_задачи_Computer_Science_на_языке_Python_2020_Копец.pdf",
     "Files 🗂/Испытания. Пример.png",
