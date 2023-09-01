@@ -4,68 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3f18bc3690a2d8ee",
+        "id": "0a814edabc84549a",
         "type": "tabs",
         "children": [
           {
-            "id": "c841d266d37e7d53",
+            "id": "1e3e7b1cc251fa0e",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "5b9be9d472029c5d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf"
-              }
-            }
-          },
-          {
-            "id": "7de2c68925f5f1b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,12 +174,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7de2c68925f5f1b4",
+  "active": "7b848dd7327860d0",
   "lastOpenFiles": [
+    "README.md",
+    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "CoreNotes 📝/Moodle. Замечания 30.08.md",
     "Без названия.md",
     "BookShelf 📚/ReadingList.md",
-    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "CoreNotes 📝/Правка лаб.md",
@@ -256,8 +204,6 @@
     "Zero-Links/00 YSTS.md",
     "Zero-Links/00 Wiki.md",
     "Zero-Links/00 Python.md",
-    "Zero-Links/00 Pentest.md",
-    "Zero-Links/00 ML.md",
     "Zero-Links",
     "Templates 🗄",
     "Files 🗂/Структура здания.png",
