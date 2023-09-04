@@ -4,46 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cea7087103f5eae7",
+        "id": "1a5a9b6b95880e7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9978100e502f4b6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977761024,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "e1f4ee5d1f2bbf0d",
+            "id": "73c85432860deb34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,47 +17,22 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "eba70e358066b94a"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "1a5a9b6b95880e7e",
+        "id": "6422588666e0c32d",
         "type": "tabs",
         "children": [
           {
-            "id": "7bafed780c6ce636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "558a890d9e1d4628"
-          },
-          {
-            "id": "78dae528218e6cfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efc9da1ded6724f7",
+            "id": "2124e73442413e42",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md",
+                "file": "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,11 +56,23 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": true
+                  "close": false
                 }
               }
             },
-            "group": "558a890d9e1d4628"
+            "group": "eba70e358066b94a"
+          },
+          {
+            "id": "e6ae33657f0df6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -197,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md"
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md"
               }
             }
           },
@@ -271,15 +223,17 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "78dae528218e6cfb",
+  "active": "e6ae33657f0df6c0",
   "lastOpenFiles": [
     "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes 📝/Moodle. Замечания 30.08.md",
     "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md",
+    "Без названия.md",
+    "Zero-Links/00 Moodle.md",
     "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/00 Docker.md",
     "CoreNotes 📝/Безопасность контейнеров в Linux.md",
-    "Без названия.md",
     "CoreNotes 📝/Безопасность контейнеров от Exec.md",
     "CoreNotes 📝/Безопасность контейнеров.md",
     "CoreNotes 📝/Пермь. 24.08.md",
