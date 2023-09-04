@@ -4,66 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aef8ebaa63193113",
+        "id": "f4a90b46c826f6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fe63646bfbc6f716",
+            "id": "7e1fac2540104d2e",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "f3f24b343fc14a6d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Files 🗂/Испытания. Макет.png"
-              }
-            }
-          },
-          {
-            "id": "dafbeb4de19e7e66",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
+                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png",
+                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png",
+                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png"
+                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md"
               }
             }
           },
@@ -226,8 +182,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "dafbeb4de19e7e66",
+  "active": "7e1fac2540104d2e",
   "lastOpenFiles": [
+    "Files 🗂/Испытания. Макет.png",
     "Files 🗂/Испытания. Пример.png",
     "BookShelf 📚/ReadingList.md",
     "Files 🗂/Asyncio и конкурентное программирование на Python [2022] Фаулер Мэтью.pdf",
@@ -267,7 +224,6 @@
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
     "Files 🗂/Клейнберг Дж. Алгоритмы разработка и применение.pdf",
     "Files 🗂/Классические_задачи_Computer_Science_на_языке_Python_2020_Копец.pdf",
-    "Files 🗂/Испытания. Макет.png",
     "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "Files 🗂/Pasted image 20230824121956.png",
     "Files 🗂/Pasted image 20230303231127.png",
