@@ -19,8 +19,33 @@
               }
             },
             "group": "558a890d9e1d4628"
+          },
+          {
+            "id": "7cc6a39037833188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Безопасность Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab845d12da98e655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes 📝/Безопасность контейнеров в Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a5a9b6b95880e7e",
@@ -136,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "Безопасность Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "Безопасность Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md"
+                "file": "Безопасность Linux.md"
               }
             }
           },
@@ -210,8 +235,12 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "7bafed780c6ce636",
+  "active": "7cc6a39037833188",
   "lastOpenFiles": [
+    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
+    "Безопасность Linux.md",
+    "Без названия.md",
+    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/00 Linux.md",
     "Daily 🗓/2023-09-04.md"
   ]
