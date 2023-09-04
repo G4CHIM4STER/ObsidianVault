@@ -4,11 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "d40c222e7a2458f9",
+        "id": "cea7087103f5eae7",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc6a39037833188",
+            "id": "c9978100e502f4b6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4019828977761024,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e1f4ee5d1f2bbf0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +54,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1a5a9b6b95880e7e",
@@ -44,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "file": "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +122,8 @@
             },
             "group": "558a890d9e1d4628"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,18 +271,19 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "7cc6a39037833188",
+  "active": "e1f4ee5d1f2bbf0d",
   "lastOpenFiles": [
-    "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md",
-    "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md",
+    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+    "Zero-Links/00 Docker.md",
+    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "Без названия.md",
     "CoreNotes 📝/Безопасность контейнеров от Exec.md",
-    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "CoreNotes 📝/Безопасность контейнеров.md",
     "CoreNotes 📝/Пермь. 24.08.md",
     "CoreNotes 📝/План обучения 2023.md",
-    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/00 Повышение безопасности.md",
     "Без названия 1.md",
     "Zero-Links/00 Linux.md",
