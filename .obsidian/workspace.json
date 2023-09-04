@@ -4,66 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "aef8ebaa63193113",
+        "id": "60a0651d767e1f15",
         "type": "tabs",
         "children": [
           {
-            "id": "fe63646bfbc6f716",
+            "id": "2787612ac4182c28",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "pdf",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf"
               }
             }
           },
           {
-            "id": "f3f24b343fc14a6d",
+            "id": "922a82f0b929fcbd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png"
+                "file": "CoreNotes 📝/Безопасность контейнеров от Exec.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "dafbeb4de19e7e66",
+            "id": "914ab932a8ad5d5c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "CoreNotes 📝/Безопасность контейнеров.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f551b5d94ba13e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-04.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png",
+                "file": "2023-09-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png",
+                "file": "2023-09-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +168,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files 🗂/Испытания. Макет.png"
+                "file": "2023-09-04.md"
               }
+            }
+          },
+          {
+            "id": "de08cd5ae76d5f86",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -186,22 +185,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "aaa38d00008afa34",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e211e527a80d7d0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -226,55 +209,56 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "dafbeb4de19e7e66",
+  "active": "f551b5d94ba13e82",
   "lastOpenFiles": [
-    "Files 🗂/Испытания. Пример.png",
-    "BookShelf 📚/ReadingList.md",
-    "Files 🗂/Asyncio и конкурентное программирование на Python [2022] Фаулер Мэтью.pdf",
-    "Files 🗂/Макет акта.png",
-    "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf 📚/От женщины о женщинах для женщин (сборник) - Анна Маг.md",
-    "BookShelf 📚/1000 развивающих заданий для малышей от Синего трактора - Людмила Доманская.md",
-    "README.md",
-    "Untitled.md",
+    "Daily 🗓/2023-09-04.md",
+    "2023-09-04.md",
     "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
-    "00 Vera_Test.md",
-    "Zero-Links/00 Docker.md",
-    "CoreNotes 📝/Безопасность контейнеров.md",
-    "asdsdf.md",
-    "Zero-Links/00 Moodle.md",
-    "Zero-Links/00 Статьи.md",
-    "Zero-Links/00 Универ.md",
-    "Zero-Links/00 Безопасность.md",
     "Zero-Links/Без названия.md",
-    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
-    "CoreNotes 📝/Moodle. Замечания 30.08.md",
-    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
-    "CoreNotes 📝/Правка лаб.md",
-    "Zero-Links/00 Работа.md",
     "Files 🗂/docker-web.drawio.png",
+    "CoreNotes 📝/Moodle. Замечания 30.08.md",
+    "BookShelf 📚/От женщины о женщинах для женщин (сборник) - Анна Маг.md",
+    "CoreNotes 📝/Безопасность контейнеров.md",
+    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
+    "CoreNotes 📝/Безопасность контейнеров от Exec.md",
+    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "docker-web.drawio",
+    "CoreNotes 📝/Untitled.md",
+    "CoreNotes 📝/Правка лаб.md",
+    "CoreNotes 📝/Инструкция.md",
+    "Без названия.md",
+    "Untitled 1.md",
     "Daily 🗓/2023-08-29.md",
-    "Zero-Links/00 Цели.md",
-    "Zero-Links/00 Фильмы.md",
-    "Zero-Links/00 Семья.md",
-    "Zero-Links",
-    "Templates 🗄",
-    "Files 🗂/Структура здания.png",
-    "Files 🗂/Распределение опыта.png",
-    "Files 🗂/Путь_Python_Черный_пояс_по_разработке.pdf",
+    "CoreNotes 📝/Zen Zettel.md",
+    "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
-    "Files 🗂/Клейнберг Дж. Алгоритмы разработка и применение.pdf",
-    "Files 🗂/Классические_задачи_Computer_Science_на_языке_Python_2020_Копец.pdf",
-    "Files 🗂/Испытания. Макет.png",
-    "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
+    "BookShelf 📚/ReadingList.md",
+    "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf",
+    "BookShelf 📚/Использование Docker - Эдриен Моуэт.md",
+    "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
+    "Files 🗂/Гифт_Н_,_Берман_К_,_Деза_А_,_Георгиу_Г_Python_и_DevOps_Ключ_к_автоматизации.pdf",
+    "Zero-Links/00 Docker.md",
+    "CoreNotes 📝/Краснодар. 24.08.md",
+    "CoreNotes 📝/Пермь. 24.08.md",
+    "Files 🗂/Docker-Security-Cheatsheet_hp8lh3.pdf",
+    "avatars-000411292317-dt2f28-t500x500.jpg",
     "Files 🗂/Pasted image 20230824121956.png",
-    "Files 🗂/Pasted image 20230303231127.png",
-    "Files 🗂/Pasted image 20230303223252.png",
-    "Files 🗂/Pasted image 20230303222523.png",
+    "Zero-Links",
+    "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
-    "Без названия 1.canvas"
+    "DMNotes/Ravenloft Adventure/Фракции",
+    "Files 🗂/Макет акта.png",
+    "Files 🗂/Распределение опыта.png",
+    "Files 🗂/Pasted image 20230303231127.png",
+    "Files 🗂/Структура здания.png",
+    "Files 🗂/Испытания. Пример.png",
+    "Files 🗂/Испытания. Макет.png",
+    "Files 🗂/Pasted image 20230303223252.png",
+    "Без названия 1.canvas",
+    "DMNotes/Ravenloft Adventure/Акт 5"
   ]
 }
