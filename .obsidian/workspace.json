@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-04.md",
+                "file": "Daily 🗓/2023-09-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-04.md",
+                "file": "Daily 🗓/2023-09-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-04.md",
+                "file": "Daily 🗓/2023-09-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-04.md"
+                "file": "Daily 🗓/2023-09-04.md"
               }
             }
           },
@@ -211,8 +211,11 @@
   },
   "active": "f551b5d94ba13e82",
   "lastOpenFiles": [
+    "Daily 🗓/2023-08-21.md",
+    "Daily 🗓/2023-08-24.md",
+    "Daily 🗓/2023-08-29.md",
     "Daily 🗓/2023-09-04.md",
-    "2023-09-04.md",
+    "Daily 🗓/2023-09-04.md",
     "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/Без названия.md",
     "Files 🗂/docker-web.drawio.png",
@@ -228,7 +231,6 @@
     "CoreNotes 📝/Инструкция.md",
     "Без названия.md",
     "Untitled 1.md",
-    "Daily 🗓/2023-08-29.md",
     "CoreNotes 📝/Zen Zettel.md",
     "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
@@ -241,8 +243,6 @@
     "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "Files 🗂/Гифт_Н_,_Берман_К_,_Деза_А_,_Георгиу_Г_Python_и_DevOps_Ключ_к_автоматизации.pdf",
     "Zero-Links/00 Docker.md",
-    "CoreNotes 📝/Краснодар. 24.08.md",
-    "CoreNotes 📝/Пермь. 24.08.md",
     "Files 🗂/Docker-Security-Cheatsheet_hp8lh3.pdf",
     "avatars-000411292317-dt2f28-t500x500.jpg",
     "Files 🗂/Pasted image 20230824121956.png",
