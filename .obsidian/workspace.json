@@ -11,8 +11,12 @@
             "id": "6035c7bf24fc86ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BookShelf 📚/ReadingList.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BookShelf 📚/ReadingList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BookShelf 📚/ReadingList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BookShelf 📚/ReadingList.md"
+              }
             }
           },
           {
@@ -146,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,12 +176,14 @@
   },
   "active": "6035c7bf24fc86ea",
   "lastOpenFiles": [
+    "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
+    "BookShelf 📚/ReadingList.md",
+    "Untitled.md",
+    "Без названия.md",
     "Без названия 1.canvas",
     "Daily 🗓/2023-09-05.md",
     "Без названия.canvas",
-    "Untitled.md",
     "2023-09-06.md",
-    "BookShelf 📚/ReadingList.md",
     "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
     "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
@@ -185,13 +195,11 @@
     "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
-    "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "BookShelf 📚/От женщины о женщинах для женщин (сборник) - Анна Маг.md",
     "CoreNotes 📝/Пермь. 24.08.md",
     "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf",
     "BookShelf 📚/Использование Docker - Эдриен Моуэт.md",
     "CoreNotes 📝/СОИБ. Пермь.md",
-    "Без названия.md",
     "Zero-Links/00 YSTS.md",
     "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
