@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СОИБ. Пермь.md",
+                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "СОИБ. Пермь.md",
+                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СОИБ. Пермь.md",
+                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СОИБ. Пермь.md",
+                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СОИБ. Пермь.md"
+                "file": "CoreNotes 📝/СОИБ. Краснодар.md"
               }
             }
           },
@@ -247,8 +246,9 @@
   },
   "active": "5614213e50c92d8a",
   "lastOpenFiles": [
+    "CoreNotes 📝/СОИБ. Пермь.md",
+    "CoreNotes 📝/СОИБ. Краснодар.md",
     "CoreNotes 📝/Пермь. 24.08.md",
-    "СОИБ. Пермь.md",
     "Zero-Links/00  СОИБ.md",
     "CoreNotes 📝/Краснодар. 24.08.md",
     "Без названия.md",
