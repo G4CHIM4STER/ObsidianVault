@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5614213e50c92d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "38aee6fb65d463f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CoreNotes 📝/Пермь. 24.08.md",
-                "mode": "source",
-                "source": false
+                "file": "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf"
               }
             }
           }
@@ -105,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
+                "file": "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
+                "file": "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md"
+                "file": "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf"
               }
             }
           },
@@ -179,11 +165,16 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "5614213e50c92d8a",
+  "active": "38aee6fb65d463f3",
   "lastOpenFiles": [
-    "CoreNotes 📝/СОИБ. Пермь.md",
-    "CoreNotes 📝/СОИБ. Краснодар.md",
+    "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
+    "BookShelf 📚/ReadingList.md",
+    "BookShelf 📚/От женщины о женщинах для женщин (сборник) - Анна Маг.md",
     "CoreNotes 📝/Пермь. 24.08.md",
+    "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf",
+    "BookShelf 📚/Использование Docker - Эдриен Моуэт.md",
+    "CoreNotes 📝/СОИБ. Краснодар.md",
+    "CoreNotes 📝/СОИБ. Пермь.md",
     "Zero-Links/00  СОИБ.md",
     "CoreNotes 📝/Краснодар. 24.08.md",
     "Без названия.md",

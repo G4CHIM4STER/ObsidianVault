@@ -1,13 +1,15 @@
 ---
-tag: 📚Book
-title: "Микросервисы и контейнеры Docker"
-author: [Парминдер Сингх Кочер]
+tags:
+  - 📚Book
+title: Микросервисы и контейнеры Docker
+author:
+  - Парминдер Сингх Кочер
 publisher: Litres
 publish: 2022-01-29
 total: 242
 isbn: 5041924694 9785041924690
 cover: http://books.google.com/books/content?id=54KzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-status: В планах
+status: Читаю
 created: 2023-08-24 13:53:40
 updated: 2023-08-24 13:53:40
 category: DevOps, Docker
