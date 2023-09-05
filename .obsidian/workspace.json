@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zero-Links/00  СОИБ.md",
+                "file": "СОИБ. Пермь.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6422588666e0c32d",
@@ -44,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "СОИБ. Пермь.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "СОИБ. Пермь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "СОИБ. Пермь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md"
+                "file": "СОИБ. Пермь.md"
               }
             }
           },
@@ -247,13 +245,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "a1c07630fe30590b",
+  "active": "5614213e50c92d8a",
   "lastOpenFiles": [
     "CoreNotes 📝/Пермь. 24.08.md",
+    "СОИБ. Пермь.md",
     "Zero-Links/00  СОИБ.md",
-    "СОИБ. Пермьт.md",
-    "Без названия.md",
     "CoreNotes 📝/Краснодар. 24.08.md",
+    "Без названия.md",
     "Zero-Links/00 YSTS.md",
     "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
