@@ -13,13 +13,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf 📚/ReadingList.md",
+                "file": "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "f26773274c2fbdf9"
+          }
+        ]
+      },
+      {
+        "id": "b59ee19109979cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd52ce25b4ce2a5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.965556045656674,
+                  "close": false
+                }
+              }
+            },
+            "group": "f26773274c2fbdf9"
+          },
+          {
+            "id": "a9bde38cdc466a94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf 📚/ReadingList.md",
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf 📚/ReadingList.md",
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf 📚/ReadingList.md"
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md"
               }
             }
           },
@@ -174,10 +230,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "6035c7bf24fc86ea",
+  "active": "a9bde38cdc466a94",
   "lastOpenFiles": [
-    "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
+    "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "Zero-Links/00 Безопасность.md",
     "BookShelf 📚/ReadingList.md",
+    "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "Untitled.md",
     "Без названия.md",
     "Без названия 1.canvas",
@@ -201,8 +260,6 @@
     "BookShelf 📚/Использование Docker - Эдриен Моуэт.md",
     "CoreNotes 📝/СОИБ. Пермь.md",
     "Zero-Links/00 YSTS.md",
-    "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes 📝/Moodle. Замечания 30.08.md",
     "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md"
   ]
