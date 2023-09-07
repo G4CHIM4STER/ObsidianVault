@@ -4,96 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b59ee19109979cc7",
+        "id": "1e36a88a59531331",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd52ce25b4ce2a5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.965556045656674,
-                  "close": false
-                }
-              }
-            },
-            "group": "f26773274c2fbdf9"
-          },
-          {
-            "id": "6035c7bf24fc86ea",
+            "id": "5e7fc1ae899a328d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/Безопасность контейнеров.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f26773274c2fbdf9"
-          },
-          {
-            "id": "b03e56dfc53d6087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd5bf24878be3ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "437beeaf0bf3970e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc1d881c16779ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md",
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Краснодар. 24.08.md"
+                "file": "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md"
               }
             }
           },
@@ -254,12 +174,13 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "cd5bf24878be3ae0",
+  "active": "5e7fc1ae899a328d",
   "lastOpenFiles": [
+    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+    "CoreNotes 📝/Краснодар. 24.08.md",
     "CoreNotes 📝/СОИБ. Краснодар.md",
     "CoreNotes 📝/Безопасность контейнеров.md",
     "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/00 Docker.md",
     "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "CoreNotes 📝/Безопасность контейнеров от Exec.md",
@@ -278,7 +199,6 @@
     "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
     "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
-    "CoreNotes 📝/Краснодар. 24.08.md",
     "Zero-Links/00  СОИБ.md",
     "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
