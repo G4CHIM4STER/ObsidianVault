@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e36a88a59531331",
+        "id": "6fd0a70ac18f750c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e7fc1ae899a328d",
+            "id": "d63f713ac96ed726",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CoreNotes 📝/СОИБ. Краснодар.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,9 +166,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "d63f713ac96ed726",
   "lastOpenFiles": [
     "CoreNotes 📝/СОИБ. Пермь.md",
+    "Текстовый документ.txt",
     "CoreNotes 📝/СОИБ. Краснодар.md",
     "CoreNotes 📝/Пермь. 24.08.md",
     "CoreNotes 📝/План обучения 2023.md",
@@ -205,7 +198,6 @@
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
     "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
     "Zero-Links/00  СОИБ.md",
-    "BookShelf 📚/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf"
   ]
 }
