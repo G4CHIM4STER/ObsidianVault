@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md",
+                "file": "Общая информация по универу.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md",
+                "file": "Общая информация по универу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md",
+                "file": "Общая информация по универу.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Moodle. Замечания 30.08.md"
+                "file": "Общая информация по универу.md"
               }
             }
           },
@@ -176,6 +176,9 @@
   },
   "active": "d63f713ac96ed726",
   "lastOpenFiles": [
+    "Zero-Links/00 Универ.md",
+    "Общая информация по универу.md",
+    "CoreNotes 📝/Moodle. Замечания 30.08.md",
     "CoreNotes 📝/СОИБ. Пермь.md",
     "Текстовый документ.txt",
     "CoreNotes 📝/СОИБ. Краснодар.md",
@@ -197,7 +200,6 @@
     "BookShelf 📚/ReadingList.md",
     "Zero-Links/00 Безопасность.md",
     "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
-    "Untitled.md",
     "Без названия.md",
     "Без названия 1.canvas",
     "Daily 🗓/2023-09-05.md",
@@ -205,7 +207,6 @@
     "2023-09-06.md",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
     "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
-    "Zero-Links/00  СОИБ.md",
     "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf"
   ]
 }
