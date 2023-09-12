@@ -1,19 +1,31 @@
 {
   "main": {
-    "id": "23791dd2fa4bdef5",
+    "id": "82bd4449b124b72a",
     "type": "split",
     "children": [
       {
-        "id": "6fd0a70ac18f750c",
+        "id": "8e918d2e5db4ea13",
         "type": "tabs",
         "children": [
           {
-            "id": "d63f713ac96ed726",
+            "id": "65daa161d12b0dd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moodle. Отчеты.md",
+                "file": "Переезд.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf532c3b0b189163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes 📝/Цели на начало 23-ого года.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "46817906ae834c57",
+    "id": "9609d69abc1c4854",
     "type": "split",
     "children": [
       {
-        "id": "252039b1356eaaf5",
+        "id": "7b6e228924713b01",
         "type": "tabs",
         "children": [
           {
-            "id": "d0174fe088bd33b5",
+            "id": "7b848dd7327860d0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +55,7 @@
             }
           },
           {
-            "id": "466487cf10badaff",
+            "id": "251ae2b1ce60cc98",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +70,15 @@
             }
           },
           {
-            "id": "4ceea68c8075e71d",
+            "id": "e213195f35211d68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "861ce0c69b60344e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,52 +92,44 @@
     "width": 300
   },
   "right": {
-    "id": "f3c1fdc67df801b5",
+    "id": "dc0a8fc6e04f7776",
     "type": "split",
     "children": [
       {
-        "id": "08a2b603411d75ad",
+        "id": "ac1c209668b6dd64",
         "type": "tabs",
         "children": [
           {
-            "id": "8fe6389bf5b8077d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "29b876e229dcd481",
+            "id": "f32c8b8536fb5625",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moodle. Отчеты.md",
-                "collapseAll": false,
+                "file": "Переезд.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "4d87fea701009b8c",
+            "id": "4714aab4e21a108a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moodle. Отчеты.md",
-                "linksCollapsed": false,
+                "file": "Переезд.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2190c0ec971c9ff2",
+            "id": "2df7c666ca3e2ddd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,33 +140,41 @@
             }
           },
           {
-            "id": "bb78813a3224915b",
+            "id": "f710f9befc6c60bc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moodle. Отчеты.md"
+                "file": "Переезд.md"
               }
             }
           },
           {
-            "id": "f67a68edf2bc8fbc",
+            "id": "de08cd5ae76d5f86",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "94821d424afe3590",
+            "id": "e100c8c3511243d6",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3a475510c55306c3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -162,51 +182,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d63f713ac96ed726",
+  "active": "65daa161d12b0dd6",
   "lastOpenFiles": [
-    "Общая информация по универу.md",
-    "Moodle. Отчеты.md",
-    "Без названия.md",
-    "Zero-Links/00 Универ.md",
-    "CoreNotes 📝/Moodle. Замечания 30.08.md",
-    "CoreNotes 📝/СОИБ. Пермь.md",
+    "CoreNotes 📝/Цели на начало 23-ого года.md",
+    "Переезд.md",
+    "CoreNotes 📝/Moodle. Отчеты.md",
+    "CoreNotes 📝/Общая информация по универу.md",
     "Текстовый документ.txt",
-    "CoreNotes 📝/СОИБ. Краснодар.md",
-    "CoreNotes 📝/Пермь. 24.08.md",
-    "CoreNotes 📝/План обучения 2023.md",
-    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
-    "CoreNotes 📝/Безопасность контейнеров.md",
-    "CoreNotes 📝/Безопасность контейнеров от Exec.md",
-    "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
-    "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-    "conflict-files-obsidian-git.md",
-    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
-    "CoreNotes 📝/Краснодар. 24.08.md",
-    "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "Zero-Links/00 Docker.md",
-    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
-    "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf 📚/ReadingList.md",
-    "Zero-Links/00 Безопасность.md",
-    "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
-    "Без названия 1.canvas",
+    "Zero-Links/00 Повышение безопасности.md",
     "Daily 🗓/2023-09-05.md",
-    "Без названия.canvas",
-    "2023-09-06.md",
+    "CoreNotes 📝/СОИБ. Пермь.md",
+    "CoreNotes 📝/СОИБ. Краснодар.md",
+    "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md",
+    "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "Daily 🗓/2023-08-21.md",
+    "Daily 🗓/2023-08-24.md",
+    "Daily 🗓/2023-08-29.md",
+    "Daily 🗓/2023-09-04.md",
+    "Daily 🗓/2023-09-04.md",
+    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
+    "Zero-Links/Без названия.md",
+    "Files 🗂/docker-web.drawio.png",
+    "CoreNotes 📝/Moodle. Замечания 30.08.md",
+    "BookShelf 📚/От женщины о женщинах для женщин (сборник) - Анна Маг.md",
+    "CoreNotes 📝/Безопасность контейнеров.md",
+    "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
+    "CoreNotes 📝/Безопасность контейнеров от Exec.md",
+    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
+    "docker-web.drawio",
+    "CoreNotes 📝/Untitled.md",
+    "CoreNotes 📝/Правка лаб.md",
+    "CoreNotes 📝/Инструкция.md",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
-    "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf"
+    "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf",
+    "Files 🗂/Гифт_Н_,_Берман_К_,_Деза_А_,_Георгиу_Г_Python_и_DevOps_Ключ_к_автоматизации.pdf",
+    "Files 🗂/Docker-Security-Cheatsheet_hp8lh3.pdf",
+    "avatars-000411292317-dt2f28-t500x500.jpg",
+    "Files 🗂/Pasted image 20230824121956.png",
+    "Zero-Links",
+    "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
+    "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
+    "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
+    "DMNotes/Ravenloft Adventure/Фракции",
+    "Files 🗂/Макет акта.png",
+    "Files 🗂/Распределение опыта.png",
+    "Files 🗂/Pasted image 20230303231127.png",
+    "Files 🗂/Структура здания.png",
+    "Files 🗂/Испытания. Пример.png",
+    "Files 🗂/Испытания. Макет.png",
+    "Files 🗂/Pasted image 20230303223252.png",
+    "Без названия 1.canvas"
   ]
 }
