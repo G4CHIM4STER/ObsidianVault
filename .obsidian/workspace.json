@@ -11,21 +11,9 @@
             "id": "65daa161d12b0dd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CoreNotes 📝/Переезд.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ded6f507821640c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
+                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
               }
             }
           },
@@ -41,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes 📝/Переезд.md",
+                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes 📝/Переезд.md",
+                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes 📝/Переезд.md"
+                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
               }
             }
           },
@@ -215,8 +202,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ded6f507821640c5",
+  "active": "65daa161d12b0dd6",
   "lastOpenFiles": [
+    "BookShelf 📚/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Files 🗂/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
     "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "CoreNotes 📝/Созвон по выбору профессии.md",
@@ -255,7 +243,6 @@
     "avatars-000411292317-dt2f28-t500x500.jpg",
     "Files 🗂/Pasted image 20230824121956.png",
     "Zero-Links",
-    "Files 🗂/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
     "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
     "Files 🗂/Макет акта.png",
