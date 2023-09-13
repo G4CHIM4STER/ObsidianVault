@@ -19,9 +19,11 @@
             "id": "313a9bbf2ecdfbc9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Созвон.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Созвон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Созвон.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Созвон.md"
+              }
             }
           },
           {
@@ -189,6 +195,7 @@
   },
   "active": "313a9bbf2ecdfbc9",
   "lastOpenFiles": [
+    "Созвон.md",
     "АЦ.md",
     "Moodle. Отчеты.md",
     "CoreNotes 📝/Переезд.md",
@@ -216,7 +223,6 @@
     "Zero-Links/00 Docker.md",
     "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf 📚/ReadingList.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
