@@ -11,8 +11,12 @@
             "id": "d63f713ac96ed726",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "АЦ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "АЦ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "АЦ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "АЦ.md"
+              }
             }
           },
           {
@@ -168,6 +176,7 @@
   },
   "active": "d63f713ac96ed726",
   "lastOpenFiles": [
+    "АЦ.md",
     "Moodle. Отчеты.md",
     "CoreNotes 📝/Переезд.md",
     "CoreNotes 📝/Общая информация по универу.md",
@@ -195,7 +204,6 @@
     "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "BookShelf 📚/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf 📚/ReadingList.md",
-    "Zero-Links/00 Безопасность.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
