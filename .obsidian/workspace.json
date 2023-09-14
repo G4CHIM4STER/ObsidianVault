@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,14 +195,10 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cf532c3b0b189163",
+  "active": "3a475510c55306c3",
   "lastOpenFiles": [
     "BookShelf 📚/Kali Linux библия пентестера - Хаваджа Гас.md",
     "CoreNotes 📝/Цели на начало 23-ого года.md",
