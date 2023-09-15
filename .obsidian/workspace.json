@@ -1,48 +1,39 @@
 {
   "main": {
-    "id": "82bd4449b124b72a",
+    "id": "23791dd2fa4bdef5",
     "type": "split",
     "children": [
       {
-        "id": "8e918d2e5db4ea13",
+        "id": "6fd0a70ac18f750c",
         "type": "tabs",
         "children": [
           {
-            "id": "65daa161d12b0dd6",
+            "id": "313a9bbf2ecdfbc9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
-              }
-            }
-          },
-          {
-            "id": "cf532c3b0b189163",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "CoreNotes 📝/Пермь. 24.08.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9609d69abc1c4854",
+    "id": "46817906ae834c57",
     "type": "split",
     "children": [
       {
-        "id": "7b6e228924713b01",
+        "id": "252039b1356eaaf5",
         "type": "tabs",
         "children": [
           {
-            "id": "7b848dd7327860d0",
+            "id": "d0174fe088bd33b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +43,7 @@
             }
           },
           {
-            "id": "251ae2b1ce60cc98",
+            "id": "466487cf10badaff",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,15 +58,7 @@
             }
           },
           {
-            "id": "e213195f35211d68",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "861ce0c69b60344e",
+            "id": "4ceea68c8075e71d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,44 +72,52 @@
     "width": 300
   },
   "right": {
-    "id": "dc0a8fc6e04f7776",
+    "id": "f3c1fdc67df801b5",
     "type": "split",
     "children": [
       {
-        "id": "ac1c209668b6dd64",
+        "id": "08a2b603411d75ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f32c8b8536fb5625",
+            "id": "8fe6389bf5b8077d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29b876e229dcd481",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
-                "collapseAll": true,
+                "file": "CoreNotes 📝/Пермь. 24.08.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "4714aab4e21a108a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
-                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2df7c666ca3e2ddd",
+            "id": "4d87fea701009b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CoreNotes 📝/Пермь. 24.08.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2190c0ec971c9ff2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,33 +128,17 @@
             }
           },
           {
-            "id": "f710f9befc6c60bc",
+            "id": "bb78813a3224915b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "CoreNotes 📝/Пермь. 24.08.md"
               }
             }
           },
           {
-            "id": "de08cd5ae76d5f86",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e100c8c3511243d6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3a475510c55306c3",
+            "id": "f67a68edf2bc8fbc",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -171,7 +146,15 @@
             }
           },
           {
-            "id": "bb210f8cfa3bdeae",
+            "id": "94821d424afe3590",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "30f6ae3189de3f51",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,12 +164,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,55 +180,40 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3a475510c55306c3",
+  "active": "313a9bbf2ecdfbc9",
   "lastOpenFiles": [
-    "BookShelf 📚/Kali Linux библия пентестера - Хаваджа Гас.md",
-    "CoreNotes 📝/Цели на начало 23-ого года.md",
-    "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
-    "Files 🗂/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
-    "CoreNotes 📝/Созвон по выбору профессии.md",
-    "CoreNotes 📝/АЦ.md",
-    "BookShelf 📚/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
-    "CoreNotes 📝/Переезд.md",
-    "CoreNotes 📝/Moodle. Отчеты.md",
-    "CoreNotes 📝/Общая информация по универу.md",
-    "Текстовый документ.txt",
-    "Zero-Links/00 Повышение безопасности.md",
-    "Daily 🗓/2023-09-05.md",
     "CoreNotes 📝/СОИБ. Пермь.md",
-    "CoreNotes 📝/СОИБ. Краснодар.md",
-    "CoreNotes 📝/Общие правила по обеспечению безопасности в Linux системах.md",
-    "CoreNotes 📝/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes 📝/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-    "Daily 🗓/2023-08-21.md",
-    "Daily 🗓/2023-08-24.md",
-    "Daily 🗓/2023-08-29.md",
-    "Daily 🗓/2023-09-04.md",
-    "Daily 🗓/2023-09-04.md",
-    "CoreNotes 📝/План по обеспечению безопасности контейнеров.md",
-    "Zero-Links/Без названия.md",
-    "Files 🗂/docker-web.drawio.png",
+    "Files 🗂/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+    "BookShelf 📚/Kali Linux библия пентестера - Хаваджа Гас.md",
+    "BookShelf 📚/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf 📚/ReadingList.md",
+    "BookShelf 📚/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
+    "BookShelf 📚/The Satanic Rituals - Anton Szandor LaVey.md",
+    "BookShelf 📚/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
+    "BookShelf 📚/Грокаем алгоритмы - Aditya Y Bhargava.md",
+    "BookShelf 📚/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
+    "BookShelf 📚/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "BookShelf 📚/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
+    "CoreNotes 📝/Созвон по выбору профессии.md",
+    "Files 🗂/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
+    "АЦ.md",
+    "Moodle. Отчеты.md",
+    "CoreNotes 📝/Переезд.md",
+    "CoreNotes 📝/Общая информация по универу.md",
+    "CoreNotes 📝/Moodle. Отчеты.md",
+    "Общая информация по универу.md",
+    "Без названия.md",
+    "Zero-Links/00 Универ.md",
     "CoreNotes 📝/Moodle. Замечания 30.08.md",
-    "BookShelf 📚/От женщины о женщинах для женщин (сборник) - Анна Маг.md",
-    "CoreNotes 📝/Безопасность контейнеров.md",
+    "Текстовый документ.txt",
+    "CoreNotes 📝/СОИБ. Краснодар.md",
+    "CoreNotes 📝/Пермь. 24.08.md",
+    "CoreNotes 📝/План обучения 2023.md",
+    "CoreNotes 📝/Безопасность контейнеров в Linux.md",
     "Files 🗂/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
-    "docker-web.drawio",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
     "Files 🗂/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
-    "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf",
-    "Files 🗂/Гифт_Н_,_Берман_К_,_Деза_А_,_Георгиу_Г_Python_и_DevOps_Ключ_к_автоматизации.pdf",
-    "Files 🗂/Docker-Security-Cheatsheet_hp8lh3.pdf",
-    "avatars-000411292317-dt2f28-t500x500.jpg",
-    "Files 🗂/Pasted image 20230824121956.png",
-    "Zero-Links",
-    "DMNotes/Ravenloft Adventure/RavenloftCanvas.canvas",
-    "DMNotes/Ravenloft Adventure/Акт 5/Структура Акта 5.canvas",
-    "Files 🗂/Макет акта.png",
-    "Files 🗂/Распределение опыта.png",
-    "Files 🗂/Pasted image 20230303231127.png",
-    "Files 🗂/Структура здания.png",
-    "Files 🗂/Испытания. Пример.png",
-    "Files 🗂/Испытания. Макет.png",
-    "Files 🗂/Pasted image 20230303223252.png",
-    "Без названия 1.canvas"
+    "Files 🗂/Edrien_Ispolzovanie-Docker.649218.pdf"
   ]
 }
