@@ -1,4 +1,13 @@
 [
   "obsidian-checklist-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-book-search-plugin",
+  "calendar",
+  "templater-obsidian",
+  "nldates-obsidian",
+  "obsidian-mind-map",
+  "obsidian-icon-folder",
+  "cm-editor-syntax-highlight-obsidian",
+  "dataview"
 ]

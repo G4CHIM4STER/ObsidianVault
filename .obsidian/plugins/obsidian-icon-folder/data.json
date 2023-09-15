@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiLinksFill",
+      "RiShareForwardBoxFill",
+      "FabFileLines",
+      "FabCalendar",
+      "FabNoteSticky"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "BookShelf": "📚",
+  "CoreNotes": "FabNoteSticky",
+  "Daily": "FabCalendar",
+  "Files": "FabFileLines",
+  "Templates": "RiShareForwardBoxFill",
+  "Zero-Links": "RiLinksFill"
+}
