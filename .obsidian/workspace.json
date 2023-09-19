@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bed29151e92e68e4",
+        "id": "138191331be236f1",
         "type": "tabs",
         "children": [
           {
-            "id": "918195d29ed75920",
+            "id": "326970d36feea45f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -89,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+              }
             }
           },
           {
@@ -160,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +183,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "918195d29ed75920",
+  "active": "326970d36feea45f",
   "lastOpenFiles": [
+    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Templates/01 DiaryNote.md",
     "Templates/01 DefaultNote.md",
     "Templates/01 DMNote.md",
@@ -222,7 +231,6 @@
     "CoreNotes/СОИБ. Краснодар.md",
     "CoreNotes/Правка лаб.md",
     "CoreNotes/План по обеспечению безопасности контейнеров.md",
-    "CoreNotes/План обучения 2023.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
