@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/СОИБ. Пермь.md",
+                "file": "ИСиТ. Практика 1-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/СОИБ. Пермь.md",
+                "file": "ИСиТ. Практика 1-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/СОИБ. Пермь.md",
+                "file": "ИСиТ. Практика 1-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/СОИБ. Пермь.md"
+                "file": "ИСиТ. Практика 1-2.md"
               }
             }
           },
@@ -198,8 +198,12 @@
   },
   "active": "4aae1b46b31a874b",
   "lastOpenFiles": [
-    "CoreNotes/Пермь. 24.08.md",
     "CoreNotes/СОИБ. Пермь.md",
+    "ИСиТ. Практика 1-2.md",
+    "CoreNotes/МИРЭА/МАГ1/ИСиТ",
+    "CoreNotes/МИРЭА/МАГ1",
+    "CoreNotes/МИРЭА",
+    "CoreNotes/Пермь. 24.08.md",
     "CoreNotes/АЦ.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
@@ -218,9 +222,6 @@
     "Files/Классические_задачи_Computer_Science_на_языке_Python_2020_Копец.pdf",
     "Files/Испытания. Пример.png",
     "Files/Испытания. Макет.png",
-    "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
-    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
-    "Files/Гифт_Н_,_Берман_К_,_Деза_А_,_Георгиу_Г_Python_и_DevOps_Ключ_к_автоматизации.pdf",
     "Files/docker-web.drawio.png",
     "Files/Pasted image 20230824121956.png",
     "Files/Pasted image 20230303231127.png",
@@ -243,7 +244,6 @@
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Созвон по выбору профессии.md",
-    "CoreNotes/СОИБ. Краснодар.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
