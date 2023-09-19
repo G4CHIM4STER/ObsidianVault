@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "138191331be236f1",
+        "id": "9ea2f5ed6969add1",
         "type": "tabs",
         "children": [
           {
-            "id": "326970d36feea45f",
+            "id": "4aae1b46b31a874b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "CoreNotes/СОИБ. Пермь.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10b935438acc818a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/Пермь. 24.08.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+                "file": "CoreNotes/СОИБ. Пермь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+                "file": "CoreNotes/СОИБ. Пермь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "CoreNotes/СОИБ. Пермь.md"
               }
             }
           },
@@ -182,8 +196,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "326970d36feea45f",
+  "active": "4aae1b46b31a874b",
   "lastOpenFiles": [
+    "CoreNotes/Пермь. 24.08.md",
+    "CoreNotes/СОИБ. Пермь.md",
+    "CoreNotes/АЦ.md",
+    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Templates/01 DiaryNote.md",
     "Templates/01 DefaultNote.md",
@@ -203,7 +221,6 @@
     "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
     "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
     "Files/Гифт_Н_,_Берман_К_,_Деза_А_,_Георгиу_Г_Python_и_DevOps_Ключ_к_автоматизации.pdf",
-    "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "Files/docker-web.drawio.png",
     "Files/Pasted image 20230824121956.png",
     "Files/Pasted image 20230303231127.png",
@@ -226,10 +243,7 @@
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Созвон по выбору профессии.md",
-    "CoreNotes/СОИБ. Пермь.md",
     "CoreNotes/СОИБ. Краснодар.md",
-    "CoreNotes/Правка лаб.md",
-    "CoreNotes/План по обеспечению безопасности контейнеров.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
