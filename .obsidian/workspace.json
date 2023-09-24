@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-09-24.md",
+                "file": "CoreNotes/Математика для Data Science и машинного обучения.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-09-24.md",
+                "file": "CoreNotes/Математика для Data Science и машинного обучения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-09-24.md",
+                "file": "CoreNotes/Математика для Data Science и машинного обучения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-09-24.md"
+                "file": "CoreNotes/Математика для Data Science и машинного обучения.md"
               }
             }
           },
@@ -184,10 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "10b935438acc818a",
   "lastOpenFiles": [
-    "CoreNotes/Пермь. 24.08.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
     "Daily/2023-09-24.md",
+    "CoreNotes/Пермь. 24.08.md",
     "Без названия.md",
     "CoreNotes/ИСиТ. Практика 1-2.md",
     "CoreNotes/СОИБ. Пермь.md",
@@ -230,8 +232,6 @@
     "Daily/2023-02-13.md",
     "Daily/2023-02-05.md",
     "Daily/2023-01-23.md",
-    "Daily/2023-01-09.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
