@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4aae1b46b31a874b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ИСиТ. Практика 1-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10b935438acc818a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Пермь. 24.08.md",
+                "file": "Daily/2023-09-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИСиТ. Практика 1-2.md",
+                "file": "Daily/2023-09-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИСиТ. Практика 1-2.md",
+                "file": "Daily/2023-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИСиТ. Практика 1-2.md"
+                "file": "Daily/2023-09-24.md"
               }
             }
           },
@@ -196,14 +184,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4aae1b46b31a874b",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "CoreNotes/Пермь. 24.08.md",
+    "Daily/2023-09-24.md",
+    "Без названия.md",
+    "CoreNotes/ИСиТ. Практика 1-2.md",
     "CoreNotes/СОИБ. Пермь.md",
-    "ИСиТ. Практика 1-2.md",
     "CoreNotes/МИРЭА/МАГ1/ИСиТ",
     "CoreNotes/МИРЭА/МАГ1",
     "CoreNotes/МИРЭА",
-    "CoreNotes/Пермь. 24.08.md",
     "CoreNotes/АЦ.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
@@ -242,8 +232,6 @@
     "Daily/2023-01-23.md",
     "Daily/2023-01-09.md",
     "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/Список книг на 2023.md",
-    "CoreNotes/Созвон по выбору профессии.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
