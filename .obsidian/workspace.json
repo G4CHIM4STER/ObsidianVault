@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10b935438acc818a",
+            "id": "4aae1b46b31a874b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes/Пермь. 24.08.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Пермь. 24.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Пермь. 24.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CoreNotes/Пермь. 24.08.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,26 +176,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10b935438acc818a",
+  "active": "4aae1b46b31a874b",
   "lastOpenFiles": [
-    "CoreNotes/Математика для Data Science и машинного обучения.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
-    "Daily/2023-09-24.md",
-    "CoreNotes/Пермь. 24.08.md",
-    "Без названия.md",
-    "CoreNotes/ИСиТ. Практика 1-2.md",
-    "CoreNotes/СОИБ. Пермь.md",
-    "CoreNotes/МИРЭА/МАГ1/ИСиТ",
-    "CoreNotes/МИРЭА/МАГ1",
-    "CoreNotes/МИРЭА",
-    "CoreNotes/АЦ.md",
-    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
-    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
-    "Templates/01 DiaryNote.md",
-    "Templates/01 DefaultNote.md",
-    "Templates/01 DMNote.md",
-    "Templates/01 BookTemplate.md",
+    "Текстовый документ.txt",
+    "ИСиТ. Практика 1-2.md",
+    "docker-web.drawio",
+    "Zero-Links/Без названия.md",
+    "Zero-Links/00 Цели.md",
+    "Zero-Links/00 Фильмы.md",
+    "Zero-Links/00 Универ.md",
+    "Zero-Links/00 Статьи.md",
+    "Zero-Links/00 Семья.md",
+    "Zero-Links/00 Работа.md",
+    "Zero-Links/00 Продуктивность.md",
+    "Zero-Links/00 Повышение безопасности.md",
+    "Zero-Links/00 Отношения.md",
+    "Zero-Links/00 Обучение.md",
+    "Zero-Links/00 Книги.md",
+    "Zero-Links/00 ВТБ.md",
+    "Zero-Links/00 Zettel.md",
+    "Zero-Links/00 Безопасность.md",
+    "Zero-Links/00 YSTS.md",
+    "Zero-Links/00 Wiki.md",
+    "Zero-Links/00 Python.md",
+    "Zero-Links/00 Pentest.md",
+    "Zero-Links/00 Moodle.md",
+    "Zero-Links/00 ML.md",
+    "Zero-Links/00 Linux.md",
+    "Zero-Links/00 Docker.md",
+    "Zero-Links/00 Diary.md",
+    "Zero-Links",
     "Templates",
     "Files/Структура здания.png",
     "Files/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
@@ -215,23 +217,13 @@
     "Files/Классические_задачи_Computer_Science_на_языке_Python_2020_Копец.pdf",
     "Files/Испытания. Пример.png",
     "Files/Испытания. Макет.png",
+    "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
+    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
     "Files/docker-web.drawio.png",
     "Files/Pasted image 20230824121956.png",
     "Files/Pasted image 20230303231127.png",
     "Files/Pasted image 20230303223252.png",
     "Files/Pasted image 20230303222523.png",
-    "Daily/29.01.2023.md",
-    "Daily/2023-09-05.md",
-    "Daily/2023-09-04.md",
-    "Daily/2023-08-29.md",
-    "Daily/2023-08-24.md",
-    "Daily/2023-08-21.md",
-    "Daily/2023-07-29.md",
-    "Daily/2023-06-27.md",
-    "Daily/2023-04-13.md",
-    "Daily/2023-04-05.md",
-    "Daily/2023-02-13.md",
-    "Daily/2023-02-05.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
