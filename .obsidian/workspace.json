@@ -11,8 +11,12 @@
             "id": "4aae1b46b31a874b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SSL Postgres.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SSL Postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SSL Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SSL Postgres.md"
+              }
             }
           },
           {
@@ -178,6 +186,19 @@
   },
   "active": "4aae1b46b31a874b",
   "lastOpenFiles": [
+    "SSL Postgres.md",
+    "Ква/Pasted image 20230901130155.png",
+    "Ква/Pasted image 20230901130000.png",
+    "Ква/Pasted image 20230901125614.png",
+    "Ква/Pasted image 20230901125531.png",
+    "Ква/Pasted image 20230829172132.png",
+    "Ква/Pasted image 20230829171842.png",
+    "Ква",
+    "èáαΓ¿¡¬¿/Pasted image 20230901130155.png",
+    "èáαΓ¿¡¬¿/Pasted image 20230901130000.png",
+    "èáαΓ¿¡¬¿/Pasted image 20230901125614.png",
+    "èáαΓ¿¡¬¿/Pasted image 20230901125531.png",
+    "èáαΓ¿¡¬¿",
     "Текстовый документ.txt",
     "ИСиТ. Практика 1-2.md",
     "docker-web.drawio",
@@ -204,26 +225,12 @@
     "Zero-Links/00 ML.md",
     "Zero-Links/00 Linux.md",
     "Zero-Links/00 Docker.md",
-    "Zero-Links/00 Diary.md",
     "Zero-Links",
     "Templates",
-    "Files/Структура здания.png",
     "Files/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
-    "Files/Распределение опыта.png",
     "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
     "Files/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
-    "Files/Макет акта.png",
     "Files/Клейнберг Дж. Алгоритмы разработка и применение.pdf",
-    "Files/Классические_задачи_Computer_Science_на_языке_Python_2020_Копец.pdf",
-    "Files/Испытания. Пример.png",
-    "Files/Испытания. Макет.png",
-    "Files/Изучаем PostgreSQL 10 [2019] Салахалдин Джуба, Андрей Волков.pdf",
-    "Files/Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (2017).pdf",
-    "Files/docker-web.drawio.png",
-    "Files/Pasted image 20230824121956.png",
-    "Files/Pasted image 20230303231127.png",
-    "Files/Pasted image 20230303223252.png",
-    "Files/Pasted image 20230303222523.png",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
