@@ -49,7 +49,7 @@
    
    chmod og-rwx server.key
    
-   openssl x509 -req -in server.csr -text -days 365 -CA root.crt -CAkey root.key -CAcreateserial 
+   openssl x509 -req -in server.csr -text -days 365 -CA root.crt -CAkey root.key -CAcreateserial -out server.crt
    ```
 
 `server.crt` и `server.key` должен храниться на сервере, `root.crt` - на клиенте, чтобы пользователь мог проверить, что конечный сертификат сервера был подписан его доверенным корневым сертификатом. `root.key` следует хранить в автономном режиме для использования при создании будущих сертификатов.
