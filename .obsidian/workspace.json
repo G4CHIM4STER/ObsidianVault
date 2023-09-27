@@ -23,9 +23,11 @@
             "id": "9c3fe7bc28f27ab6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "CoreNotes/СОИБ. Пермь.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
+                "file": "CoreNotes/СОИБ. Пермь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
+                "file": "CoreNotes/СОИБ. Пермь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md"
+                "file": "CoreNotes/СОИБ. Пермь.md"
               }
             }
           },
