@@ -11,11 +11,9 @@
             "id": "4aae1b46b31a874b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md"
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
               }
             }
           },
@@ -186,8 +184,9 @@
   },
   "active": "4aae1b46b31a874b",
   "lastOpenFiles": [
-    "Запрос для Марата и Саши.md",
+    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
+    "Запрос для Марата и Саши.md",
     "Files/Pasted image 20230928120032.png",
     "Без названия.md",
     "SSL Postgres.md",
@@ -225,7 +224,6 @@
     "Zero-Links/00 Python.md",
     "Zero-Links/00 Pentest.md",
     "Zero-Links/00 Moodle.md",
-    "Zero-Links/00 ML.md",
     "Zero-Links",
     "Templates",
     "Files/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
