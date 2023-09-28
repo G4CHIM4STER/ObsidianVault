@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Континент 4.0 Тестовый стенд. Основная информация.md",
+                "file": "Запрос для Марата и Саши.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d69d705cdac0d60",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Континент 4.0 Тестовый стенд. Основная информация.md",
+                "file": "Запрос для Марата и Саши.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Континент 4.0 Тестовый стенд. Основная информация.md",
+                "file": "Запрос для Марата и Саши.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Континент 4.0 Тестовый стенд. Основная информация.md"
+                "file": "Запрос для Марата и Саши.md"
               }
             }
           },
@@ -195,10 +184,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d69d705cdac0d60",
+  "active": "4aae1b46b31a874b",
   "lastOpenFiles": [
+    "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
+    "Запрос для Марата и Саши.md",
     "Files/Pasted image 20230928120032.png",
-    "Континент 4.0 Тестовый стенд. Основная информация.md",
     "Без названия.md",
     "SSL Postgres.md",
     "Ква/Pasted image 20230901130155.png",
@@ -211,7 +201,6 @@
     "èáαΓ¿¡¬¿/Pasted image 20230901130155.png",
     "èáαΓ¿¡¬¿/Pasted image 20230901130000.png",
     "èáαΓ¿¡¬¿/Pasted image 20230901125614.png",
-    "èáαΓ¿¡¬¿/Pasted image 20230901125531.png",
     "èáαΓ¿¡¬¿",
     "Текстовый документ.txt",
     "ИСиТ. Практика 1-2.md",
