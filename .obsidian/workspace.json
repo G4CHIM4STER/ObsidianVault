@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d69d705cdac0d60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "5d69d705cdac0d60",
   "lastOpenFiles": [
     "Files/Pasted image 20230928120032.png",
     "Континент 4.0 Тестовый стенд. Основная информация.md",
