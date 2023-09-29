@@ -11,9 +11,11 @@
             "id": "4aae1b46b31a874b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "Книги по управлению проектами.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+                "file": "Книги по управлению проектами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+                "file": "Книги по управлению проектами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "Книги по управлению проектами.md"
               }
             }
           },
@@ -184,11 +186,14 @@
   },
   "active": "4aae1b46b31a874b",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Книги по управлению проектами.md",
+    "Без названия 1.md",
+    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
     "Запрос для Марата и Саши.md",
     "Files/Pasted image 20230928120032.png",
-    "Без названия.md",
     "SSL Postgres.md",
     "Ква/Pasted image 20230901130155.png",
     "Ква/Pasted image 20230901130000.png",
@@ -222,14 +227,11 @@
     "Zero-Links/00 YSTS.md",
     "Zero-Links/00 Wiki.md",
     "Zero-Links/00 Python.md",
-    "Zero-Links/00 Pentest.md",
-    "Zero-Links/00 Moodle.md",
     "Zero-Links",
     "Templates",
     "Files/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
     "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
     "Files/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
-    "Files/Клейнберг Дж. Алгоритмы разработка и применение.pdf",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
