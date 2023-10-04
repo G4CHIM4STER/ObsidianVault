@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9ea2f5ed6969add1",
+        "id": "9b0e9e48769f682a",
         "type": "tabs",
         "children": [
           {
-            "id": "4aae1b46b31a874b",
+            "id": "c7924ae21cd7ed24",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,16 +126,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
-              }
-            }
-          },
-          {
-            "id": "f67a68edf2bc8fbc",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           },
@@ -152,22 +138,43 @@
             }
           },
           {
-            "id": "30f6ae3189de3f51",
+            "id": "4794079a9c6f3998",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "9148e04f00afff18",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "27c71e084042bbfe",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e18a244f3c689d7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 539.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,18 +186,25 @@
       "command-palette:Открыть палитру команд": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4aae1b46b31a874b",
+  "active": "c7924ae21cd7ed24",
   "lastOpenFiles": [
+    "DMNotes/Adventures",
+    "DMNotes/Bestiary",
+    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+    "DMNotes",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
-    "Книги по управлению проектами.md",
+    "CoreNotes/Книги по управлению проектами.md",
     "Без названия.md",
     "Без названия 1.md",
-    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
-    "Запрос для Марата и Саши.md",
+    "CoreNotes/Запрос для Марата и Саши.md",
     "Files/Pasted image 20230928120032.png",
     "SSL Postgres.md",
     "Ква/Pasted image 20230901130155.png",
@@ -224,12 +238,9 @@
     "Zero-Links/00 Безопасность.md",
     "Zero-Links/00 YSTS.md",
     "Zero-Links/00 Wiki.md",
-    "Zero-Links/00 Python.md",
     "Zero-Links",
     "Templates",
     "Files/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
-    "Files/Путь_Python_Черный_пояс_по_разработке.pdf",
-    "Files/Микросервисы_и_контейнеры_Docker_2019_Кочер.pdf",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]

@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 2,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabChessRook",
       "RiLinksFill",
       "RiShareForwardBoxFill",
       "FabFileLines",
-      "FabCalendar",
-      "FabNoteSticky"
+      "FabCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,9 @@
   "Daily": "FabCalendar",
   "Files": "FabFileLines",
   "Templates": "RiShareForwardBoxFill",
-  "Zero-Links": "RiLinksFill"
+  "Zero-Links": "RiLinksFill",
+  "DMNotes": {
+    "iconName": "FabChessRook",
+    "inheritanceIcon": "FabChessRook"
+  }
 }
