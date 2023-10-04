@@ -11,11 +11,14 @@
             "id": "cf3acb50255a390a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
-                "mode": "preview",
-                "source": false
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
+                "file": "Без названия.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
+                "file": "Без названия.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md"
+                "file": "Без названия.canvas"
               }
             }
           },
@@ -204,8 +207,9 @@
   },
   "active": "cf3acb50255a390a",
   "lastOpenFiles": [
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
+    "Без названия.canvas",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "Files/ra-calendar.json",
     "Files/Макет акта.png",
     "Files/karanos_map.png",
@@ -249,7 +253,6 @@
     "Ква/Pasted image 20230901130155.png",
     "Ква/Pasted image 20230901130000.png",
     "Ква/Pasted image 20230901125614.png",
-    "Без названия 1.canvas",
-    "Без названия.canvas"
+    "Без названия 1.canvas"
   ]
 }
