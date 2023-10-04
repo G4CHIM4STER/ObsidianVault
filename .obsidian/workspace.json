@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 3.md"
               }
             }
           },
@@ -204,8 +204,24 @@
   },
   "active": "bdfdf778f6e1e007",
   "lastOpenFiles": [
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 2.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 3.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 1.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 7.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 6.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 2.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 1.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 5.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 4.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 3.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 12.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 11.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 10.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 9.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 8.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 7.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 6.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 4.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 2.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 3.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 1.md",
@@ -221,20 +237,11 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1",
     "DMNotes/Adventures/Ravenloft Adventures",
     "Zero-Links/00 Moodle.md",
-    "CoreNotes/Правка лаб.md",
-    "CoreNotes/Созвон по выбору профессии.md",
-    "CoreNotes/Moodle. Замечания 30.08.md",
     "DMNotes/Adventures",
     "DMNotes/Bestiary",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "DMNotes",
-    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
-    "CoreNotes/Книги по управлению проектами.md",
-    "Без названия 1.md",
-    "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
-    "CoreNotes/Запрос для Марата и Саши.md",
     "Files/Pasted image 20230928120032.png",
-    "SSL Postgres.md",
     "Ква/Pasted image 20230901130155.png",
     "Ква/Pasted image 20230901130000.png",
     "Ква/Pasted image 20230901125614.png",
@@ -243,13 +250,6 @@
     "Ква/Pasted image 20230829171842.png",
     "èáαΓ¿¡¬¿/Pasted image 20230901130155.png",
     "èáαΓ¿¡¬¿/Pasted image 20230901130000.png",
-    "ИСиТ. Практика 1-2.md",
-    "Zero-Links/Без названия.md",
-    "Zero-Links/00 Цели.md",
-    "Zero-Links/00 Фильмы.md",
-    "Zero-Links/00 Универ.md",
-    "Zero-Links/00 Статьи.md",
-    "Zero-Links/00 Семья.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
