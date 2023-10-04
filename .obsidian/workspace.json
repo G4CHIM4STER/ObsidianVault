@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9b0e9e48769f682a",
+        "id": "597d96add3c65343",
         "type": "tabs",
         "children": [
           {
-            "id": "c7924ae21cd7ed24",
+            "id": "3d0668c3ca754a05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "f10f3c867df435af"
-          }
-        ]
-      },
-      {
-        "id": "bc38237fb728e9be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21c43666cd5f42ea",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Zero-Links/00 Moodle.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "f10f3c867df435af"
+            }
           }
         ]
       }
@@ -144,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zero-Links/00 Moodle.md"
+                "file": "CoreNotes/Moodle. Отчеты.md"
               }
             }
           },
@@ -233,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 539.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,13 +202,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "21c43666cd5f42ea",
+  "active": "3d0668c3ca754a05",
   "lastOpenFiles": [
+    "Zero-Links/00 Moodle.md",
+    "CoreNotes/Moodle. Отчеты.md",
     "CoreNotes/Правка лаб.md",
     "CoreNotes/Созвон по выбору профессии.md",
-    "CoreNotes/Moodle. Отчеты.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
-    "Zero-Links/00 Moodle.md",
     "DMNotes/Adventures",
     "DMNotes/Bestiary",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
