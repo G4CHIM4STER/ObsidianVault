@@ -1,10 +1,9 @@
 {
   "welcomeComplete": true,
   "theme": {
-    "dark": null,
     "layout": "full"
   },
   "drawing": {
-    "sketch": false
+    "sketch": true
   }
 }

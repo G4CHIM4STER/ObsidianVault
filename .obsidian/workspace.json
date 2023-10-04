@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab66e0bc5fb45640",
+        "id": "0171a6d24fe98f18",
         "type": "tabs",
         "children": [
           {
-            "id": "cf3acb50255a390a",
+            "id": "5d6d385839ac3323",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,10 +202,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "cf3acb50255a390a",
+  "active": "5d6d385839ac3323",
   "lastOpenFiles": [
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
+    "Untitled Diagram.svg",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
     "Files/Планы Совета.drawio",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/karanos_map.png",
     "Files/ravenloft_banner.webp",
@@ -216,9 +218,7 @@
     "Files/Pasted image 20230303231127.png",
     "Files/Pasted image 20230303223252.png",
     "Files/Pasted image 20230303222518.png",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
     "docker-web.drawio",
-    "Files/sracula.png",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
