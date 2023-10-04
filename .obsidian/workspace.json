@@ -11,9 +11,56 @@
             "id": "c7924ae21cd7ed24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "4746d9dfded39632"
+          }
+        ]
+      },
+      {
+        "id": "b736c2e42d208b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85a08a3d456c73ed",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "4746d9dfded39632"
           }
         ]
       }
@@ -89,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md"
+              }
             }
           },
           {
@@ -195,6 +246,9 @@
   },
   "active": "c7924ae21cd7ed24",
   "lastOpenFiles": [
+    "CoreNotes/Moodle. Замечания 30.08.md",
+    "Zero-Links/00 Moodle.md",
+    "CoreNotes/Moodle. Отчеты.md",
     "DMNotes/Adventures",
     "DMNotes/Bestiary",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
@@ -236,11 +290,8 @@
     "Zero-Links/00 ВТБ.md",
     "Zero-Links/00 Zettel.md",
     "Zero-Links/00 Безопасность.md",
-    "Zero-Links/00 YSTS.md",
-    "Zero-Links/00 Wiki.md",
     "Zero-Links",
     "Templates",
-    "Files/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
