@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "cf3acb50255a390a",
   "lastOpenFiles": [
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "Files/Планы Совета.drawio",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/karanos_map.png",
@@ -216,7 +217,6 @@
     "Files/Pasted image 20230303223252.png",
     "Files/Pasted image 20230303222518.png",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "docker-web.drawio",
     "Files/sracula.png",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
@@ -250,7 +250,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1",
-    "DMNotes/Adventures/Ravenloft Adventures",
     "Без названия 1.canvas"
   ]
 }
