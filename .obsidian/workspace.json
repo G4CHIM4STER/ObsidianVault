@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md"
               }
             }
           },
@@ -204,6 +204,13 @@
   },
   "active": "bdfdf778f6e1e007",
   "lastOpenFiles": [
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 4.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Без названия.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 2.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 3.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 1.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 5.md",
+    "Без названия.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
     "Files/ravenloft_banner.webp",
     "Files/ravenloft_banner.webp.crdownload",
@@ -223,7 +230,6 @@
     "DMNotes",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "CoreNotes/Книги по управлению проектами.md",
-    "Без названия.md",
     "Без названия 1.md",
     "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
     "CoreNotes/Запрос для Марата и Саши.md",
@@ -244,11 +250,6 @@
     "Zero-Links/00 Универ.md",
     "Zero-Links/00 Статьи.md",
     "Zero-Links/00 Семья.md",
-    "Zero-Links/00 Работа.md",
-    "Zero-Links/00 Продуктивность.md",
-    "Zero-Links/00 Повышение безопасности.md",
-    "Zero-Links/00 Отношения.md",
-    "Zero-Links/00 Обучение.md",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
