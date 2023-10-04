@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "597d96add3c65343",
+        "id": "ac8cadd112b2c9b5",
         "type": "tabs",
         "children": [
           {
-            "id": "3d0668c3ca754a05",
+            "id": "bdfdf778f6e1e007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 278.5
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md"
               }
             }
           },
@@ -202,10 +202,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3d0668c3ca754a05",
+  "active": "bdfdf778f6e1e007",
   "lastOpenFiles": [
-    "Zero-Links/00 Moodle.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/Пролог.md",
+    "Files/ravenloft_banner.webp",
+    "Files/ravenloft_banner.webp.crdownload",
     "CoreNotes/Moodle. Отчеты.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1",
+    "DMNotes/Adventures/Ravenloft Adventures",
+    "Zero-Links/00 Moodle.md",
     "CoreNotes/Правка лаб.md",
     "CoreNotes/Созвон по выбору профессии.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
@@ -227,14 +235,9 @@
     "Ква/Pasted image 20230901125531.png",
     "Ква/Pasted image 20230829172132.png",
     "Ква/Pasted image 20230829171842.png",
-    "Ква",
     "èáαΓ¿¡¬¿/Pasted image 20230901130155.png",
     "èáαΓ¿¡¬¿/Pasted image 20230901130000.png",
-    "èáαΓ¿¡¬¿/Pasted image 20230901125614.png",
-    "èáαΓ¿¡¬¿",
-    "Текстовый документ.txt",
     "ИСиТ. Практика 1-2.md",
-    "docker-web.drawio",
     "Zero-Links/Без названия.md",
     "Zero-Links/00 Цели.md",
     "Zero-Links/00 Фильмы.md",
@@ -246,10 +249,6 @@
     "Zero-Links/00 Повышение безопасности.md",
     "Zero-Links/00 Отношения.md",
     "Zero-Links/00 Обучение.md",
-    "Zero-Links/00 Книги.md",
-    "Zero-Links/00 ВТБ.md",
-    "Zero-Links",
-    "Templates",
     "Без названия 1.canvas",
     "Без названия.canvas"
   ]
