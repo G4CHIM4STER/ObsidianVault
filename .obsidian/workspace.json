@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md"
               }
             }
           },
@@ -204,13 +204,17 @@
   },
   "active": "cf3acb50255a390a",
   "lastOpenFiles": [
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
+    "Files/sracula.png",
+    "Files/Screenshot_20230915_222537.png",
+    "Files/A2_PLAN.png",
+    "Files/A1_PLAN.png",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
     "Files/Планы Совета.drawio",
     "Files/План_АКТ4.drawio",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "Без названия.canvas",
     "Files/ra-calendar.json",
     "Files/Макет акта.png",
@@ -238,7 +242,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 9.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 8.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 7.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 6.md",
     "Files/ravenloft_banner.webp",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
@@ -248,9 +251,6 @@
     "DMNotes/Adventures/Ravenloft Adventures",
     "DMNotes/Adventures",
     "Files/Pasted image 20230928120032.png",
-    "Ква/Pasted image 20230901130155.png",
-    "Ква/Pasted image 20230901130000.png",
-    "Ква/Pasted image 20230901125614.png",
     "Без названия 1.canvas"
   ]
 }
