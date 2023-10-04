@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Zero-Links/00 Moodle.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "4746d9dfded39632"
+            "group": "f10f3c867df435af"
           }
         ]
       },
       {
-        "id": "b736c2e42d208b4d",
+        "id": "bc38237fb728e9be",
         "type": "tabs",
         "children": [
           {
-            "id": "85a08a3d456c73ed",
+            "id": "21c43666cd5f42ea",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Zero-Links/00 Moodle.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -43,14 +43,22 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
@@ -60,7 +68,7 @@
                 }
               }
             },
-            "group": "4746d9dfded39632"
+            "group": "f10f3c867df435af"
           }
         ]
       }
@@ -112,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -136,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Zero-Links/00 Moodle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Zero-Links/00 Moodle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md"
+                "file": "Zero-Links/00 Moodle.md"
               }
             }
           },
@@ -244,11 +252,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c7924ae21cd7ed24",
+  "active": "21c43666cd5f42ea",
   "lastOpenFiles": [
+    "CoreNotes/Правка лаб.md",
+    "CoreNotes/Созвон по выбору профессии.md",
+    "CoreNotes/Moodle. Отчеты.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
     "Zero-Links/00 Moodle.md",
-    "CoreNotes/Moodle. Отчеты.md",
     "DMNotes/Adventures",
     "DMNotes/Bestiary",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
@@ -288,8 +298,6 @@
     "Zero-Links/00 Обучение.md",
     "Zero-Links/00 Книги.md",
     "Zero-Links/00 ВТБ.md",
-    "Zero-Links/00 Zettel.md",
-    "Zero-Links/00 Безопасность.md",
     "Zero-Links",
     "Templates",
     "Без названия 1.canvas",
