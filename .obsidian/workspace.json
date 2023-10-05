@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
+                "file": "DMNotes/Обсуждение перед РА. А4. Э5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
+                "file": "DMNotes/Обсуждение перед РА. А4. Э5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
+                "file": "DMNotes/Обсуждение перед РА. А4. Э5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md"
+                "file": "DMNotes/Обсуждение перед РА. А4. Э5.md"
               }
             }
           },
@@ -152,33 +152,9 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "9148e04f00afff18",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "27c71e084042bbfe",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e18a244f3c689d7",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,19 +172,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
   "active": "858127c5c140abf8",
   "lastOpenFiles": [
-    "Files/План_АКТ4.drawio",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
+    "DMNotes/Без названия.md",
+    "DMNotes/Обсуждение перед РА. А4. Э5.md",
     "Templates/01 DMNote.md",
+    "Files/План_АКТ4.drawio",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
     "Без названия.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
@@ -245,7 +221,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 1.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 5.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 4.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 3.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
