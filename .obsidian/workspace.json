@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e3110c34715dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
+                "file": "Templates/01 DMNote.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Templates/01 DMNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Templates/01 DMNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Templates/01 DMNote.md"
               }
             }
           },
@@ -215,9 +202,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "60e3110c34715dfb",
+  "active": "5d6d385839ac3323",
   "lastOpenFiles": [
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
+    "Templates/01 DMNote.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
+    "Templates/01 DiaryNote.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
     "test.md",
     "Untitled Diagram.svg",
     "Files/Планы Совета.drawio",
@@ -233,7 +225,6 @@
     "Files/Pasted image 20230303223252.png",
     "Files/Pasted image 20230303222518.png",
     "docker-web.drawio",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "Files/План_АКТ4.drawio",
@@ -255,10 +246,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 3.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 12.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 11.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 10.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 9.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 8.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 7.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
