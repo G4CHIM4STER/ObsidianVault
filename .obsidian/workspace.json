@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/01 DMNote.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/01 DMNote.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/01 DMNote.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/01 DMNote.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md"
               }
             }
           },
@@ -204,12 +204,14 @@
   },
   "active": "5d6d385839ac3323",
   "lastOpenFiles": [
+    "Templates/01 DMNote.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
+    "Без названия.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
-    "Templates/01 DMNote.md",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
     "Files/Распределение опыта.png",
@@ -245,7 +247,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 5.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 4.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 3.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 12.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
