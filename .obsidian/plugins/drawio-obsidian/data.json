@@ -1,7 +1,8 @@
 {
   "welcomeComplete": true,
   "theme": {
-    "layout": "full"
+    "layout": "full",
+    "dark": false
   },
   "drawing": {
     "sketch": true

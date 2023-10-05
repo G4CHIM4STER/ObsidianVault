@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0171a6d24fe98f18",
+        "id": "88981c9dae52ade0",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6d385839ac3323",
+            "id": "858127c5c140abf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md"
               }
             }
           },
@@ -202,16 +202,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5d6d385839ac3323",
+  "active": "858127c5c140abf8",
   "lastOpenFiles": [
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
+    "Files/План_АКТ4.drawio",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
     "Templates/01 DMNote.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
     "Без названия.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
     "Files/Распределение опыта.png",
@@ -230,7 +230,6 @@
     "Files/Screenshot_20230915_222537.png",
     "Files/Pasted image 20230928120032.png",
     "docker-web.drawio",
-    "Files/План_АКТ4.drawio",
     "Без названия.canvas",
     "Files/ra-calendar.json",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 6.md",
