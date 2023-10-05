@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/01 DMNote.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/01 DMNote.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/01 DMNote.md",
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/01 DMNote.md"
+                "file": "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md"
               }
             }
           },
@@ -204,29 +204,30 @@
   },
   "active": "5d6d385839ac3323",
   "lastOpenFiles": [
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
+    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
     "Templates/01 DMNote.md",
+    "Files/Пример испытания.png",
+    "Files/Планы Совета.drawio",
+    "Files/Распределение опыта.png",
+    "Files/Руководство_по_DevOps_Как_добиться_гибкости,_надежности_и_безопасности.pdf",
+    "Files/Структура здания.png",
+    "Files/abbator.jpeg",
+    "Files/Pasted image 20230303222523.png",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
     "Templates/01 DiaryNote.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
     "test.md",
     "Untitled Diagram.svg",
-    "Files/Планы Совета.drawio",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/karanos_map.png",
     "Files/ravenloft_banner.webp",
     "Files/Screenshot_20230915_222537.png",
-    "Files/Pasted image 20230303222523.png",
     "Files/Pasted image 20230928120032.png",
-    "Files/Pasted image 20230824121956.png",
-    "Files/Pasted image 20230303231127.png",
-    "Files/Pasted image 20230303223252.png",
-    "Files/Pasted image 20230303222518.png",
     "docker-web.drawio",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "Files/План_АКТ4.drawio",
     "Без названия.canvas",
     "Files/ra-calendar.json",
@@ -245,12 +246,10 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 4.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 3.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 12.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1/РА. А1. Эпизод 11.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 2",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 1",
     "Без названия 1.canvas"
   ]
 }
