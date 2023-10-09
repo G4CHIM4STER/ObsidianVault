@@ -1,13 +1,15 @@
 ---
-tag: 📚Book
+tags:
+  - 📚Book
 title: "Kali Linux: библия пентестера"
-author: [Хаваджа Гас]
+author:
+  - Хаваджа Гас
 publisher: 
 publish: 2022-07-26
 total: 496
 isbn: 5446129717 9785446129713
 cover: http://books.google.com/books/content?id=L2GFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-status: Читаю
+status: Прочитано
 created: 2023-08-22 13:19:54
 updated: 2023-08-22 13:19:54
 category: Сети, Pentest

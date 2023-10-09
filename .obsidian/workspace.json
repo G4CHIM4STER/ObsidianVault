@@ -11,9 +11,11 @@
             "id": "3e14688ae2d7e9dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "BookShelf/ReadingList.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+                "file": "BookShelf/ReadingList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
+                "file": "BookShelf/ReadingList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
+                "file": "BookShelf/ReadingList.md"
               }
             }
           },
@@ -175,10 +176,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "3e14688ae2d7e9dd",
   "lastOpenFiles": [
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "BookShelf/ReadingList.md",
+    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "README.md",
     "Zero-Links/00 Адванта.md",
@@ -208,7 +210,6 @@
     "Templates/01 DiaryNote.md",
     "test.md",
     "Untitled Diagram.svg",
-    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/karanos_map.png",
     "Files/ravenloft_banner.webp",
     "Files/Screenshot_20230915_222537.png",
@@ -219,7 +220,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 5.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/Без названия.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 4.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 3.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
