@@ -11,11 +11,9 @@
             "id": "3e14688ae2d7e9dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Адванта. Статус 09.10.23.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Адванта. Статус 09.10.23.md",
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Адванта. Статус 09.10.23.md",
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Адванта. Статус 09.10.23.md"
+                "file": "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf"
               }
             }
           },
@@ -176,10 +175,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "3e14688ae2d7e9dd",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
-    "00 Адванта.md",
-    "Адванта. Статус 09.10.23.md",
+    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
+    "BookShelf/ReadingList.md",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "README.md",
+    "Zero-Links/00 Адванта.md",
+    "Files/docker-web.drawio",
+    "CoreNotes/Адванта. Статус 09.10.23.md",
     "DMNotes/Обсуждение перед РА. А4. Э5.md",
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
@@ -209,7 +213,6 @@
     "Files/ravenloft_banner.webp",
     "Files/Screenshot_20230915_222537.png",
     "Files/Pasted image 20230928120032.png",
-    "docker-web.drawio",
     "Без названия.canvas",
     "Files/ra-calendar.json",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 6.md",
@@ -217,10 +220,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/Без названия.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 4.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 3.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 2.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 1.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 7.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2/РА. А2. Эпизод 6.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
