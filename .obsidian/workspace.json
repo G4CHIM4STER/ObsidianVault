@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Moodle. Работы по \"Соискателю\".md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "398e621fc041e0a4"
-          }
-        ]
-      },
-      {
-        "id": "dedae3929e7d64f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9a5ce25adcc24d00",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "398e621fc041e0a4"
+            }
           }
         ]
       }
@@ -136,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Moodle. Работы по \"Соискателю\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Moodle. Работы по \"Соискателю\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md"
+                "file": "Moodle. Работы по \"Соискателю\".md"
               }
             }
           },
@@ -222,6 +179,8 @@
   "active": "3e14688ae2d7e9dd",
   "lastOpenFiles": [
     "Zero-Links/00 Moodle.md",
+    "Moodle. Работы по \"Соискателю\".md",
+    "CoreNotes/Moodle. Отчеты.md",
     "BookShelf/ReadingList.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
@@ -262,7 +221,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 6.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 5.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/Без названия.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 4.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
