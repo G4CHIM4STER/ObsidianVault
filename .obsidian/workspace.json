@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "398e621fc041e0a4"
+          }
+        ]
+      },
+      {
+        "id": "dedae3929e7d64f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5ce25adcc24d00",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "398e621fc041e0a4"
           }
         ]
       }
@@ -93,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/ReadingList.md"
+                "file": "CoreNotes/Moodle. Отчеты.md"
               }
             }
           },
@@ -178,8 +221,9 @@
   },
   "active": "3e14688ae2d7e9dd",
   "lastOpenFiles": [
-    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
+    "Zero-Links/00 Moodle.md",
     "BookShelf/ReadingList.md",
+    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "README.md",
@@ -187,7 +231,6 @@
     "Files/docker-web.drawio",
     "CoreNotes/Адванта. Статус 09.10.23.md",
     "DMNotes/Обсуждение перед РА. А4. Э5.md",
-    "Zero-Links/00 Moodle.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
     "DMNotes/Без названия.md",
     "Templates/01 DMNote.md",
