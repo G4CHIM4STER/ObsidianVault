@@ -13,13 +13,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moodle. Работы по \"Соискателю\".md",
+                "file": "Zero-Links/00 Moodle.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "cf857f375fd8fd54"
+          }
+        ]
+      },
+      {
+        "id": "ef40f4579136cc40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eab0d379870efedf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Zero-Links/00 Moodle.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "cf857f375fd8fd54"
+          },
+          {
+            "id": "1df7271023567823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moodle. Работы по \"Соискателю\".md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moodle. Работы по \"Соискателю\".md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moodle. Работы по \"Соискателю\".md"
+                "file": "CoreNotes/Moodle. Отчеты.md"
               }
             }
           },
@@ -176,7 +232,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "3e14688ae2d7e9dd",
+  "active": "1df7271023567823",
   "lastOpenFiles": [
     "Zero-Links/00 Moodle.md",
     "Moodle. Работы по \"Соискателю\".md",
