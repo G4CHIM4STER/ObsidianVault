@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "60b1b7b2a9af0ac3",
+        "id": "4b529b55b8ae6cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "3e14688ae2d7e9dd",
+            "id": "ffe6df355f03f0cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Инфинитум. Скрип АСА-ЮГ.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "cf857f375fd8fd54"
+            }
           }
         ]
       },
@@ -32,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Инфинитум. Скрип АСА-ЮГ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,8 +58,7 @@
                   "close": false
                 }
               }
-            },
-            "group": "cf857f375fd8fd54"
+            }
           },
           {
             "id": "1df7271023567823",
@@ -149,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Инфинитум. Скрип АСА-ЮГ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zero-Links/00 Moodle.md",
+                "file": "Инфинитум. Скрип АСА-ЮГ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zero-Links/00 Moodle.md"
+                "file": "Инфинитум. Скрип АСА-ЮГ.md"
               }
             }
           },
@@ -232,11 +230,14 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "3e14688ae2d7e9dd",
+  "active": "ffe6df355f03f0cf",
   "lastOpenFiles": [
-    "CoreNotes/Moodle. Отчеты.md",
+    "00 Инфинитум.md",
+    "Инфинитум. Скрип АСА-ЮГ.md",
+    "Без названия.md",
     "Zero-Links/00 Moodle.md",
-    "Moodle. Работы по \"Соискателю\".md",
+    "CoreNotes/Moodle. Отчеты.md",
+    "CoreNotes/Moodle. Работы по \"Соискателю\".md",
     "BookShelf/ReadingList.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
@@ -253,7 +254,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 3.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
-    "Без названия.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
@@ -275,8 +275,6 @@
     "Без названия.canvas",
     "Files/ra-calendar.json",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 6.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/РА. А3. Эпизод 5.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3/Без названия.md",
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
