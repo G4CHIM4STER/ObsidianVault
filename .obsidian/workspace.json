@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Zero-Links/00 Moodle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "Zero-Links/00 Moodle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md"
+                "file": "Zero-Links/00 Moodle.md"
               }
             }
           },
@@ -232,11 +232,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "1df7271023567823",
+  "active": "3e14688ae2d7e9dd",
   "lastOpenFiles": [
+    "CoreNotes/Moodle. Отчеты.md",
     "Zero-Links/00 Moodle.md",
     "Moodle. Работы по \"Соискателю\".md",
-    "CoreNotes/Moodle. Отчеты.md",
     "BookShelf/ReadingList.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
