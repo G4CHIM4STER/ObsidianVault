@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e14b8a177237d74d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ef40f4579136cc40",
@@ -230,7 +241,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "ffe6df355f03f0cf",
+  "active": "e14b8a177237d74d",
   "lastOpenFiles": [
     "00 Инфинитум.md",
     "Инфинитум. Скрип АСА-ЮГ.md",
