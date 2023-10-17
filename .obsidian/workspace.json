@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoleLabs. Общая идея.md",
+                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RoleLabs. Общая идея.md",
+                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RoleLabs. Общая идея.md",
+                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RoleLabs. Общая идея.md"
+                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md"
               }
             }
           },
@@ -191,9 +191,9 @@
   },
   "active": "68bcdccdb1d6f155",
   "lastOpenFiles": [
-    "Zero-Links/00 RoleLabs.md",
     "RoleLabs. Общая идея.md",
-    "CoreNotes/Инфинитум. Скрип АСА-ЮГ.md",
+    "Zero-Links/00 RoleLabs.md",
+    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
     "Zero-Links/00 Инфинитум.md",
     "Без названия.md",
     "Zero-Links/00 Moodle.md",
