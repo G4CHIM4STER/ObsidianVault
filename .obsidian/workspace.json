@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RoleLabs. Общая идея.md",
+                "file": "CoreNotes/RoleLabs. Общая идея.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
+                "file": "Ускорение.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
+                "file": "Ускорение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
+                "file": "Ускорение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md"
+                "file": "Ускорение.md"
               }
             }
           },
@@ -191,11 +191,12 @@
   },
   "active": "68bcdccdb1d6f155",
   "lastOpenFiles": [
-    "RoleLabs. Общая идея.md",
-    "Zero-Links/00 RoleLabs.md",
     "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
-    "Zero-Links/00 Инфинитум.md",
+    "Ускорение.md",
     "Без названия.md",
+    "CoreNotes/RoleLabs. Общая идея.md",
+    "Zero-Links/00 RoleLabs.md",
+    "Zero-Links/00 Инфинитум.md",
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Moodle. Отчеты.md",
     "CoreNotes/Moodle. Работы по \"Соискателю\".md",
@@ -226,7 +227,6 @@
     "Files/abbator.jpeg",
     "Files/Pasted image 20230303222523.png",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
-    "Templates/01 DiaryNote.md",
     "Untitled Diagram.svg",
     "Files/karanos_map.png",
     "Files/ravenloft_banner.webp",
