@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Краснодар. 24.08.md",
+                "file": "Тестирование и виды тестов.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Краснодар. 24.08.md",
+                "file": "Тестирование и виды тестов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Краснодар. 24.08.md",
+                "file": "Тестирование и виды тестов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Краснодар. 24.08.md"
+                "file": "Тестирование и виды тестов.md"
               }
             }
           },
@@ -191,9 +191,11 @@
   },
   "active": "68bcdccdb1d6f155",
   "lastOpenFiles": [
-    "Ускорение.md",
-    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
+    "CoreNotes/Ускорение.md",
+    "Тестирование и виды тестов.md",
     "Без названия.md",
+    "CoreNotes/Краснодар. 24.08.md",
+    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
     "CoreNotes/RoleLabs. Общая идея.md",
     "Zero-Links/00 RoleLabs.md",
     "Zero-Links/00 Инфинитум.md",
@@ -218,7 +220,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 1.md",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
     "Files/Распределение опыта.png",
@@ -226,7 +227,6 @@
     "Files/Структура здания.png",
     "Files/abbator.jpeg",
     "Files/Pasted image 20230303222523.png",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Схема приключения.md",
     "Untitled Diagram.svg",
     "Files/karanos_map.png",
     "Files/ravenloft_banner.webp",
