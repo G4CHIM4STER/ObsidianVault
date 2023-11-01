@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -177,7 +178,7 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "58df0208b02d2b11",
+  "active": "466487cf10badaff",
   "lastOpenFiles": [
     "Без названия.md",
     "Безопасность PostgreSQL.md",
