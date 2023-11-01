@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4b529b55b8ae6cfd",
+        "id": "f882b4c234348eb5",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe6df355f03f0cf",
+            "id": "58df0208b02d2b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/RoleLabs. Общая идея.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68bcdccdb1d6f155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreNotes/Тестирование и виды тестов для Python.md",
+                "file": "Безопасность PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/RoleLabs. Общая идея.md",
+                "file": "Безопасность PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/RoleLabs. Общая идея.md",
+                "file": "Безопасность PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/RoleLabs. Общая идея.md"
+                "file": "Безопасность PostgreSQL.md"
               }
             }
           },
@@ -189,14 +177,15 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "58df0208b02d2b11",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Безопасность PostgreSQL.md",
+    "CoreNotes/RoleLabs. Общая идея.md",
     "CoreNotes/Ускорение.md",
     "CoreNotes/Тестирование и виды тестов для Python.md",
-    "Без названия.md",
     "CoreNotes/Краснодар. 24.08.md",
     "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
-    "CoreNotes/RoleLabs. Общая идея.md",
     "Zero-Links/00 RoleLabs.md",
     "Zero-Links/00 Инфинитум.md",
     "Zero-Links/00 Moodle.md",
@@ -219,7 +208,6 @@
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 4.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/РА. А4. Эпизод 2.md",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Глубинный совет.md",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4/Каранос.md",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
     "Files/Распределение опыта.png",
