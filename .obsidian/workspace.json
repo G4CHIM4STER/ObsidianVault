@@ -4,63 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f882b4c234348eb5",
+        "id": "708844a6b7fc0a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "58df0208b02d2b11",
+            "id": "7c4a303bb981fcbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+                "file": "Результат обследования. Пермь.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "cbcb1e13b6f4b750"
-          }
-        ]
-      },
-      {
-        "id": "00062362f1954cb7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "522fc4ca86ca370d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6666666666666664,
-                  "close": true
-                }
-              }
-            },
-            "group": "cbcb1e13b6f4b750"
+            }
           }
         ]
       }
@@ -136,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+                "file": "Результат обследования. Пермь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+                "file": "Результат обследования. Пермь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md"
+                "file": "Результат обследования. Пермь.md"
               }
             }
           },
@@ -219,8 +176,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "58df0208b02d2b11",
+  "active": "7c4a303bb981fcbc",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Результат обследования. Пермь.md",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf/ReadingList.md",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/План по обеспечению безопасности контейнеров.md",
@@ -228,8 +188,7 @@
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/Moodle. Отчеты.md",
     "Zero-Links/00 Moodle.md",
-    "Безопасность PostgreSQL.md",
-    "Без названия.md",
+    "CoreNotes/Безопасность PostgreSQL.md",
     "CoreNotes/RoleLabs. Общая идея.md",
     "CoreNotes/Ускорение.md",
     "CoreNotes/Тестирование и виды тестов для Python.md",
@@ -240,7 +199,6 @@
     "CoreNotes/Moodle. Работы по \"Соискателю\".md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
-    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "README.md",
     "Zero-Links/00 Адванта.md",
     "Files/docker-web.drawio",
@@ -248,7 +206,6 @@
     "DMNotes/Обсуждение перед РА. А4. Э5.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
     "DMNotes/Без названия.md",
-    "Templates/01 DMNote.md",
     "Files/План_АКТ4.drawio",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
