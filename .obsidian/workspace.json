@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Результат обследования. Пермь.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "04d785e593be8489"
+          }
+        ]
+      },
+      {
+        "id": "44dc015d3593126f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3319cb520c7f2609",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "CoreNotes/Moodle. Отчеты.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "04d785e593be8489"
           }
         ]
       }
@@ -93,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Результат обследования. Пермь.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Результат обследования. Пермь.md",
+                "file": "CoreNotes/Moodle. Отчеты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Результат обследования. Пермь.md"
+                "file": "CoreNotes/Moodle. Отчеты.md"
               }
             }
           },
@@ -176,10 +219,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "7c4a303bb981fcbc",
+  "active": "3319cb520c7f2609",
   "lastOpenFiles": [
+    "Zero-Links/00 Moodle.md",
+    "CoreNotes/Результат обследования. Пермь.md",
     "Без названия.md",
-    "Результат обследования. Пермь.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf/ReadingList.md",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
@@ -187,7 +231,6 @@
     "Zero-Links/00 Docker.md",
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/Moodle. Отчеты.md",
-    "Zero-Links/00 Moodle.md",
     "CoreNotes/Безопасность PostgreSQL.md",
     "CoreNotes/RoleLabs. Общая идея.md",
     "CoreNotes/Ускорение.md",
