@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "2023-09-11.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "04d785e593be8489"
-          }
-        ]
-      },
-      {
-        "id": "44dc015d3593126f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3319cb520c7f2609",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "04d785e593be8489"
+            }
           }
         ]
       }
@@ -136,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "2023-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md",
+                "file": "2023-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Moodle. Отчеты.md"
+                "file": "2023-09-11.md"
               }
             }
           },
@@ -219,8 +176,10 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false
     }
   },
-  "active": "3319cb520c7f2609",
+  "active": "7c4a303bb981fcbc",
   "lastOpenFiles": [
+    "CoreNotes/Moodle. Отчеты.md",
+    "2023-09-11.md",
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Результат обследования. Пермь.md",
     "Без названия.md",
@@ -230,7 +189,6 @@
     "CoreNotes/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/00 Docker.md",
     "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Moodle. Отчеты.md",
     "CoreNotes/Безопасность PostgreSQL.md",
     "CoreNotes/RoleLabs. Общая идея.md",
     "CoreNotes/Ускорение.md",
@@ -248,7 +206,6 @@
     "CoreNotes/Адванта. Статус 09.10.23.md",
     "DMNotes/Обсуждение перед РА. А4. Э5.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
-    "DMNotes/Без названия.md",
     "Files/План_АКТ4.drawio",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
