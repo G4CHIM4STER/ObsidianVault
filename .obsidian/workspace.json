@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -170,13 +171,13 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false,
       "markdown-importer:Импорт Markdown-файлов": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "7c4a303bb981fcbc",
   "lastOpenFiles": [
     "CoreNotes/Moodle. Отчеты.md",
     "Daily/2023-09-11.md",
