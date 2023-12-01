@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-09-11.md",
+                "file": "2023-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-09-11.md",
+                "file": "2023-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-09-11.md",
+                "file": "2023-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-09-11.md"
+                "file": "2023-12-01.md"
               }
             }
           },
@@ -155,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +177,9 @@
   },
   "active": "7c4a303bb981fcbc",
   "lastOpenFiles": [
-    "CoreNotes/Moodle. Отчеты.md",
     "Daily/2023-09-11.md",
+    "2023-12-01.md",
+    "CoreNotes/Moodle. Отчеты.md",
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Результат обследования. Пермь.md",
     "Без названия.md",
@@ -206,7 +205,6 @@
     "Files/docker-web.drawio",
     "CoreNotes/Адванта. Статус 09.10.23.md",
     "DMNotes/Обсуждение перед РА. А4. Э5.md",
-    "CoreNotes/Moodle. Замечания 30.08.md",
     "Files/План_АКТ4.drawio",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
