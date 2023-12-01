@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-01.md",
+                "file": "Daily/2023-12-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-01.md",
+                "file": "Daily/2023-12-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-01.md",
+                "file": "Daily/2023-12-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-01.md"
+                "file": "Daily/2023-12-01.md"
               }
             }
           },
@@ -175,10 +175,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7c4a303bb981fcbc",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "CoreNotes/Zen Zettel.md",
+    "CoreNotes/Основы  Zettelkasten.md",
+    "Daily/2023-12-01.md",
     "Daily/2023-09-11.md",
-    "2023-12-01.md",
     "CoreNotes/Moodle. Отчеты.md",
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Результат обследования. Пермь.md",
@@ -203,8 +205,6 @@
     "README.md",
     "Zero-Links/00 Адванта.md",
     "Files/docker-web.drawio",
-    "CoreNotes/Адванта. Статус 09.10.23.md",
-    "DMNotes/Обсуждение перед РА. А4. Э5.md",
     "Files/План_АКТ4.drawio",
     "Files/Пример испытания.png",
     "Files/Планы Совета.drawio",
