@@ -27,12 +27,12 @@
   },
   "BookShelf": "📚",
   "CoreNotes": "FabNoteSticky",
-  "Daily": "FabCalendar",
   "Files": "FabFileLines",
   "Templates": "RiShareForwardBoxFill",
   "Zero-Links": "RiLinksFill",
   "DMNotes": {
     "iconName": "FabChessRook",
     "inheritanceIcon": "FabChessRook"
-  }
+  },
+  "Diary": "FabCalendar"
 }

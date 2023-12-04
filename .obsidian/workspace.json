@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-12-01.md",
+                "file": "2023-12-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-12-01.md",
+                "file": "2023-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-12-01.md",
+                "file": "2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-12-01.md"
+                "file": "2023-12-04.md"
               }
             }
           },
@@ -175,14 +175,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7c4a303bb981fcbc",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
-    "Daily/2023-10-24.md",
-    "Daily/2023-12-01.md",
-    "Daily/29.01.2023.md",
+    "Diary/2023-12-01.md",
+    "2023-12-04.md",
+    "Diary/2023-10-24.md",
+    "Diary/29.01.2023.md",
     "CoreNotes/Zen Zettel.md",
     "CoreNotes/Основы  Zettelkasten.md",
-    "Daily/2023-09-11.md",
+    "Diary/2023-09-11.md",
     "CoreNotes/Moodle. Отчеты.md",
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Результат обследования. Пермь.md",
@@ -202,7 +203,6 @@
     "Zero-Links/00 RoleLabs.md",
     "Zero-Links/00 Инфинитум.md",
     "CoreNotes/Moodle. Работы по \"Соискателю\".md",
-    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/docker-web.drawio",
     "Files/План_АКТ4.drawio",
