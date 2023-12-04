@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b08a0f00770d135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работать с.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-04.md",
+                "file": "Как работать с.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-04.md",
+                "file": "Как работать с.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-04.md"
+                "file": "Как работать с.md"
               }
             }
           },
@@ -175,10 +188,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "9b08a0f00770d135",
   "lastOpenFiles": [
-    "Diary/2023-12-01.md",
+    "Без названия.md",
+    "Как работать с.md",
+    "Без названия 1.md",
     "2023-12-04.md",
+    "Diary/2023-12-01.md",
     "Diary/2023-10-24.md",
     "Diary/29.01.2023.md",
     "CoreNotes/Zen Zettel.md",
@@ -187,7 +203,6 @@
     "CoreNotes/Moodle. Отчеты.md",
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Результат обследования. Пермь.md",
-    "Без названия.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf/ReadingList.md",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
@@ -201,8 +216,6 @@
     "CoreNotes/Краснодар. 24.08.md",
     "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
     "Zero-Links/00 RoleLabs.md",
-    "Zero-Links/00 Инфинитум.md",
-    "CoreNotes/Moodle. Работы по \"Соискателю\".md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/docker-web.drawio",
     "Files/План_АКТ4.drawio",
