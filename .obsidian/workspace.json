@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Как работать с GitLab ?.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -190,6 +190,7 @@
   },
   "active": "9b08a0f00770d135",
   "lastOpenFiles": [
+    "Pasted image 20231204121021.png",
     "Без названия.md",
     "Как работать с GitLab ?.md",
     "Без названия 1.md",
@@ -215,7 +216,6 @@
     "CoreNotes/Тестирование и виды тестов для Python.md",
     "CoreNotes/Краснодар. 24.08.md",
     "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
-    "Zero-Links/00 RoleLabs.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/docker-web.drawio",
     "Files/План_АКТ4.drawio",
