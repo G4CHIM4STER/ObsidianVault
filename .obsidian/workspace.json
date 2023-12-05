@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c4a303bb981fcbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b08a0f00770d135",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +177,12 @@
   },
   "active": "9b08a0f00770d135",
   "lastOpenFiles": [
+    "Pasted image 20231205191623.png",
+    "2023-12-04.md",
+    "Как работать с GitLab ?.md",
     "Pasted image 20231204121021.png",
     "Без названия.md",
-    "Как работать с GitLab ?.md",
     "Без названия 1.md",
-    "2023-12-04.md",
     "Diary/2023-12-01.md",
     "Diary/2023-10-24.md",
     "Diary/29.01.2023.md",
@@ -230,7 +218,6 @@
     "Files/karanos_map.png",
     "Files/ravenloft_banner.webp",
     "Files/Screenshot_20230915_222537.png",
-    "Files/Pasted image 20230928120032.png",
     "Без названия.canvas",
     "Files/ra-calendar.json",
     "Files/ravenloft_banner.webp.crdownload",
