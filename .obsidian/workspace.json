@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "Как работать с GitLab ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "Как работать с GitLab ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md",
+                "file": "Как работать с GitLab ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Цели на начало 23-ого года.md"
+                "file": "Как работать с GitLab ?.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "9b08a0f00770d135",
   "lastOpenFiles": [
-    "CoreNotes/План обучения 2023.md",
     "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/План обучения 2023.md",
     "Как работать с GitLab ?.md",
     "Pasted image 20231205193057.png",
     "Pasted image 20231205193019.png",
