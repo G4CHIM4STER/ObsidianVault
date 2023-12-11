@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Как работать с GitLab ?.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как работать с GitLab ?.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как работать с GitLab ?.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как работать с GitLab ?.md"
+                "file": "CoreNotes/Цели на начало 23-ого года.md"
               }
             }
           },
@@ -177,11 +177,13 @@
   },
   "active": "9b08a0f00770d135",
   "lastOpenFiles": [
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "Как работать с GitLab ?.md",
     "Pasted image 20231205193057.png",
     "Pasted image 20231205193019.png",
     "Pasted image 20231205191623.png",
     "2023-12-04.md",
-    "Как работать с GitLab ?.md",
     "Pasted image 20231204121021.png",
     "Без названия.md",
     "Без названия 1.md",
@@ -199,7 +201,6 @@
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/План по обеспечению безопасности контейнеров.md",
     "Zero-Links/00 Docker.md",
-    "CoreNotes/План обучения 2023.md",
     "CoreNotes/Безопасность PostgreSQL.md",
     "CoreNotes/RoleLabs. Общая идея.md",
     "CoreNotes/Ускорение.md",
@@ -217,7 +218,6 @@
     "Files/abbator.jpeg",
     "Files/Pasted image 20230303222523.png",
     "Untitled Diagram.svg",
-    "Files/karanos_map.png",
     "Без названия.canvas",
     "Files/ra-calendar.json",
     "Files/ravenloft_banner.webp.crdownload",
