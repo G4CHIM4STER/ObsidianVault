@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/ReadingList.md",
+                "file": "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/ReadingList.md"
+                "file": "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md"
               }
             }
           },
@@ -175,14 +175,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "9b08a0f00770d135",
   "lastOpenFiles": [
+    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
+    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
+    "BookShelf/ReadingList.md",
     "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
     "BookShelf/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
-    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
-    "BookShelf/ReadingList.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "Как работать с GitLab ?.md",

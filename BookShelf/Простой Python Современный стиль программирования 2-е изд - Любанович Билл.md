@@ -16,6 +16,8 @@ previewLink: http://books.google.ru/books?id=4KceEAAAQBAJ&printsec=frontcover&dq
 isbn13: 9785446116393
 isbn10: 5446116399
 status: Прочитано
+tags:
+  - 📚Book
 ---
 ---
 # Простой Python Современный стиль программирования 2-е изд - Любанович Билл
