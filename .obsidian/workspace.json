@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e01dafcb76164fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BookShelf/Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
+                "file": "BookShelf/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
+                "file": "BookShelf/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md"
+                "file": "BookShelf/Без названия.md"
               }
             }
           },
@@ -175,12 +188,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9b08a0f00770d135",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
+    "BookShelf/Без названия.md",
     "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/ReadingList.md",
-    "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
     "BookShelf/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
@@ -193,7 +207,6 @@
     "Pasted image 20231205191623.png",
     "2023-12-04.md",
     "Pasted image 20231204121021.png",
-    "Без названия.md",
     "Без названия 1.md",
     "Diary/2023-12-01.md",
     "Diary/2023-10-24.md",
