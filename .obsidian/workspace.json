@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+                "file": "2023-12-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+                "file": "2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+                "file": "2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md"
+                "file": "2023-12-13.md"
               }
             }
           },
@@ -178,6 +178,13 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
+    "Diary/2023-04-13.md",
+    "2023-12-13.md",
+    "2023-12-13.md",
+    "Без названия.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
@@ -195,19 +202,12 @@
     "BookShelf/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/План обучения 2023.md",
     "Files/Pasted image 20231204121021.png",
     "Без названия 1.md",
     "Diary/2023-12-01.md",
     "Diary/2023-10-24.md",
     "Diary/29.01.2023.md",
     "CoreNotes/Zen Zettel.md",
-    "CoreNotes/Основы  Zettelkasten.md",
-    "Diary/2023-09-11.md",
-    "CoreNotes/Moodle. Отчеты.md",
-    "Zero-Links/00 Moodle.md",
-    "CoreNotes/Результат обследования. Пермь.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/docker-web.drawio",
     "Files/План_АКТ4.drawio",
