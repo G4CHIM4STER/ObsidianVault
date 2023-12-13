@@ -26,4 +26,4 @@ ___
 - [[00 Linux]]
 
 ### Links
-- [[Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf]]
+- ![[Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf]]
