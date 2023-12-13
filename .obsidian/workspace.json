@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Как работать с GitLab ?.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -176,7 +176,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2190c0ec971c9ff2",
+  "active": "b754776af2581f96",
   "lastOpenFiles": [
     "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
     "BookShelf/Руководство по DevOps.md",
