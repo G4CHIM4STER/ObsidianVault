@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md"
+                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md"
               }
             }
           },
@@ -178,8 +178,19 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
-    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "BookShelf/ReadingList.md",
+    "BookShelf/Руководство по DevOps.md",
+    "BookShelf/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
+    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
+    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
+    "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
+    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
+    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/RoleLabs. Общая идея.md",
     "CoreNotes/Moodle. Работы по \"Соискателю\".md",
     "CoreNotes/Moodle. Отчеты.md",
@@ -194,16 +205,6 @@
     "CoreNotes/Общая информация по универу.md",
     "CoreNotes/Книги по управлению проектами.md",
     "CoreNotes/Краснодар. 24.08.md",
-    "CoreNotes/Континент 4.0 Тестовый стенд. Основная информация.md",
-    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
-    "CoreNotes/ИСиТ. Практика 1-2.md",
-    "CoreNotes/Инструкция.md",
-    "CoreNotes/Изучаем Python.md",
-    "CoreNotes/Запрос для Марата и Саши.md",
-    "CoreNotes/Жизнь Core.md",
-    "README.md",
-    "Zero-Links/00 Wiki.md",
-    "Без названия.md",
     "Files/Pasted image 20231205193057.png",
     "Files/Pasted image 20231205191623.png",
     "Files/Pasted image 20231205193019.png",
@@ -224,7 +225,6 @@
     "Files/ravenloft_banner.webp.crdownload",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
     "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 2",
     "Без названия 1.canvas"
   ]
 }

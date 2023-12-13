@@ -21,3 +21,5 @@ status: В планах
 ---
 ---
 # Руководство по DevOps
+
+![[dokumen.pub_devops-1nbsped-9785001007500.pdf]]
