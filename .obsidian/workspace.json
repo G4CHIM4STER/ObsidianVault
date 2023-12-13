@@ -11,11 +11,9 @@
             "id": "b754776af2581f96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Как работать с GitLab ?.md",
-                "mode": "preview",
-                "source": false
+                "file": "Files/Pasted image 20231205193057.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Как работать с GitLab ?.md",
+                "file": "Files/Pasted image 20231205193057.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Как работать с GitLab ?.md",
+                "file": "Files/Pasted image 20231205193057.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Как работать с GitLab ?.md"
+                "file": "Files/Pasted image 20231205193057.png"
               }
             }
           },
@@ -176,8 +174,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b754776af2581f96",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "Files/Как работать с GitLab ?.md",
+    "Files/Pasted image 20231205191623.png",
+    "Files/Pasted image 20231205193057.png",
+    "Files/Pasted image 20231205193019.png",
     "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
     "BookShelf/Руководство по DevOps.md",
     "2023-12-04.md",
@@ -189,13 +191,9 @@
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
-    "Как работать с GitLab ?.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/План обучения 2023.md",
-    "Pasted image 20231205193057.png",
-    "Pasted image 20231205193019.png",
-    "Pasted image 20231205191623.png",
-    "Pasted image 20231204121021.png",
+    "Files/Pasted image 20231204121021.png",
     "Без названия 1.md",
     "Diary/2023-12-01.md",
     "Diary/2023-10-24.md",
@@ -207,7 +205,6 @@
     "Zero-Links/00 Moodle.md",
     "CoreNotes/Результат обследования. Пермь.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/docker-web.drawio",
     "Files/План_АКТ4.drawio",
