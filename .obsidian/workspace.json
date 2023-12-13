@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-12-13.md",
+                "file": "Zero-Links/00 Wiki.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-12-13.md",
+                "file": "Zero-Links/00 Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-12-13.md",
+                "file": "Zero-Links/00 Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-12-13.md"
+                "file": "Zero-Links/00 Wiki.md"
               }
             }
           },
@@ -178,8 +178,18 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
-    "Zero-Links/Без названия.md",
+    "Zero-Links/00 RoleLabs.md",
+    "Zero-Links/00 Wiki.md",
+    "Zero-Links/00 YSTS.md",
+    "Zero-Links/00 Цели.md",
+    "Zero-Links/00 Фильмы.md",
+    "Zero-Links/01 Инфинитум.md",
+    "Zero-Links/00 Универ.md",
+    "Zero-Links/00 Повышение безопасности.md",
+    "Zero-Links/01 ВТБ.md",
+    "Zero-Links/01 СОИБ.md",
     "Diary/2023-12-13.md",
+    "Zero-Links/Без названия.md",
     "Diary/2023-04-13.md",
     "Без названия.md",
     "CoreNotes/План обучения 2023.md",
@@ -197,17 +207,7 @@
     "BookShelf/Руководство по DevOps.md",
     "2023-12-04.md",
     "BookShelf/ReadingList.md",
-    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
-    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
-    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
     "Files/Pasted image 20231204121021.png",
-    "Без названия 1.md",
-    "Diary/2023-12-01.md",
-    "Diary/2023-10-24.md",
-    "Diary/29.01.2023.md",
-    "CoreNotes/Zen Zettel.md",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/docker-web.drawio",
     "Files/План_АКТ4.drawio",
