@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "Diary/2023-12-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "Diary/2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "Diary/2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-13.md"
+                "file": "Diary/2023-12-13.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
+    "Zero-Links/Без названия.md",
+    "Diary/2023-12-13.md",
     "Diary/2023-04-13.md",
-    "2023-12-13.md",
-    "2023-12-13.md",
     "Без названия.md",
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/Цели на начало 23-ого года.md",
