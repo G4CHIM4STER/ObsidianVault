@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+    "CoreNotes/Zen Zettel.md",
     "Без названия.md",
     "BookShelf/Руководство по DevOps.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3",
@@ -204,7 +205,6 @@
     "CoreNotes/Moodle. Замечания 30.08.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Ускорение.md",
-    "CoreNotes/Zen Zettel.md",
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Описание инфраструктуры.md",
