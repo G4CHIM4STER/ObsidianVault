@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Без названия.canvas",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 334.8,
-                  "zoom": -0.8
+                  "x": -10,
+                  "y": -40,
+                  "zoom": 0
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas"
               }
             }
           },
@@ -181,10 +181,10 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Без названия.canvas",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Untitled Kanban.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Untitled Kanban.md",
     "CoreNotes/Zen Zettel.md",
     "Без названия.md",
     "BookShelf/Руководство по DevOps.md",
