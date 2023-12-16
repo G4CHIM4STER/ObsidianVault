@@ -11,11 +11,14 @@
             "id": "842bc52847252448",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
-                "mode": "source",
-                "source": false
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 334.8,
+                  "zoom": -0.8
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md"
               }
             }
           },
@@ -178,8 +181,10 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Без названия.canvas",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Untitled Kanban.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
     "CoreNotes/Zen Zettel.md",
     "Без названия.md",
     "BookShelf/Руководство по DevOps.md",
@@ -206,8 +211,6 @@
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Ускорение.md",
     "CoreNotes/Основы  Zettelkasten.md",
-    "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
-    "CoreNotes/Описание инфраструктуры.md",
     "Files/Pasted image 20231205193057.png",
     "Files/Pasted image 20231205191623.png",
     "Files/Pasted image 20231205193019.png",
@@ -223,7 +226,6 @@
     "Files/abbator.jpeg",
     "Files/Pasted image 20230303222523.png",
     "Untitled Diagram.svg",
-    "Без названия.canvas",
     "Files/ra-calendar.json",
     "Без названия 1.canvas"
   ]
