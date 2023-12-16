@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Агата).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Агата).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Агата).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Агата).md"
               }
             }
           },
@@ -178,11 +178,18 @@
   },
   "active": "842bc52847252448",
   "lastOpenFiles": [
-    "BookShelf/ReadingList.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Агата).md",
+    "Без названия.md",
     "BookShelf/Руководство по DevOps.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3",
+    "DMNotes/NSD&D/Забытые Рудники",
+    "DMNotes/Обсуждение перед РА. А4. Э5.md",
+    "DMNotes/NSD&D",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf/ReadingList.md",
     "BookShelf/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
@@ -201,10 +208,6 @@
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Описание инфраструктуры.md",
-    "CoreNotes/Математика для Data Science и машинного обучения.md",
-    "CoreNotes/Общая информация по универу.md",
-    "CoreNotes/Книги по управлению проектами.md",
-    "CoreNotes/Краснодар. 24.08.md",
     "Files/Pasted image 20231205193057.png",
     "Files/Pasted image 20231205191623.png",
     "Files/Pasted image 20231205193019.png",
@@ -222,9 +225,6 @@
     "Untitled Diagram.svg",
     "Без названия.canvas",
     "Files/ra-calendar.json",
-    "Files/ravenloft_banner.webp.crdownload",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 4",
-    "DMNotes/Adventures/Ravenloft Adventures/АКТ 3",
     "Без названия 1.canvas"
   ]
 }
