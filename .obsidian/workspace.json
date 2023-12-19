@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "74437079e328b0be",
+        "id": "535edee366f627c6",
         "type": "tabs",
         "children": [
           {
-            "id": "842bc52847252448",
+            "id": "dca05a15c37a9202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-19.md",
+                "file": "The Shell Scripting Tutorial.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6015488a96082ba0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9028dcd6b9b1f16c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-19.md",
+                "file": "The Shell Scripting Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-19.md",
+                "file": "The Shell Scripting Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-19.md"
+                "file": "The Shell Scripting Tutorial.md"
               }
             }
           },
@@ -176,18 +190,21 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "842bc52847252448",
+  "active": "dca05a15c37a9202",
   "lastOpenFiles": [
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+    "CoreNotes/Zen Zettel.md",
+    "The Shell Scripting Tutorial.md",
+    "Zero-Links/00 Bash.md",
+    "Без названия.md",
+    "Без названия 1.md",
     "2023-12-19.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Даран Эдермат.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Untitled Kanban.md",
-    "CoreNotes/Zen Zettel.md",
-    "Без названия.md",
     "BookShelf/Руководство по DevOps.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3",
     "DMNotes/NSD&D/Забытые Рудники",
@@ -208,9 +225,6 @@
     "CoreNotes/RoleLabs. Общая идея.md",
     "CoreNotes/Moodle. Работы по \"Соискателю\".md",
     "CoreNotes/Moodle. Отчеты.md",
-    "CoreNotes/Moodle. Замечания 30.08.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/Ускорение.md",
     "Files/Pasted image 20231205193057.png",
     "Files/Pasted image 20231205191623.png",
     "Files/Pasted image 20231205193019.png",
