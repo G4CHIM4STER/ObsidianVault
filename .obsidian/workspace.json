@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Shell Scripting Tutorial.md",
+                "file": "CoreNotes/The Shell Scripting Tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Shell Scripting Tutorial.md",
+                "file": "CoreNotes/The Shell Scripting Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Shell Scripting Tutorial.md",
+                "file": "CoreNotes/The Shell Scripting Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Shell Scripting Tutorial.md"
+                "file": "CoreNotes/The Shell Scripting Tutorial.md"
               }
             }
           },
@@ -176,10 +176,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "dca05a15c37a9202",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
     "CoreNotes/Zen Zettel.md",
-    "The Shell Scripting Tutorial.md",
+    "CoreNotes/The Shell Scripting Tutorial.md",
     "Zero-Links/00 Bash.md",
     "Без названия.md",
     "Без названия 1.md",

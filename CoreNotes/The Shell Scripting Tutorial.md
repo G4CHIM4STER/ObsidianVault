@@ -34,7 +34,19 @@ read USER_NAMEecho "Hello $USER_NAME"
 echo "I will create you a file called ${USER_NAME}_file"  
 touch "${USER_NAME}_file"```
 
-ВА
+---
+
+## Wildcard
+
+Вайлдкарды повсеместно используются в написании скриптов и вовремя взаимодействия с системой.
+
+>[!info]- Пример
+>```sh
+>$ cp /tmp/a/* /tmp/b/
+>$ cp /tmp/a/*.txt /tmp/b/
+>$ cp /tmp/a/*.html /tmp/b/
+>```
+
 
 ___
 ### Zero-Links
