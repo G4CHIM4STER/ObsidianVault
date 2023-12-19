@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Даран Эдермат.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3aba8e13c846e38",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+                "viewState": {
+                  "x": 398.11644036460063,
+                  "y": 493.4414391778563,
+                  "zoom": -1.0780719051126377
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas"
               }
             }
           },
@@ -176,20 +192,27 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "b3aba8e13c846e38",
   "lastOpenFiles": [
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Укрытие Каменной Пасти.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Громодеревья.md",
     "CoreNotes/Zen Zettel.md",
+    "Без названия.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Даран Эдермат.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Untitled.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "CoreNotes/The Shell Scripting Tutorial.md",
     "Zero-Links/00 Bash.md",
-    "Без названия.md",
     "Без названия 1.md",
     "2023-12-19.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Даран Эдермат.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Untitled Kanban.md",
     "BookShelf/Руководство по DevOps.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3",
@@ -204,13 +227,7 @@
     "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
     "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
     "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
-    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
-    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
-    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/RoleLabs. Общая идея.md",
-    "CoreNotes/Moodle. Работы по \"Соискателю\".md",
-    "CoreNotes/Moodle. Отчеты.md",
     "Files/Pasted image 20231205193057.png",
     "Files/Pasted image 20231205191623.png",
     "Files/Pasted image 20231205193019.png",
@@ -219,7 +236,6 @@
     "Files/docker-web.drawio",
     "Files/План_АКТ4.drawio",
     "Files/Пример испытания.png",
-    "Files/Планы Совета.drawio",
     "Files/Распределение опыта.png",
     "Files/Структура здания.png",
     "Files/abbator.jpeg",
