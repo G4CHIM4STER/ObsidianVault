@@ -23,14 +23,11 @@
             "id": "b3aba8e13c846e38",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
-                "viewState": {
-                  "x": 398.11644036460063,
-                  "y": 493.4414391778563,
-                  "zoom": -1.0780719051126377
-                }
+                "file": "CoreNotes/Как работать с GitLab ?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+                "file": "CoreNotes/Как работать с GitLab ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+                "file": "CoreNotes/Как работать с GitLab ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas"
+                "file": "CoreNotes/Как работать с GitLab ?.md"
               }
             }
           },
@@ -192,10 +189,28 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b3aba8e13c846e38",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Запрос для Марата и Саши.md",
+    "CoreNotes/Правка лаб.md",
+    "CoreNotes/СОИБ. Пермь.md",
+    "CoreNotes/Тестирование и виды тестов для Python.md",
+    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes/The Shell Scripting Tutorial.md",
+    "CoreNotes/Moodle. Работы по \"Соискателю\".md",
+    "CoreNotes/Moodle. Отчеты.md",
+    "CoreNotes/Moodle. Замечания 30.08.md",
+    "CoreNotes/Ускорение.md",
+    "CoreNotes/Список книг на 2023.md",
+    "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
+    "CoreNotes/Математика для Data Science и машинного обучения.md",
+    "CoreNotes/Книги по управлению проектами.md",
+    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
+    "CoreNotes/Инструкция.md",
+    "CoreNotes/СОИБ. Краснодар.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Укрытие Каменной Пасти.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
@@ -204,29 +219,12 @@
     "Без названия.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Даран Эдермат.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Untitled.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Кроличья Ягода (Логово Агата).md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
-    "CoreNotes/The Shell Scripting Tutorial.md",
-    "Zero-Links/00 Bash.md",
-    "Без названия 1.md",
-    "2023-12-19.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Untitled Kanban.md",
-    "BookShelf/Руководство по DevOps.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3",
     "DMNotes/NSD&D/Забытые Рудники",
-    "DMNotes/Обсуждение перед РА. А4. Э5.md",
     "DMNotes/NSD&D",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "BookShelf/ReadingList.md",
-    "BookShelf/Bash и кибербезопасность атака защита и анализ из командной строки Linux - Тронкон Пол Олбинг Карл.md",
-    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
-    "BookShelf/The Satanic Rituals - Anton Szandor LaVey.md",
-    "BookShelf/Kali Linux библия пентестера - Хаваджа Гас.md",
-    "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "Files/Pasted image 20231205193057.png",
     "Files/Pasted image 20231205191623.png",
