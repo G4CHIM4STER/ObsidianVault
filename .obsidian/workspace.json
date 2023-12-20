@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Как работать с GitLab ?.md",
+                "file": "Краткий гайд по Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Как работать с GitLab ?.md",
+                "file": "Краткий гайд по Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Как работать с GitLab ?.md",
+                "file": "Краткий гайд по Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Как работать с GitLab ?.md"
+                "file": "Краткий гайд по Git.md"
               }
             }
           },
@@ -189,8 +189,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "b3aba8e13c846e38",
   "lastOpenFiles": [
+    "Pasted image 20231220111207.png",
+    "CoreNotes/Как работать с GitLab ?.md",
+    "Краткий гайд по Git.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Запрос для Марата и Саши.md",
     "CoreNotes/Правка лаб.md",
@@ -216,9 +219,6 @@
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Громодеревья.md",
     "CoreNotes/Zen Zettel.md",
-    "Без названия.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Даран Эдермат.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
