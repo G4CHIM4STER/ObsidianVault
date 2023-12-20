@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "535edee366f627c6",
+        "id": "c940e2690d253c75",
         "type": "tabs",
         "children": [
           {
-            "id": "dca05a15c37a9202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Даран Эдермат.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3aba8e13c846e38",
+            "id": "48552217bd1ea41a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,12 +176,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b3aba8e13c846e38",
+  "active": "48552217bd1ea41a",
   "lastOpenFiles": [
+    "Files/Алгоритмы_Data_Science_и_их_практическая_реализация_на_Python_2022.pdf",
+    "Files/abbator.jpeg",
+    "Краткий гайд по Git.md",
     "Pasted image 20231220111910.png",
     "Pasted image 20231220111207.png",
     "CoreNotes/Как работать с GitLab ?.md",
-    "Краткий гайд по Git.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Запрос для Марата и Саши.md",
     "CoreNotes/Правка лаб.md",
@@ -237,8 +226,6 @@
     "Files/Пример испытания.png",
     "Files/Распределение опыта.png",
     "Files/Структура здания.png",
-    "Files/abbator.jpeg",
-    "Files/Pasted image 20230303222523.png",
     "Без названия 1.canvas"
   ]
 }
