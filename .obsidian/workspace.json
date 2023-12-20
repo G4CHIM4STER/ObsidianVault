@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -176,7 +177,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "48552217bd1ea41a",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
     "Pasted image 20231220120752.png",
     "asd.jpg",
