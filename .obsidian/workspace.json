@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Краткий гайд по Git.md",
-                "mode": "preview",
-                "source": true
+                "file": "CoreNotes/The Shell Scripting Tutorial.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Краткий гайд по Git.md",
+                "file": "CoreNotes/The Shell Scripting Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Краткий гайд по Git.md",
+                "file": "CoreNotes/The Shell Scripting Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Краткий гайд по Git.md"
+                "file": "CoreNotes/The Shell Scripting Tutorial.md"
               }
             }
           },
@@ -179,17 +178,19 @@
   },
   "active": "48552217bd1ea41a",
   "lastOpenFiles": [
-    "Pasted image 20231220125451.png",
-    "Pasted image 20231220125306.png",
-    "Pasted image 20231220120752.png",
-    "asd.jpg",
-    "Pasted image 20231220115718.png",
-    "Pasted image 20231220115525.png",
+    "Files/Pasted image 20231220125451.png",
+    "CoreNotes/Краткий гайд по Git.md",
+    "2023-12-19.md",
+    "Без названия.md",
+    "Files/Pasted image 20231220125306.png",
+    "Files/Pasted image 20231220120752.png",
+    "Files/asd.jpg",
+    "Files/Pasted image 20231220115718.png",
+    "Files/Pasted image 20231220115525.png",
     "Files/Алгоритмы_Data_Science_и_их_практическая_реализация_на_Python_2022.pdf",
     "Files/abbator.jpeg",
-    "Краткий гайд по Git.md",
-    "Pasted image 20231220111910.png",
-    "Pasted image 20231220111207.png",
+    "Files/Pasted image 20231220111910.png",
+    "Files/Pasted image 20231220111207.png",
     "CoreNotes/Как работать с GitLab ?.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Запрос для Марата и Саши.md",
@@ -214,8 +215,6 @@
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Укрытие Каменной Пасти.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Громодеревья.md",
-    "CoreNotes/Zen Zettel.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
@@ -224,7 +223,6 @@
     "DMNotes/NSD&D",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "Files/Pasted image 20231205193057.png",
-    "Files/Pasted image 20231205191623.png",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Files/docker-web.drawio",
     "Без названия 1.canvas"
