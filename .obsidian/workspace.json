@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Краткий гайд по Git.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3c1fdc67df801b5",
