@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md",
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md",
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md",
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/The Shell Scripting Tutorial.md"
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md"
               }
             }
           },
@@ -178,6 +178,10 @@
   },
   "active": "48552217bd1ea41a",
   "lastOpenFiles": [
+    "DMNotes/Идеи для игр/Загадки.md",
+    "DMNotes/Идеи для игр/Идеи для квестов.md",
+    "CoreNotes/The Shell Scripting Tutorial.md",
+    "DMNotes/Идеи для игр",
     "Files/Pasted image 20231220125451.png",
     "CoreNotes/Краткий гайд по Git.md",
     "2023-12-19.md",
@@ -198,7 +202,6 @@
     "CoreNotes/СОИБ. Пермь.md",
     "CoreNotes/Тестирование и виды тестов для Python.md",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/The Shell Scripting Tutorial.md",
     "CoreNotes/Moodle. Работы по \"Соискателю\".md",
     "CoreNotes/Moodle. Отчеты.md",
     "CoreNotes/Moodle. Замечания 30.08.md",
@@ -214,7 +217,6 @@
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Укрытие Каменной Пасти.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
@@ -224,7 +226,6 @@
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "Files/Pasted image 20231205193057.png",
     "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
-    "Files/docker-web.drawio",
     "Без названия 1.canvas"
   ]
 }
