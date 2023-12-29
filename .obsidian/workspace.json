@@ -23,9 +23,11 @@
             "id": "c65e5f16aca9ff8c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Идеи для игр/Идеи для квестов.md"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md"
               }
             }
           },
@@ -189,6 +191,14 @@
   },
   "active": "c65e5f16aca9ff8c",
   "lastOpenFiles": [
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Громодеревья.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
+    "BookShelf/ReadingList.md",
     "DMNotes/Идеи для игр/Загадки.md",
     "DMNotes/Идеи для игр/Идеи для квестов.md",
     "CoreNotes/The Shell Scripting Tutorial.md",
@@ -220,14 +230,6 @@
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Математика для Data Science и машинного обучения.md",
-    "CoreNotes/Книги по управлению проектами.md",
-    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
-    "CoreNotes/Инструкция.md",
-    "CoreNotes/СОИБ. Краснодар.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Укрытие Каменной Пасти.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
@@ -236,7 +238,6 @@
     "DMNotes/NSD&D",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "Files/Pasted image 20231205193057.png",
-    "Files/Kali_Linux_библия_пентестера_2023_Гас_Хаваджа (2).pdf",
     "Без названия 1.canvas"
   ]
 }
