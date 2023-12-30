@@ -23,14 +23,11 @@
             "id": "c65e5f16aca9ff8c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
-                "viewState": {
-                  "x": 280,
-                  "y": 450,
-                  "zoom": -0.732519689135014
-                }
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Идеи для игр/Идеи для квестов.md"
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md"
               }
             }
           },
@@ -192,11 +189,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "c65e5f16aca9ff8c",
   "lastOpenFiles": [
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+    "DMNotes/Идеи для игр/Идеи для квестов.md",
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Громодеревья.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
@@ -204,7 +202,6 @@
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "BookShelf/ReadingList.md",
     "DMNotes/Идеи для игр/Загадки.md",
-    "DMNotes/Идеи для игр/Идеи для квестов.md",
     "CoreNotes/The Shell Scripting Tutorial.md",
     "DMNotes/Идеи для игр",
     "Files/Pasted image 20231220125451.png",
@@ -233,7 +230,6 @@
     "CoreNotes/Ускорение.md",
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
-    "CoreNotes/Математика для Data Science и машинного обучения.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
