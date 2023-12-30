@@ -23,11 +23,14 @@
             "id": "c65e5f16aca9ff8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
-                "mode": "source",
-                "source": false
+                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
+                "viewState": {
+                  "x": 280,
+                  "y": 450,
+                  "zoom": -0.732519689135014
+                }
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md"
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md"
               }
             }
           },
@@ -189,8 +192,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c65e5f16aca9ff8c",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
