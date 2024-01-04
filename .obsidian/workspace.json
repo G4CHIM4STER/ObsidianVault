@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос.md",
+                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос.md",
+                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос.md",
+                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос.md"
+                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md"
               }
             }
           },
@@ -191,8 +191,11 @@
   },
   "active": "c65e5f16aca9ff8c",
   "lastOpenFiles": [
+    "GetImage.png",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Общая информация.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос.md",
     "Без названия.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4",
@@ -230,14 +233,11 @@
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/Moodle. Работы по \"Соискателю\".md",
     "CoreNotes/Moodle. Отчеты.md",
-    "CoreNotes/Moodle. Замечания 30.08.md",
-    "CoreNotes/Ускорение.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3",
     "DMNotes/NSD&D/Забытые Рудники",
-    "DMNotes/NSD&D",
     "Files/Pasted image 20231205193057.png",
     "Без названия 1.canvas"
   ]
