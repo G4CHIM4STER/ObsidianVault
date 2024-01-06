@@ -6,7 +6,7 @@
 		{"id":"889531f7089daf2c","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/М1. Большой брат.md","x":-40,"y":-109,"width":400,"height":400,"color":"4"},
 		{"id":"01f33721cc0e0a69","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/К1. Время сопротивления.md","x":480,"y":-109,"width":400,"height":400,"color":"6"},
 		{"id":"6db423ee2bc8c9ef","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/О1. На страже закона.md","x":1000,"y":-109,"width":400,"height":400,"color":"6"},
-		{"id":"7d2491cb8dc2cde7","x":35,"y":1560,"width":250,"height":60,"color":"1","type":"text","text":"Возвращение Аззалина"}
+		{"id":"7d2491cb8dc2cde7","x":35,"y":2000,"width":250,"height":60,"color":"1","type":"text","text":"Возвращение Аззалина"}
 	],
 	"edges":[
 		{"id":"3cd13b49c8b0c375","fromNode":"01cc26b2617acb11","fromSide":"bottom","toNode":"cf2bb472bb99acea","toSide":"top"},
