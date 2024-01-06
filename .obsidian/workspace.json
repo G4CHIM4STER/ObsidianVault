@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c65e5f16aca9ff8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md"
+                "file": "DMNotes/Идеи для игр/Идеи для квестов.md"
               }
             }
           },
@@ -181,25 +168,43 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "command-palette:Открыть палитру команд": true,
+      "markdown-importer:Импорт Markdown-файлов": true,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": true,
       "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c65e5f16aca9ff8c",
+  "active": "48552217bd1ea41a",
   "lastOpenFiles": [
-    "GetImage.png",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Общая информация.md",
+    "202401052224.md",
+    "DMNotes/Идеи для игр/Идеи для квестов.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Вечный Орден.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Культ Ремесла (Ладугер).md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Мстительное копьё (Законник).md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Культ Глубин (Дуэрра).md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Культ кинжала (Аббатор).md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/README.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Без названия.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Без названия.md",
+    "Files/GetImage.png",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Каззиик'с.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Охотники ван Рихтена.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Андивер Олар.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Форак-Эрач-Нод.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Северная торговая компания.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Железные Кирки.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Общая информация.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md",
     "Без названия.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Колодец Старой Совы.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4",
-    "DMNotes/Идеи для игр/Идеи для квестов.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Укрытие Каменной Пасти.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Громодеревья.md",
@@ -208,13 +213,8 @@
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
-    "BookShelf/ReadingList.md",
-    "DMNotes/Идеи для игр/Загадки.md",
-    "CoreNotes/The Shell Scripting Tutorial.md",
     "DMNotes/Идеи для игр",
     "Files/Pasted image 20231220125451.png",
-    "CoreNotes/Краткий гайд по Git.md",
-    "2023-12-19.md",
     "Files/Pasted image 20231220125306.png",
     "Files/Pasted image 20231220120752.png",
     "Files/asd.jpg",
@@ -224,21 +224,9 @@
     "Files/abbator.jpeg",
     "Files/Pasted image 20231220111910.png",
     "Files/Pasted image 20231220111207.png",
-    "CoreNotes/Как работать с GitLab ?.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/Запрос для Марата и Саши.md",
-    "CoreNotes/Правка лаб.md",
-    "CoreNotes/СОИБ. Пермь.md",
-    "CoreNotes/Тестирование и виды тестов для Python.md",
-    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/Moodle. Работы по \"Соискателю\".md",
-    "CoreNotes/Moodle. Отчеты.md",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "DMNotes/Орифлейм и Ко",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод3",
-    "DMNotes/NSD&D/Забытые Рудники",
-    "Files/Pasted image 20231205193057.png",
     "Без названия 1.canvas"
   ]
 }

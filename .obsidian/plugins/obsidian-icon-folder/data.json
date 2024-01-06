@@ -23,7 +23,8 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "BookShelf": "📚",
   "CoreNotes": "FabNoteSticky",
