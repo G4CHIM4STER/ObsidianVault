@@ -1,6 +1,18 @@
 {
 	"nodes":[
-		{"id":"01cc26b2617acb11","x":-38,"y":-321,"width":250,"height":60,"color":"4","type":"text","text":"Прибытие в Каранос"}
+		{"id":"cf2bb472bb99acea","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В1. Инструменты торговли.md","x":-1040,"y":-109,"width":400,"height":400,"color":"3"},
+		{"id":"01cc26b2617acb11","type":"text","text":"Прибытие в Каранос","x":-135,"y":-520,"width":250,"height":60,"color":"4"},
+		{"id":"1ce4fa831cf3c994","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В2. Мечи и Пиво.md","x":-535,"y":-109,"width":400,"height":400,"color":"3"},
+		{"id":"889531f7089daf2c","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/М1. Большой брат.md","x":-40,"y":-109,"width":400,"height":400,"color":"4"},
+		{"id":"01f33721cc0e0a69","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/К1. Время сопротивления.md","x":480,"y":-109,"width":400,"height":400,"color":"6"},
+		{"id":"6db423ee2bc8c9ef","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/О1. На страже закона.md","x":1000,"y":-109,"width":400,"height":400,"color":"6"},
+		{"id":"7d2491cb8dc2cde7","x":35,"y":1560,"width":250,"height":60,"color":"1","type":"text","text":"Возвращение Аззалина"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3cd13b49c8b0c375","fromNode":"01cc26b2617acb11","fromSide":"bottom","toNode":"cf2bb472bb99acea","toSide":"top"},
+		{"id":"8f64afeab5b958c5","fromNode":"01cc26b2617acb11","fromSide":"bottom","toNode":"1ce4fa831cf3c994","toSide":"top"},
+		{"id":"8969a385b436f101","fromNode":"01cc26b2617acb11","fromSide":"bottom","toNode":"889531f7089daf2c","toSide":"top"},
+		{"id":"6dfe59d2f435c0e2","fromNode":"01cc26b2617acb11","fromSide":"bottom","toNode":"01f33721cc0e0a69","toSide":"top"},
+		{"id":"f4286e702b21254b","fromNode":"01cc26b2617acb11","fromSide":"bottom","toNode":"6db423ee2bc8c9ef","toSide":"top"}
+	]
 }
