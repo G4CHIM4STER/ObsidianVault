@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"6e6bb8f318291d83","x":82,"y":1391,"width":250,"height":60,"type":"text","text":""},
 		{"id":"cf2bb472bb99acea","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В1. Инструменты торговли.md","x":-1040,"y":-109,"width":400,"height":400,"color":"3"},
 		{"id":"01cc26b2617acb11","type":"text","text":"Прибытие в Каранос","x":-135,"y":-520,"width":250,"height":60,"color":"4"},
 		{"id":"1ce4fa831cf3c994","type":"file","file":"DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В2. Мечи и Пиво.md","x":-535,"y":-109,"width":400,"height":400,"color":"3"},
