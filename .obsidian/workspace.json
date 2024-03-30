@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Безопасность контейнеров.md",
+                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Безопасность контейнеров.md",
+                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Безопасность контейнеров.md",
+                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Безопасность контейнеров.md"
+                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md"
               }
             }
           },
@@ -178,11 +178,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "ec800da424dfa50e",
   "lastOpenFiles": [
-    "CoreNotes/Безопасность контейнеров от Exec.md",
-    "CoreNotes/Безопасность контейнеров в Linux.md",
-    "CoreNotes/Безопасность контейнеров.md",
+    "CoreNotes/Knowledge Base/Git/Краткий гайд по Git.md",
+    "CoreNotes/Математика для Data Science и машинного обучения.md",
+    "CoreNotes/Knowledge Base/Python/Изучаем Python.md",
+    "CoreNotes/Книги по управлению проектами.md",
+    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
+    "CoreNotes/Инструкция.md",
+    "CoreNotes/Жизнь Core.md",
+    "CoreNotes/Запрос для Марата и Саши.md",
+    "CoreNotes/Вопросы к Мансуру по синтаксису FP.md",
+    "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
+    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров.md",
+    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
+    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров в Linux.md",
     "CoreNotes/Адванта. Статус 09.10.23.md",
     "Projects/YSTS/IS/Prod/Moodle 01.02.24.md",
     "Projects/YSTS/IS/Prod/Moodle. Отчеты.md",
@@ -200,16 +210,6 @@
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/О1. На страже закона.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/К1. Время сопротивления.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В2. Мечи и Пиво.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/М1. Большой брат.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Туманный квартал.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Бараки.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Золотой город.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Старый город.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Латунные врата.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Общая информация.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Тени.md",
     "Pasted image 20240106123703.png",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии",
     "Files/GetImage.png",
