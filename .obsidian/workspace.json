@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
+                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
+                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md",
+                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Общие правила по обеспечению безопасности в Linux системах.md"
+                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md"
               }
             }
           },
@@ -180,6 +180,19 @@
   },
   "active": "ec800da424dfa50e",
   "lastOpenFiles": [
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/СОИБ. Пермь.md",
+    "CoreNotes/СОИБ. Краснодар.md",
+    "CoreNotes/Созвон по выбору профессии.md",
+    "CoreNotes/Правка лаб.md",
+    "CoreNotes/Результат обследования. Пермь.md",
+    "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
+    "CoreNotes/Переезд.md",
+    "CoreNotes/Пермь. 24.08.md",
+    "CoreNotes/Основы  Zettelkasten.md",
+    "CoreNotes/Пентест.md",
+    "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
+    "CoreNotes/Knowledge Base/Linux",
     "CoreNotes/Knowledge Base/Git/Краткий гайд по Git.md",
     "CoreNotes/Математика для Data Science и машинного обучения.md",
     "CoreNotes/Knowledge Base/Python/Изучаем Python.md",
@@ -194,22 +207,10 @@
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров в Linux.md",
     "CoreNotes/Адванта. Статус 09.10.23.md",
-    "Projects/YSTS/IS/Prod/Moodle 01.02.24.md",
-    "Projects/YSTS/IS/Prod/Moodle. Отчеты.md",
-    "Projects/YSTS/IS/Prod/Moodle. Замечания 30.08.md",
-    "Projects/YSTS/IS/Prod/Moodle..md",
-    "Projects/YSTS/IS/Prod/GitLab.md",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
-    "Excalidraw/Лаборатория культистов.md",
-    "Excalidraw/Разрушенный храм Законника.excalidraw.md",
-    "Diary/Daily/29.01.2023.md",
-    "README.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В1. Инструменты торговли.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/О1. На страже закона.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/К1. Время сопротивления.md",
     "Pasted image 20240106123703.png",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии",
     "Files/GetImage.png",
@@ -226,7 +227,6 @@
     "Files/asd.jpg",
     "Files/Pasted image 20231220115718.png",
     "Files/Pasted image 20231220115525.png",
-    "Files/Алгоритмы_Data_Science_и_их_практическая_реализация_на_Python_2022.pdf",
     "Files/abbator.jpeg",
     "Files/Pasted image 20231220111910.png",
     "Без названия 1.canvas"
