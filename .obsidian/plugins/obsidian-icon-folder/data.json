@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "native",
@@ -13,7 +13,15 @@
       "RiLinksFill"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "FabChessRook",
+        "rule": "DMNotes\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -24,18 +32,17 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
   },
   "BookShelf": "RiBookLine",
   "CoreNotes": "FabNoteSticky",
   "Files": "FabFileLines",
   "Templates": "RiShareForwardBoxFill",
   "Zero-Links": "RiLinksFill",
-  "DMNotes": {
-    "iconName": "FabChessRook",
-    "inheritanceIcon": "FabChessRook"
-  },
   "Diary": "FabCalendar",
   "Excalidraw": "RiExchangeBoxLine",
-  "Projects": "RiArchiveDrawerLine"
+  "Projects": "RiArchiveDrawerLine",
+  "DMNotes": "FabChessRook"
 }
