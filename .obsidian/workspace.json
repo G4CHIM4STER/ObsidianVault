@@ -170,8 +170,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec800da424dfa50e",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "Projects/YSTS/Other",
+    "Projects/YSTS/Notes",
     "Excalidraw/Лаборатория культистов.md",
     "Excalidraw/Разрушенный храм Законника.excalidraw.md",
     "Diary/Daily/29.01.2023.md",
@@ -200,7 +202,6 @@
     "202401052224.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Вечный Орден.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Культ Ремесла (Ладугер).md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Мстительное копьё (Законник).md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии",
     "Files/GetImage.png",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии",
@@ -220,7 +221,6 @@
     "Files/abbator.jpeg",
     "Files/Pasted image 20231220111910.png",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures",
     "Без названия 1.canvas"
   ]
 }
