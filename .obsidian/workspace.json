@@ -11,8 +11,12 @@
             "id": "ec800da424dfa50e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/Безопасность контейнеров.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CoreNotes/Безопасность контейнеров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CoreNotes/Безопасность контейнеров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CoreNotes/Безопасность контейнеров.md"
+              }
             }
           },
           {
@@ -172,6 +180,15 @@
   },
   "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "CoreNotes/Безопасность контейнеров от Exec.md",
+    "CoreNotes/Безопасность контейнеров в Linux.md",
+    "CoreNotes/Безопасность контейнеров.md",
+    "CoreNotes/Адванта. Статус 09.10.23.md",
+    "Projects/YSTS/IS/Prod/Moodle 01.02.24.md",
+    "Projects/YSTS/IS/Prod/Moodle. Отчеты.md",
+    "Projects/YSTS/IS/Prod/Moodle. Замечания 30.08.md",
+    "Projects/YSTS/IS/Prod/Moodle..md",
+    "Projects/YSTS/IS/Prod/GitLab.md",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
     "Excalidraw/Лаборатория культистов.md",
@@ -193,15 +210,7 @@
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Общая информация.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Карта и локации.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Тени.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Дун Морог.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Торговый город.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос/Глубинный совет.md",
     "Pasted image 20240106123703.png",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии/Северная торговая компания.md",
-    "DMNotes/Идеи для игр/Идеи для квестов.md",
-    "202401052224.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Вечный Орден.md",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии/Культ Ремесла (Ладугер).md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии",
     "Files/GetImage.png",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии",
@@ -220,7 +229,6 @@
     "Files/Алгоритмы_Data_Science_и_их_практическая_реализация_на_Python_2022.pdf",
     "Files/abbator.jpeg",
     "Files/Pasted image 20231220111910.png",
-    "DMNotes/NSD&D/Забытые Рудники/Эпизод 4",
     "Без названия 1.canvas"
   ]
 }
