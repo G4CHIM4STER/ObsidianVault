@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zero-Links/00 Здоровье.md",
+                "file": "Projects/YSTS/IS/Общее описание проекта.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zero-Links/00 Здоровье.md",
+                "file": "Projects/YSTS/IS/Общее описание проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zero-Links/00 Здоровье.md",
+                "file": "Projects/YSTS/IS/Общее описание проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zero-Links/00 Здоровье.md"
+                "file": "Projects/YSTS/IS/Общее описание проекта.md"
               }
             }
           },
@@ -203,8 +203,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "8959a90deaa4154f",
   "lastOpenFiles": [
+    "Projects/YSTS/IS/Без названия.md",
+    "Projects/YSTS/IS/Общее описание проекта.md",
+    "Zero-Links/00 Здоровье.md",
     "Zero-Links/00 Спорт.md",
     "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/Zen Zettel.md",
@@ -230,9 +233,6 @@
     "CoreNotes/Пентест.md",
     "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Knowledge Base/Linux",
-    "CoreNotes/Knowledge Base/Git/Краткий гайд по Git.md",
-    "CoreNotes/Математика для Data Science и машинного обучения.md",
-    "CoreNotes/Knowledge Base/Python/Изучаем Python.md",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
