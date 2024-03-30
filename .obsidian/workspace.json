@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "file": "CoreNotes/Цели на начало 23-ого года.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md"
+                "file": "CoreNotes/Цели на начало 23-ого года.md"
               }
             }
           },
@@ -180,6 +180,17 @@
   },
   "active": "ec800da424dfa50e",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/Shell/The Shell Scripting Tutorial.md",
+    "CoreNotes/Knowledge Base/Shell",
+    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes/Основы  Zettelkasten.md",
+    "CoreNotes/Цели на 2024 год.md",
+    "CoreNotes/Список книг на 2023.md",
+    "CoreNotes/Knowledge Base/Python/Тестирование и виды тестов для Python.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Ускорение.md",
+    "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/СОИБ. Пермь.md",
     "CoreNotes/СОИБ. Краснодар.md",
@@ -189,7 +200,6 @@
     "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
     "CoreNotes/Переезд.md",
     "CoreNotes/Пермь. 24.08.md",
-    "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Пентест.md",
     "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Knowledge Base/Linux",
@@ -197,16 +207,6 @@
     "CoreNotes/Математика для Data Science и машинного обучения.md",
     "CoreNotes/Knowledge Base/Python/Изучаем Python.md",
     "CoreNotes/Книги по управлению проектами.md",
-    "CoreNotes/Инфинитум. Скрипт АСА-ЮГ.md",
-    "CoreNotes/Инструкция.md",
-    "CoreNotes/Жизнь Core.md",
-    "CoreNotes/Запрос для Марата и Саши.md",
-    "CoreNotes/Вопросы к Мансуру по синтаксису FP.md",
-    "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
-    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров.md",
-    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
-    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров в Linux.md",
-    "CoreNotes/Адванта. Статус 09.10.23.md",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
@@ -220,7 +220,6 @@
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
-    "DMNotes/Идеи для игр",
     "Files/Pasted image 20231220125451.png",
     "Files/Pasted image 20231220125306.png",
     "Files/Pasted image 20231220120752.png",
