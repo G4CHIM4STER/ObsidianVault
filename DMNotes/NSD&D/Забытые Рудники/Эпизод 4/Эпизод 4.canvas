@@ -1,17 +1,21 @@
 {
 	"nodes":[
-		{"id":"6928f4f8a2728a16","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas","x":-140,"y":140,"width":400,"height":400,"color":"6"},
-		{"id":"be1680ba75e00c64","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Громодеревья.md","x":440,"y":140,"width":400,"height":400,"color":"2"},
-		{"id":"7215f720d6acdfb0","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Укрытие Каменной Пасти.md","x":960,"y":140,"width":400,"height":400,"color":"2"},
-		{"id":"8436299d8fa94cbc","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Крепость Каменной Пасти.md","x":960,"y":680,"width":400,"height":400,"color":"6"},
-		{"id":"ce3012b9d7843150","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Вершина Виверны.md","x":-800,"y":140,"width":400,"height":400,"color":"2"},
-		{"id":"f559f24eee6a7ec1","x":-725,"y":-180,"width":250,"height":60,"color":"4","type":"text","text":"Дает староста Вестер"}
+		{"id":"6928f4f8a2728a16","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Эпизод 3/Эпизод3.canvas","x":-140,"y":140,"width":400,"height":400,"color":"6"},
+		{"id":"be1680ba75e00c64","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Локации/Громодеревья.md","x":440,"y":140,"width":400,"height":400,"color":"6"},
+		{"id":"7215f720d6acdfb0","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Локации/Укрытие Каменной Пасти.md","x":960,"y":140,"width":400,"height":400,"color":"2"},
+		{"id":"ce3012b9d7843150","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Локации/Вершина Виверны.md","x":-800,"y":140,"width":400,"height":400,"color":"2"},
+		{"id":"f559f24eee6a7ec1","type":"text","text":"Дает староста Вестер","x":-725,"y":-180,"width":250,"height":60,"color":"4"},
+		{"id":"8436299d8fa94cbc","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Локации/Крепость Каменной Пасти.md","x":960,"y":840,"width":400,"height":400,"color":"6"},
+		{"id":"e887616cb23d3f6f","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Локации/Лаборатория Культистов.md","x":320,"y":840,"width":400,"height":400,"color":"6"},
+		{"id":"06532d364f7db075","x":-300,"y":840,"width":400,"height":400,"color":"6","type":"file","file":"DMNotes/NSD&D/Забытые Рудники/Локации/Убежище Веномфанга.md"}
 	],
 	"edges":[
 		{"id":"84e641ea244a6f9d","fromNode":"6928f4f8a2728a16","fromSide":"right","toNode":"be1680ba75e00c64","toSide":"left"},
 		{"id":"222f23c38d758ab5","fromNode":"7215f720d6acdfb0","fromSide":"bottom","toNode":"8436299d8fa94cbc","toSide":"top"},
 		{"id":"ab25c17093333949","fromNode":"be1680ba75e00c64","fromSide":"bottom","toNode":"8436299d8fa94cbc","toSide":"left"},
 		{"id":"593764111850ff2e","fromNode":"6928f4f8a2728a16","fromSide":"left","toNode":"ce3012b9d7843150","toSide":"right","label":"Дает \nХаман Кост"},
-		{"id":"19802579baaab1fe","fromNode":"f559f24eee6a7ec1","fromSide":"bottom","toNode":"ce3012b9d7843150","toSide":"top"}
+		{"id":"19802579baaab1fe","fromNode":"f559f24eee6a7ec1","fromSide":"bottom","toNode":"ce3012b9d7843150","toSide":"top"},
+		{"id":"58a7e368ef33f18a","fromNode":"be1680ba75e00c64","fromSide":"bottom","toNode":"e887616cb23d3f6f","toSide":"top"},
+		{"id":"7aa26a9e349d51e4","fromNode":"be1680ba75e00c64","fromSide":"bottom","toNode":"06532d364f7db075","toSide":"top"}
 	]
 }

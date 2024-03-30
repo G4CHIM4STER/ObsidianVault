@@ -11,14 +11,11 @@
             "id": "48552217bd1ea41a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
-                "viewState": {
-                  "x": 243.09386265249543,
-                  "y": -46.26522957955939,
-                  "zoom": -1.2000000000000002
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -182,8 +179,8 @@
   },
   "active": "48552217bd1ea41a",
   "lastOpenFiles": [
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В1. Инструменты торговли.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
+    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/В1. Инструменты торговли.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/О1. На страже закона.md",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты/К1. Время сопротивления.md",

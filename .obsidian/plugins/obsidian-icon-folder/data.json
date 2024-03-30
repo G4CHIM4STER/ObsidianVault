@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiArchiveDrawerLine",
+      "RiExchangeBoxLine",
+      "RiBookLine",
       "FabChessRook",
-      "RiLinksFill",
-      "RiShareForwardBoxFill",
-      "FabFileLines",
-      "FabCalendar"
+      "RiLinksFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,7 +26,7 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "BookShelf": "📚",
+  "BookShelf": "RiBookLine",
   "CoreNotes": "FabNoteSticky",
   "Files": "FabFileLines",
   "Templates": "RiShareForwardBoxFill",
@@ -35,5 +35,7 @@
     "iconName": "FabChessRook",
     "inheritanceIcon": "FabChessRook"
   },
-  "Diary": "FabCalendar"
+  "Diary": "FabCalendar",
+  "Excalidraw": "RiExchangeBoxLine",
+  "Projects": "RiArchiveDrawerLine"
 }
