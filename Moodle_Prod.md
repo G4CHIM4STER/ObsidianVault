@@ -30,7 +30,8 @@ ___
 
 - ens36 10.16.120.12 VLAN 1200|Int_Transit_DB - взаимодействие с сервером БД
 - ens39 10.16.123.12 VLAN 1230|Int_Transit_Update_Repo - взаимодействие с сервером обновлений **(Nexus)**
-- ens38 10.16.122.12 VLAN1220|Int_Transit_Web -
+- ens38 10.16.122.12 VLAN1220|Int_Transit_Web - веб-интерфейс сервиса
+- ens35 172.16.12.12 VLAN121|Service
 ___
 ### Zero-Links
 - 
