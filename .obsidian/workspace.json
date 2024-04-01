@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инфраструктура Prod-сегмента.md",
+                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инфраструктура Prod-сегмента.md",
+                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Инфраструктура Prod-сегмента.md",
+                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инфраструктура Prod-сегмента.md"
+                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md"
               }
             }
           },
@@ -191,10 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab57164cb0091792",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
-    "Zero-Links/00 Спорт.md",
+    "Projects/YSTS/IS/Prod/GitLab.md",
+    "Projects/YSTS/Notes/Moodle. Отчеты.md",
     "Инфраструктура Prod-сегмента.md",
+    "Zero-Links/00 Спорт.md",
     "Projects/YSTS/IS/Prod/Без названия.md",
     "Projects/YSTS/IS/Общее описание проекта.md",
     "Projects/YSTS/IS/Без названия.md",
@@ -218,8 +220,6 @@
     "CoreNotes/Созвон по выбору профессии.md",
     "CoreNotes/Правка лаб.md",
     "CoreNotes/Результат обследования. Пермь.md",
-    "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
-    "CoreNotes/Пермь. 24.08.md",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
