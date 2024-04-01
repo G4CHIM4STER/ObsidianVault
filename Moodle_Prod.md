@@ -28,7 +28,8 @@ ___
 
 ### Сетевое взаимодействие
 
-- ens36 10.16.120.11 VLAN 1200|Int_Transit_DB
+- ens36 10.16.120.12 VLAN 1200|Int_Transit_DB - взаимодействие с сервером БД
+- ens39 10.16.120.12 VLAN 1200|Int_Transit_DB
 ___
 ### Zero-Links
 - 
