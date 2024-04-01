@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md",
+                "file": "Moodle_Prod.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md",
+                "file": "Moodle_Prod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md",
+                "file": "Moodle_Prod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/YSTS/Notes/Moodle 01.02.24.md"
+                "file": "Moodle_Prod.md"
               }
             }
           },
@@ -191,13 +191,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "ab57164cb0091792",
   "lastOpenFiles": [
+    "Projects/YSTS/Notes/Moodle 01.02.24.md",
+    "Moodle_Prod.md",
+    "Без названия.md",
+    "Projects/YSTS/IS/Prod/Без названия.md",
     "Projects/YSTS/IS/Prod/GitLab.md",
     "Projects/YSTS/Notes/Moodle. Отчеты.md",
     "Инфраструктура Prod-сегмента.md",
     "Zero-Links/00 Спорт.md",
-    "Projects/YSTS/IS/Prod/Без названия.md",
     "Projects/YSTS/IS/Общее описание проекта.md",
     "Projects/YSTS/IS/Без названия.md",
     "Zero-Links/00 Здоровье.md",
@@ -217,9 +220,6 @@
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/СОИБ. Пермь.md",
     "CoreNotes/СОИБ. Краснодар.md",
-    "CoreNotes/Созвон по выбору профессии.md",
-    "CoreNotes/Правка лаб.md",
-    "CoreNotes/Результат обследования. Пермь.md",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
