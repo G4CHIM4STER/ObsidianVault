@@ -185,10 +185,8 @@
       "markdown-importer:Импорт Markdown-файлов": true,
       "zk-prefixer:Создать заметку с уникальным идентификатором": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ab57164cb0091792",
