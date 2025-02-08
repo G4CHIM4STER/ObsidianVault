@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "baseFontSize": 17
+  "accentColor": "#871ae0",
+  "baseFontSize": 17,
+  "cssTheme": "Things"
 }
