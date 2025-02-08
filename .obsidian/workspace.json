@@ -230,7 +230,6 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-kanban:Создать новую доску": false,
       "obsidian-git:Open Git source control": false
