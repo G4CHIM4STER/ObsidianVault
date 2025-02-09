@@ -25,10 +25,14 @@
             "id": "ab57164cb0091792",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "План по обеспечению безопасности контейнеров"
             }
           }
         ],
@@ -214,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,6 +241,9 @@
   },
   "active": "ab57164cb0091792",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
+    "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
+    "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
     "Без названия.md",
     "CoreNotes/Инфраструктура Prod-сегмента.md",
     "CoreNotes/Общая мнформация.md",
@@ -261,9 +268,6 @@
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Knowledge Base/Python/Тестирование и виды тестов для Python.md",
     "CoreNotes/Ускорение.md",
-    "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/СОИБ. Пермь.md",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
