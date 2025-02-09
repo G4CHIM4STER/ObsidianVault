@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+                "file": "BookShelf/Руководство по DevOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YSTS. План по обеспечению безопасности сервисных ВМ"
+              "title": "Руководство по DevOps"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
+                "file": "Zero-Links/00 YSTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План по обеспечению безопасности контейнеров"
+              "title": "00 YSTS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +238,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab57164cb0091792",
+  "active": "ec800da424dfa50e",
   "lastOpenFiles": [
+    "BookShelf/ReadingList.md",
+    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "Zero-Links/00 YSTS.md",
+    "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
     "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
     "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
@@ -256,7 +259,6 @@
     "Zero-Links/00 Спорт.md",
     "Projects/YSTS/IS/Общее описание проекта.md",
     "Zero-Links/00 Здоровье.md",
-    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/Zen Zettel.md",
     "CoreNotes/Переезд.md",
     "CoreNotes/Цели на 2024 год.md",
@@ -265,9 +267,6 @@
     "CoreNotes/Knowledge Base/Shell",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/Основы  Zettelkasten.md",
-    "CoreNotes/Список книг на 2023.md",
-    "CoreNotes/Knowledge Base/Python/Тестирование и виды тестов для Python.md",
-    "CoreNotes/Ускорение.md",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
