@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
+                "file": "CoreNotes/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Создание ролей в PostgreSQL"
+              "title": "Без названия"
             }
           }
         ]
@@ -226,9 +226,9 @@
   },
   "active": "ec800da424dfa50e",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "CoreNotes/Без названия.md",
     "Zero-Links/00 YSTS.md",
-    "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров.md",
     "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
     "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
