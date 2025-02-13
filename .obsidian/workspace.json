@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/Руководство по DevOps.md",
+                "file": "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Руководство по DevOps"
+              "title": "Создание ролей в PostgreSQL"
             }
           },
           {
@@ -240,6 +240,8 @@
   },
   "active": "ec800da424dfa50e",
   "lastOpenFiles": [
+    "BookShelf/Руководство по DevOps.md",
+    "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "BookShelf/ReadingList.md",
     "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "Zero-Links/00 YSTS.md",
@@ -265,8 +267,6 @@
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Knowledge Base/Shell/The Shell Scripting Tutorial.md",
     "CoreNotes/Knowledge Base/Shell",
-    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
