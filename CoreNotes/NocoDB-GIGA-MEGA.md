@@ -10,13 +10,15 @@ ___
 
 ### YSTS-TEAM
 
+1. Создание и модифицирование сотрудника
+2. 
 ### YSTS-CERT
 
 ### YSTS-INVENT
 
 ### YSTS-FINANCE
 
-###
+### YCATALOG
 
 ___
 ### Zero-Links
