@@ -6,7 +6,13 @@ ___
 ___
 ## Перечень основных БП в NocoDB
 
+### Общее
 
+### YSTS-TEAM
+
+### YSTS-CERT
+
+### YSTS-FINANCE
 
 ___
 ### Zero-Links
