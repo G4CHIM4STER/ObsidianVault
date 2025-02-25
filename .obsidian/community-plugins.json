@@ -15,5 +15,6 @@
   "obsidian-kanban",
   "drawio-obsidian",
   "obsidian-leaflet-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "todoist-sync-plugin"
 ]
