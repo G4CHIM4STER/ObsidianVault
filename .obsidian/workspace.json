@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Knowledge Base/Отчет за 28.02.25.md",
+                "file": "CoreNotes/Срез блока автоматизации 17.03.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отчет за 28.02.25"
-            }
-          },
-          {
-            "id": "f50f0338687c138f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Срез блока автоматизации 17.03.25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,10 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f50f0338687c138f",
+  "active": "ec800da424dfa50e",
   "lastOpenFiles": [
-    "CoreNotes/NocoDB-GIGA-MEGA.md",
     "CoreNotes/Knowledge Base/Отчет за 28.02.25.md",
+    "CoreNotes/Срез блока автоматизации 17.03.25.md",
+    "CoreNotes/NocoDB-GIGA-MEGA.md",
     "Zero-Links/01 NocoDB.md",
     "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
@@ -278,7 +266,6 @@
     "Projects/YSTS/IS/Prod/Без названия.md",
     "Projects/YSTS/IS/Prod/GitLab.md",
     "Projects/YSTS/Notes/Moodle. Отчеты.md",
-    "Zero-Links/00 Спорт.md",
     "CoreNotes/Knowledge Base/Shell",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
