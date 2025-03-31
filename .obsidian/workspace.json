@@ -164,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CoreNotes/Vault.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Vault"
             }
           },
           {
@@ -213,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -238,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec800da424dfa50e",
+  "active": "bb78813a3224915b",
   "lastOpenFiles": [
     "CoreNotes/Учет времени.md",
     "Zero-Links/01 Блок автоматизации.md",
