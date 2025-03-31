@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Учет времени.md",
+                "file": "CoreNotes/Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Учет времени"
+              "title": "Vault"
             }
           }
         ]
@@ -240,8 +240,8 @@
   },
   "active": "ec800da424dfa50e",
   "lastOpenFiles": [
-    "Zero-Links/01 Блок автоматизации.md",
     "CoreNotes/Учет времени.md",
+    "Zero-Links/01 Блок автоматизации.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Knowledge Base/Отчет за 28.02.25.md",
