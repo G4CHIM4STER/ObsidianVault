@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Без названия.md",
+                "file": "CoreNotes/CI_CD для БД.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "CI_CD для БД"
+            }
+          },
+          {
+            "id": "9c7330e0075b1403",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-02 16.07.14.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/Без названия.md",
+                "file": "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Drawing 2025-04-02 16.07.14.excalidraw"
             }
           },
           {
@@ -239,10 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec800da424dfa50e",
+  "active": "9c7330e0075b1403",
   "lastOpenFiles": [
+    "CoreNotes/CI_CD для БД.md",
+    "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "CoreNotes/Vault.md",
-    "CoreNotes/Без названия.md",
     "CoreNotes/Учет времени.md",
     "Zero-Links/01 Блок автоматизации.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
@@ -266,7 +280,6 @@
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
     "Без названия.md",
     "CoreNotes/Общая мнформация.md",
-    "Projects/YSTS/IS/Prod/Moodle_Prod.md",
     "CoreNotes/Knowledge Base/Shell",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",

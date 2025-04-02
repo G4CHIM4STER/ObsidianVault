@@ -10,7 +10,7 @@ ___
 
 ___
 ### Zero-Links
-- 
+- [[00 YSTS]]
 
 ### Links
 - 
