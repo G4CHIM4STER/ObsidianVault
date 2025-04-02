@@ -231,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,8 +255,8 @@
   },
   "active": "9c7330e0075b1403",
   "lastOpenFiles": [
-    "CoreNotes/CI_CD для БД.md",
     "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
+    "CoreNotes/CI_CD для БД.md",
     "CoreNotes/Vault.md",
     "CoreNotes/Учет времени.md",
     "Zero-Links/01 Блок автоматизации.md",
