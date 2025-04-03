@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/CI_CD для БД.md",
+                "file": "CoreNotes/RoadMap. Автоматизация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CI_CD для БД"
+              "title": "RoadMap. Автоматизация"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Drawing 2025-04-02 16.07.14.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
+                "file": "CoreNotes/RoadMap. Автоматизация.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Drawing 2025-04-02 16.07.14.excalidraw"
+              "title": "Структура RoadMap. Автоматизация"
             }
           },
           {
@@ -253,11 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "ec800da424dfa50e",
   "lastOpenFiles": [
-    "Files/Pasted Image 20250402165245_112.png",
     "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
-    "CoreNotes/CI_CD для БД.md",
+    "Files/Pasted Image 20250402165245_112.png",
+    "CoreNotes/RoadMap. Автоматизация.md",
     "CoreNotes/Vault.md",
     "CoreNotes/Учет времени.md",
     "Zero-Links/01 Блок автоматизации.md",
@@ -303,7 +302,6 @@
     "Files/Pasted image 20231220115718.png",
     "Files/Pasted image 20231220115525.png",
     "Files/abbator.jpeg",
-    "Files/Pasted image 20231220111910.png",
     "Без названия 1.canvas"
   ]
 }
