@@ -33,7 +33,8 @@
               "title": "Drawing 2025-04-02 16.07.14.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/RoadMap. Автоматизация.md",
+                "file": "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура RoadMap. Автоматизация"
+              "title": "Структура Drawing 2025-04-02 16.07.14.excalidraw"
             }
           },
           {
@@ -252,10 +253,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec800da424dfa50e",
+  "active": "9c7330e0075b1403",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "CoreNotes/RoadMap. Автоматизация.md",
+    "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "Files/Pasted Image 20250402165245_112.png",
     "CoreNotes/Vault.md",
     "CoreNotes/Учет времени.md",
