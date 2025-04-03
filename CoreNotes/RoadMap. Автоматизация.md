@@ -19,7 +19,13 @@ ___
 #### 2. NGFW
 
 1. PT NGFW
-2. 
+
+#### 3. NetDevices
+
+1. Проработка и доработка UC 
+2. Cisco
+3. Eltex
+
 ___
 ### Zero-Links
 - [[00 YSTS]]
