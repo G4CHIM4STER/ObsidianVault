@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Brainstorm 04.04.25.md",
+                "file": "CoreNotes/Отчет за 28.02.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstorm 04.04.25"
+              "title": "Отчет за 28.02.25"
             }
           },
           {
@@ -252,18 +252,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec800da424dfa50e",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
+    "CoreNotes/Knowledge Base/Vault/Vault..md",
+    "CoreNotes/Knowledge Base/Vault",
+    "CoreNotes/Vault.md",
     "CoreNotes/Brainstorm 04.04.25.md",
+    "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "CoreNotes/RoadMap. Автоматизация.md",
     "Files/Pasted Image 20250402165245_112.png",
-    "CoreNotes/Vault.md",
     "CoreNotes/Учет времени.md",
     "Zero-Links/01 Блок автоматизации.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
-    "CoreNotes/Knowledge Base/Отчет за 28.02.25.md",
+    "CoreNotes/Отчет за 28.02.25.md",
     "CoreNotes/NocoDB-GIGA-MEGA.md",
     "Zero-Links/01 NocoDB.md",
     "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
@@ -279,8 +281,6 @@
     "BookShelf/ReadingList.md",
     "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
-    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
-    "Без названия.md",
     "CoreNotes/Knowledge Base/Shell",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
@@ -295,7 +295,6 @@
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
-    "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Files/Pasted image 20231220125451.png",
     "Files/Pasted image 20231220125306.png",
     "Files/Pasted image 20231220120752.png",
