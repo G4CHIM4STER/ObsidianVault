@@ -48,6 +48,8 @@ sudo apt install gitlab-runner
 1. Заходим/создаем проект в самом **GitLab**. 
 2. Переходи в **Setting** -> **CI/CD** -> **Runners** -> **New project runner**
 3. Выполняем все согласно инструкциям
+
+
 ___
 ### Zero-Links
 - 
