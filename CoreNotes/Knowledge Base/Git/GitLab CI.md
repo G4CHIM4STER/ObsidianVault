@@ -46,7 +46,8 @@ sudo apt install gitlab-runner
 ### Регистрация раннера непосредственно в самом GitLab
 
 1. Заходим/создаем проект в самом **GitLab**. 
-2. Переходи в **Setting** -> **CI/CD**
+2. Переходи в **Setting** -> **CI/CD** -> **Runners** -> **New project runner**
+3. Выполняем все согласно инструкциям
 ___
 ### Zero-Links
 - 
