@@ -43,6 +43,9 @@ curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/s
 sudo apt install gitlab-runner
 ```
 
+### Регистрация раннера непосредственно в самом GitLab
+
+1. Заходим/создаем проект
 ___
 ### Zero-Links
 - 
