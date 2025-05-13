@@ -6,7 +6,7 @@ ___
 ___
 ## Общее назначение
 
-**Graylog** - современная и мощная *SIEM* система (Security Information and Event Manager)
+**Graylog** - современная и мощная *SIEM* система %% (Security Information and Event Manager) %%, а также мощная аналитическая платформа централизующая, повышаш
 
 ___
 ### Zero-Links
