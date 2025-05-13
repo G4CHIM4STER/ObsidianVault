@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Без названия.md",
+                "file": "CoreNotes/Graylog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Graylog"
             }
           },
           {
@@ -255,7 +255,7 @@
   "active": "ec800da424dfa50e",
   "lastOpenFiles": [
     "CoreNotes/Общая мнформация.md",
-    "CoreNotes/Без названия.md",
+    "CoreNotes/Graylog.md",
     "CoreNotes/Инфраструктура Prod-сегмента.md",
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Отчет за 28.02.25.md",
