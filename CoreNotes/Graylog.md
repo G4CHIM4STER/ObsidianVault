@@ -6,7 +6,7 @@ ___
 ___
 ## Общее назначение
 
-**Graylog**
+**Graylog** - современная и мощная *SIEM* система (Security Information and Event Manager)
 
 ___
 ### Zero-Links
