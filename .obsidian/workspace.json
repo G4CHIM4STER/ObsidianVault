@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Процессы Zabbix"
             }
+          },
+          {
+            "id": "042b129d11350b44",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Zabbix-Standexcalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Zabbix-Standexcalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d688669a92dcc19",
+  "active": "042b129d11350b44",
   "lastOpenFiles": [
-    "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
     "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
+    "Excalidraw/Zabbix-Standexcalidraw.md",
+    "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "CoreNotes/План обучения 2023.md",
@@ -271,7 +285,6 @@
     "Zero-Links/01 Блок автоматизации.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "Zero-Links/01 NocoDB.md",
-    "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "CoreNotes/Knowledge Base/Shell",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
