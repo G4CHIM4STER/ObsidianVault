@@ -33,8 +33,7 @@
               "title": "Zabbix-Standexcalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,10 +253,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "042b129d11350b44",
+  "active": "7d688669a92dcc19",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-05-21 15.35.27.excalidraw.md",
     "Excalidraw/Zabbix-Standexcalidraw.md",
+    "Excalidraw/Drawing 2025-05-21 15.35.27.excalidraw.md",
     "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
     "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
     "CoreNotes/Knowledge Base/Zabbix",
