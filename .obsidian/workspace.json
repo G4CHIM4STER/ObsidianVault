@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
+                "file": "CoreNotes/Knowledge Base/Zabbix/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zabbix. Основы"
+              "title": "Без названия"
             }
           }
         ]
@@ -243,6 +243,7 @@
   "active": "7d688669a92dcc19",
   "lastOpenFiles": [
     "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
+    "CoreNotes/Knowledge Base/Zabbix/Без названия.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "CoreNotes/План обучения 2023.md",
@@ -270,7 +271,6 @@
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "Zero-Links/01 NocoDB.md",
     "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
-    "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
     "CoreNotes/Knowledge Base/Shell",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
