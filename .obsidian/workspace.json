@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e4d114a2adaa556b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-23 15.24.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-23 15.24.43.excalidraw"
+            }
+          },
+          {
             "id": "042b129d11350b44",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Zabbix-Standexcalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +265,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d688669a92dcc19",
+  "active": "e4d114a2adaa556b",
   "lastOpenFiles": [
-    "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
     "CoreNotes/Knowledge Base/Zabbix/Zabbix.ТЗ.md",
+    "Excalidraw/Drawing 2025-05-23 15.24.43.excalidraw.md",
+    "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
     "Excalidraw/Zabbix-Standexcalidraw.md",
     "Excalidraw/Drawing 2025-05-21 15.35.27.excalidraw.md",
     "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
@@ -282,7 +296,6 @@
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
     "CoreNotes/Учет времени.md",
-    "Zero-Links/01 Блок автоматизации.md",
     "CoreNotes/Knowledge Base/Shell",
     "CoreNotes/Knowledge Base/Linux",
     "Projects/YSTS/Other",
