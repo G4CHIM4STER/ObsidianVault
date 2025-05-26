@@ -39,12 +39,14 @@
             "id": "9bf7598319fe40d5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/PostgreSQL-Кластер. Общая схема.md"
+                "file": "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "PostgreSQL-Кластер. Общая схема"
+              "icon": "lucide-file",
+              "title": "PostgreSQL Кластер"
             }
           }
         ],
@@ -269,6 +271,8 @@
   },
   "active": "9bf7598319fe40d5",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
+    "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
     "Excalidraw/PostgreSQL-Кластер. Общая схема.md",
     "CoreNotes/Knowledge Base/Zabbix/Zabbix.ТЗ.md",
@@ -294,8 +298,6 @@
     "CoreNotes/Knowledge Base/Git/GitLab CI.md",
     "().md",
     "CoreNotes/Brainstorm 30.04.25.md",
-    "CoreNotes/Brainstorm 04.04.25.md",
-    "CoreNotes/Knowledge Base/Vault/Цели и назначение продукта.md",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
     "CoreNotes/Knowledge Base/Shell",
