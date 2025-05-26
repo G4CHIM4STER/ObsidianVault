@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
+                "file": "CoreNotes/Zen Zettel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YSTS. Задачи по обеспечению безопасности сервисных ВМ"
+              "title": "Zen Zettel"
             }
           }
         ],
@@ -271,6 +271,9 @@
   },
   "active": "9bf7598319fe40d5",
   "lastOpenFiles": [
+    "CoreNotes/YSTS. План Февраль.md",
+    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/Graylog v5.1.md",
     "CoreNotes/NocoDB-GIGA-MEGA.md",
     "CoreNotes/Основы  Zettelkasten.md",
@@ -294,9 +297,6 @@
     "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
     "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "Excalidraw/PostgreSQL-Кластер. Общая схема.md",
-    "CoreNotes/Knowledge Base/Zabbix/Zabbix.ТЗ.md",
-    "Excalidraw/Drawing 2025-05-23 15.24.43.excalidraw.md",
-    "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
