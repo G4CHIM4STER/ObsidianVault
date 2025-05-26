@@ -132,7 +132,7 @@
             "version": 177,
             "versionNonce": 173513323,
             "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1748265967379,
             "link": null,
             "locked": false
@@ -154,7 +154,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#ced4da",
             "width": 148.36632913475273,
-            "height": 191.49030203544626,
+            "height": 191.4903020354463,
             "seed": 1916647749,
             "groupIds": [
               "N7AZYrpEEScX7q6UYpueH",

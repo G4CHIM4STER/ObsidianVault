@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "PostgreSQL Кластер"
             }
+          },
+          {
+            "id": "9bf7598319fe40d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PostgreSQL-Кластер. Общая схема.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PostgreSQL-Кластер. Общая схема"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,11 +267,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "042b129d11350b44",
+  "active": "9bf7598319fe40d5",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
     "Excalidraw/PostgreSQL-Кластер. Общая схема.md",
     "CoreNotes/Knowledge Base/Zabbix/Zabbix.ТЗ.md",
-    "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
     "Excalidraw/Drawing 2025-05-23 15.24.43.excalidraw.md",
     "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
     "Excalidraw/Drawing 2025-05-21 15.35.27.excalidraw.md",
