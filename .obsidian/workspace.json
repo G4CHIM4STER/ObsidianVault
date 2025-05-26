@@ -41,10 +41,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Zabbix-Standexcalidraw.md"
+                "file": "Excalidraw/PostgreSQL-Кластер. Общая схема.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Zabbix-Standexcalidraw"
+              "title": "PostgreSQL-Кластер. Общая схема"
             }
           }
         ],
@@ -273,7 +273,7 @@
     "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
     "Excalidraw/Drawing 2025-05-23 15.24.43.excalidraw.md",
     "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
-    "Excalidraw/Zabbix-Standexcalidraw.md",
+    "Excalidraw/PostgreSQL-Кластер. Общая схема.md",
     "Excalidraw/Drawing 2025-05-21 15.35.27.excalidraw.md",
     "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
     "CoreNotes/Knowledge Base/Zabbix",
