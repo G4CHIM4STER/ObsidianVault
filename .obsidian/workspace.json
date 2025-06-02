@@ -39,10 +39,14 @@
             "id": "9bf7598319fe40d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/Zen Zettel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Zen Zettel"
             }
           }
         ],
@@ -265,7 +269,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "9bf7598319fe40d5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-05-21 15.35.27.excalidraw.md",
     "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
