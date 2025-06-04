@@ -54,8 +54,7 @@ ___
 | --- | --- |
 |     |     |
 
-	         
-	         | Название       | Хосты                              |
+	| Название       | Хосты                              |
 	         |----------------|------------------------------------|
 	         |astra_hosts|astra-client|
 	         |full_hosts|astra-client, ubuntu-client, redos-client|
