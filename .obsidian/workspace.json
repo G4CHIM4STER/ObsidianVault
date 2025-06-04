@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Повышение_уровня_защиты_хостов_при_помощи_ansible.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoreNotes/RoadMap. Автоматизация.md",
+                "file": "Повышение_уровня_защиты_хостов_при_помощи_ansible.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура RoadMap. Автоматизация"
+              "title": "Структура Повышение_уровня_защиты_хостов_при_помощи_ansible"
             }
           },
           {
