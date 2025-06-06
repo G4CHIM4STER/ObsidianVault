@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "042b129d11350b44",
+  "active": "c2edd85dfa4d7b55",
   "lastOpenFiles": [
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
