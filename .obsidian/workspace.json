@@ -254,8 +254,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2edd85dfa4d7b55",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/Kubernetes",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
@@ -281,7 +282,6 @@
     "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Knowledge Base/Git/GitLab CI.md",
     "CoreNotes/Knowledge Base/Git/Краткий гайд по Git.md",
-    "CoreNotes/Knowledge Base/Docker/План по обеспечению безопасности контейнеров.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
