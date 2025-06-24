@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Компоненты и архитектура K8S"
             }
+          },
+          {
+            "id": "1904fe0e76a83981",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-24 17.22.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-24 17.22.52.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,10 +266,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "042b129d11350b44",
+  "active": "1904fe0e76a83981",
   "lastOpenFiles": [
-    "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
+    "Excalidraw/Drawing 2025-06-24 17.22.52.excalidraw.md",
+    "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Knowledge Base/Kubernetes",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
@@ -282,7 +295,6 @@
     "CoreNotes/Knowledge Base/Python/Тестирование и виды тестов для Python.md",
     "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Knowledge Base/Git/GitLab CI.md",
-    "CoreNotes/Knowledge Base/Git/Краткий гайд по Git.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
