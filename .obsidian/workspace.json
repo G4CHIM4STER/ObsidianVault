@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Срез блока автоматизации 06.06.25.md",
+                "file": "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Срез блока автоматизации 06.06.25"
+              "title": "Компоненты и архитектура K8S"
             }
           }
         ],
@@ -254,12 +254,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "042b129d11350b44",
   "lastOpenFiles": [
+    "CoreNotes/Срез блока автоматизации 06.06.25.md",
+    "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
     "CoreNotes/Knowledge Base/Kubernetes",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
-    "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "Повышение_уровня_защиты_хостов_при_помощи_ansible.md",
     "CoreNotes/Zen Zettel.md",
     "Excalidraw/Drawing 2025-05-21 15.35.27.excalidraw.md",
@@ -295,7 +296,6 @@
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Религии",
     "Files/GetImage.png",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/Гильдии",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Каранос",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод3/Эпизод3.canvas",
     "Files/Pasted image 20231220125451.png",
