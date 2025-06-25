@@ -46,12 +46,14 @@
             "id": "349b460951687657",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-25 13.39.43.excalidraw.md"
+                "file": "CoreNotes/Без названия.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-25 13.39.43.excalidraw"
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           }
         ]
@@ -272,10 +274,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "016c6c2fcf0f66d1",
+  "active": "349b460951687657",
   "lastOpenFiles": [
-    "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
     "Excalidraw/Drawing 2025-06-25 13.39.43.excalidraw.md",
+    "CoreNotes/Без названия.md",
+    "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
     "Excalidraw/Компоненты K8S.excalidraw.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Knowledge Base/Kubernetes",
@@ -300,7 +303,6 @@
     "CoreNotes/Knowledge Base/Shell/The Shell Scripting Tutorial.md",
     "CoreNotes/Knowledge Base/Python/Изучаем Python.md",
     "CoreNotes/Knowledge Base/Python/Тестирование и виды тестов для Python.md",
-    "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
