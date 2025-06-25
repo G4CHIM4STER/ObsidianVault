@@ -48,10 +48,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-24 17.22.52.excalidraw.md"
+                "file": "Excalidraw/Компоненты K8S.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-24 17.22.52.excalidraw"
+              "title": "Компоненты K8S.excalidraw"
             }
           }
         ]
@@ -272,10 +272,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f30c5ba031983019",
+  "active": "042b129d11350b44",
   "lastOpenFiles": [
+    "Excalidraw/Компоненты K8S.excalidraw.md",
     "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
-    "Excalidraw/Drawing 2025-06-24 17.22.52.excalidraw.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Knowledge Base/Kubernetes",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
