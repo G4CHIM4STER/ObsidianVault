@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.51103591918945
+    "width": 268.5041847229004
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -239,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "349b460951687657",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
     "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
     "CoreNotes/Правила и общие принципы развертки сервисов.md",
