@@ -11,10 +11,14 @@
             "id": "070dffbf73adc294",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CoreNotes/Правила и общие принципы развертки сервисов.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Правила и общие принципы развертки сервисов"
             }
           }
         ]
@@ -235,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "070dffbf73adc294",
   "lastOpenFiles": [
     "CoreNotes/Правила и общие принципы развертки сервисов.md",
     "Без названия",
