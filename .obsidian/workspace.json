@@ -11,12 +11,14 @@
             "id": "070dffbf73adc294",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf"
+                "file": "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord"
+              "icon": "lucide-file",
+              "title": "PostgreSQL Кластер"
             }
           },
           {
@@ -253,11 +255,19 @@
   },
   "active": "070dffbf73adc294",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
+    "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
+    "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
+    "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
+    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров.md",
+    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров в Linux.md",
+    "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
+    "CoreNotes/CAP-Теорема.md",
+    "CoreNotes/Vault.md",
+    "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
     "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
-    "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-    "CoreNotes/CAP-Теорема.md",
     "CoreNotes/Правила и общие принципы развертки сервисов.md",
     "Без названия",
     "CoreNotes/План передачи полномочий.md",
@@ -274,14 +284,6 @@
     "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "Excalidraw/Drawing 2025-05-23 15.24.43.excalidraw.md",
     "Excalidraw/PostgreSQL-Кластер. Общая схема.md",
-    "CoreNotes/YSTS. План Февраль.md",
-    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/Graylog v5.1.md",
-    "CoreNotes/NocoDB-GIGA-MEGA.md",
-    "CoreNotes/Основы  Zettelkasten.md",
-    "CoreNotes/Общая мнформация.md",
-    "CoreNotes/Отчет за 28.02.25.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
