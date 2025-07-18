@@ -35,7 +35,8 @@
               "title": "Управление памятью в Linux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,10 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "070dffbf73adc294",
+  "active": "12cfa1f695dc73df",
   "lastOpenFiles": [
-    "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
     "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
+    "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
     "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров.md",
