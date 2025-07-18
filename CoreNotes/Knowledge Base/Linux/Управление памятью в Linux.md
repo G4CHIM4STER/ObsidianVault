@@ -19,8 +19,8 @@ free -h
 | MEM  | 14Gi  | 12Gi  | 507Mi | 479Mi  | 2,7Gi      | 2,4Gi     |
 | Swap | 8,8G  | 2,2Gi | 6,6Gi |        |            |           |
 
-- **total**
-- **used**
+- **total** - общий доступный объем **физ. памяти** системы
+- **used** - 
 - **free**
 - **shared**
 - **buff/cache**
