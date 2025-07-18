@@ -23,15 +23,18 @@
             "id": "12cfa1f695dc73df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf"
+                "file": "CoreNotes/Knowledge Base/Linux/Без названия.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord"
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,10 +252,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "070dffbf73adc294",
+  "active": "12cfa1f695dc73df",
   "lastOpenFiles": [
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
+    "CoreNotes/Knowledge Base/Linux/Без названия.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "CoreNotes/CAP-Теорема.md",
     "CoreNotes/Правила и общие принципы развертки сервисов.md",
     "Без названия",
@@ -278,7 +283,6 @@
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Общая мнформация.md",
     "CoreNotes/Отчет за 28.02.25.md",
-    "CoreNotes/Список книг на 2023.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
