@@ -11,11 +11,11 @@ free -h
 ```
 
 
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
+|      | total | used | free  | shared | buff/cache | available |
+| ---- | ----- | ---- | ----- | ------ | ---------- | --------- |
+| MEM  | 14Gi  | 12Gi | 507Mi | 479Mi  | 2,7Gi      |   2,4Gi   |
+| Swap |       |      |       |        |            |           |
+|      |       |      |       |        |            |           |
 
 			
 total        used        free      shared  buff/cache   available  
