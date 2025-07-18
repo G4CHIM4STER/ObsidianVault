@@ -6,21 +6,19 @@ ___
 ___
 ## Память
 
+При выводе команды:
+
 ```sh
 free -h
 ```
 
+Получаем следующий набор значений:
 
-|      | total | used | free  | shared | buff/cache | available |
-| ---- | ----- | ---- | ----- | ------ | ---------- | --------- |
-| MEM  | 14Gi  | 12Gi | 507Mi | 479Mi  | 2,7Gi      |   2,4Gi   |
-| Swap |       |      |       |        |            |           |
-|      |       |      |       |        |            |           |
-
-			
-total        used        free      shared  buff/cache   available  
-Mem:            14Gi        12Gi       507Mi       479Mi       2,7Gi       2,4Gi  
-Swap:          8,8Gi       2,2Gi       6,6Gi
+|      | total | used  | free  | shared | buff/cache | available |
+| ---- | ----- | ----- | ----- | ------ | ---------- | --------- |
+| MEM  | 14Gi  | 12Gi  | 507Mi | 479Mi  | 2,7Gi      | 2,4Gi     |
+| Swap | 8,8G  | 2,2Gi | 6,6Gi |        |            |           |
+Из этой таблицы можно выделить неск
 
 
 ___
