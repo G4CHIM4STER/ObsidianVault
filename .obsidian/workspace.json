@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
+                "file": "CoreNotes/Вакансии и работа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление памятью в Linux"
+              "title": "Вакансии и работа"
             }
           }
         ]
@@ -241,13 +241,14 @@
   },
   "active": "12cfa1f695dc73df",
   "lastOpenFiles": [
+    "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
+    "CoreNotes/Вакансии и работа.md",
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Отчет за 28.02.25.md",
     "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Учет времени.md",
     "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
     "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
     "CoreNotes/Knowledge Base/DB/Создание ролей в PostgreSQL.md",
     "CoreNotes/Knowledge Base/DB/Безопасность PostgreSQL.md",
@@ -269,7 +270,6 @@
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "Повышение_уровня_защиты_хостов_при_помощи_ansible.md",
-    "CoreNotes/Zen Zettel.md",
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
