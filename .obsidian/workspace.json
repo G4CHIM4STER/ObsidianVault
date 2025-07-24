@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
+                "file": "CoreNotes/RoadMap. Автоматизация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление памятью в Linux"
+              "title": "RoadMap. Автоматизация"
             }
           }
         ]
@@ -241,10 +241,11 @@
   },
   "active": "12cfa1f695dc73df",
   "lastOpenFiles": [
+    "CoreNotes/Vault.md",
+    "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
     "CoreNotes/Knowledge Base/Linux/Inode.md",
     "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
     "CoreNotes/Вакансии и работа.md",
-    "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
     "CoreNotes/Основы  Zettelkasten.md",
     "CoreNotes/Отчет за 28.02.25.md",
     "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
@@ -258,7 +259,6 @@
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров в Linux.md",
     "CoreNotes/Knowledge Base/Docker/Безопасность контейнеров от Exec.md",
     "CoreNotes/CAP-Теорема.md",
-    "CoreNotes/Vault.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
