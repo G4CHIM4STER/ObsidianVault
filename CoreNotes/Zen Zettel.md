@@ -61,4 +61,4 @@ ___
 - [[00 Продуктивность]]
 
 ## Links
-- [[Основы  Zettelkasten]]
+- [[Основы Zettelkasten]]
