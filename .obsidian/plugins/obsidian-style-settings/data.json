@@ -25,5 +25,6 @@
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
-  "anuppuccin-theme-settings@@anp-hide-borders": false
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@hide-comments": true
 }
