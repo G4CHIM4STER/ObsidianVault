@@ -17,5 +17,7 @@
   "obsidian-leaflet-plugin",
   "obsidian-excalidraw-plugin",
   "todoist-sync-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]
