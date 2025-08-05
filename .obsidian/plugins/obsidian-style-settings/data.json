@@ -1,6 +1,10 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-pink",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-blue"
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-blue",
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true
 }
