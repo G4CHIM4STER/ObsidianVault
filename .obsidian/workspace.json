@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Graylog v5.1.md",
+                "file": "CoreNotes/DevOps-Architecture Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graylog v5.1"
+              "title": "DevOps-Architecture Roadmap"
             }
           }
         ]
@@ -249,8 +249,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "41362d42a255b801",
+  "active": "12cfa1f695dc73df",
   "lastOpenFiles": [
+    "CoreNotes/Graylog v5.1.md",
+    "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Отчет за 28.02.25.md",
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/План передачи полномочий.md",
@@ -258,7 +260,6 @@
     "CoreNotes/Основы Zettelkasten.md",
     "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/CAP-Теорема.md",
-    "CoreNotes/Graylog v5.1.md",
     "CoreNotes/Учет времени.md",
     "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
     "CoreNotes/Knowledge Base/Zabbix/Zabbix.ТЗ.md",
@@ -276,7 +277,6 @@
     "CoreNotes/Вакансии и работа.md",
     "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
-    "CoreNotes/Knowledge Base/DB/SSL Postgres.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
     "CoreNotes/Knowledge Base/Kubernetes",
