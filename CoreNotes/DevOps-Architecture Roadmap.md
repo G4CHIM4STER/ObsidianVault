@@ -6,7 +6,7 @@ ___
 ___
 
 ## 1. Теория построения систем
-Цель: понять как устроены масштабируемые, отказоустойчивые, распределённые
+Цель: понять как устроены **масштабируемые**, **отказоустойчивые**, **распределённые**
 системы.
 Основные ресурсы:
 - Designing Data-Intensive Applications (Martin Kleppmann) — MUST READ
@@ -31,7 +31,7 @@ ___
 - CI/CD: GitLab + on-prem runners + staging in cloud
 - Monitoring: Prometheus, Alertmanager, Grafana, Zabbix, SNMP
 - Secrets: HashiCorp Vault, Zero Trust, PKI
-3. Kubernetes — от базы до продакшена
+## 3. Kubernetes — от базы до продакшена
 Цель: уверенно разворачивать, конфигурировать и поддерживать production-grade
 Kubernetes.
 Основы:
@@ -48,7 +48,7 @@ Kubernetes.
 - k3s/kind кластер
 - GitLab CI → Docker build → Helm deploy
 - Canary releases, rollbacks, scaling
-4. MLOps: следующий шаг
+## 4. MLOps: следующий шаг
 Цель: понять экосистему MLOps и быть готовым к интеграции ML моделей в
 инфраструктуру.
 Общие ресурсы:
@@ -59,7 +59,7 @@ Kubernetes.
 - Подготовка данных, пайплайны, мониторинг моделей
 - CI/CD для моделей
 - Drift detection, governance, versioning
-5. Примерный учебный план на 12 недель
+## 5. Примерный учебный план на 12 недель
 Примерный таймлайн (12 недель):
 1–2: Архитектура систем (Kleppmann + system-design-primer)
 3–4: DevOps практика (DevOps Handbook + Terraform/Ansible)
@@ -71,7 +71,7 @@ Kubernetes.
 
 ___
 ### Zero-Links
-- 
+- [[00 DevOps]]
 
 ### Links
 - 
