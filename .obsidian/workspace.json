@@ -179,8 +179,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -249,7 +249,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "12cfa1f695dc73df",
+  "active": "94821d424afe3590",
   "lastOpenFiles": [
     "CoreNotes/Graylog v5.1.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",

@@ -9,16 +9,16 @@ ___
 Цель: понять как устроены **масштабируемые**, **отказоустойчивые**, **распределённые**
 системы.
 Основные ресурсы:
-- Designing Data-Intensive Applications (Martin Kleppmann) — MUST READ
-- System Design Primer (GitHub)
-- Talks от Gregor Hohpe, Randy Shoup (GOTO Conf)
-- Software Engineering at Google (abseil.io)
+- [ ] Designing Data-Intensive Applications (Martin Kleppmann) — MUST READ
+- [ ] System Design Primer (GitHub)
+- [ ] Talks от Gregor Hohpe, Randy Shoup (GOTO Conf)
+- [ ] Software Engineering at Google (abseil.io)
 Ключевые темы:
-- CAP теорема, BASE vs ACID, Consistency tradeoffs
-- CQRS, Event Sourcing, Pub/Sub
-- Stateless vs Stateful systems
-- Load balancing, replication, sharding
-- Fallacies of distributed computing
+- [ ] CAP теорема, BASE vs ACID, Consistency tradeoffs
+- [ ] CQRS, Event Sourcing, Pub/Sub
+- [ ] Stateless vs Stateful systems
+- [ ] Load balancing, replication, sharding
+- [ ] Fallacies of distributed computing
 ## 2. Лучшие DevOps практики (гибридные)
 Цель: овладеть современными DevOps практиками, включая гибридные
 развертывания.
