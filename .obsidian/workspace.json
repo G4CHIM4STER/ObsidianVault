@@ -11,12 +11,14 @@
             "id": "12cfa1f695dc73df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf"
+                "file": "BookShelf/ReadingList.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018)"
+              "icon": "lucide-file",
+              "title": "ReadingList"
             }
           },
           {
@@ -31,8 +33,7 @@
               "title": "Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +261,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ecfc2ff88c9156db",
+  "active": "12cfa1f695dc73df",
   "lastOpenFiles": [
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Graylog v5.1.md",
     "CoreNotes/Отчет за 28.02.25.md",
@@ -288,7 +289,6 @@
     "CoreNotes/RoadMap. Автоматизация.md",
     "CoreNotes/Vault.md",
     "CoreNotes/Вакансии и работа.md",
-    "CoreNotes/Knowledge Base/DB/PostgreSQL Кластер.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
     "CoreNotes/Knowledge Base/Kubernetes",
