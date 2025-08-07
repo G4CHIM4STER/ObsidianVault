@@ -11,14 +11,12 @@
             "id": "12cfa1f695dc73df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
-                "mode": "source",
-                "source": false
+                "file": "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Внутреннее устройство Linux 3-е изд - Уорд Брайан"
+              "icon": "lucide-file-text",
+              "title": "Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018)"
             }
           }
         ]
@@ -251,6 +249,7 @@
   },
   "active": "12cfa1f695dc73df",
   "lastOpenFiles": [
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Graylog v5.1.md",
@@ -288,7 +287,6 @@
     "Projects/YSTS/Other",
     "Projects/YSTS/Notes",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
-    "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Квесты",
     "Pasted image 20240106123703.png",
     "Files/GetImage.png",
     "DMNotes/NSD&D/Забытые Рудники/Эпизод 4/Эпизод 4.canvas",
