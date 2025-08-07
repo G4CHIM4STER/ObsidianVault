@@ -102,16 +102,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fe6389bf5b8077d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
             "id": "29b876e229dcd481",
             "type": "leaf",
             "state": {
@@ -188,18 +178,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "d317520319b81b38",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -208,18 +188,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "41362d42a255b801",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -227,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +221,8 @@
   },
   "active": "d065ffcd68d31d87",
   "lastOpenFiles": [
-    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
     "BookShelf/1. Reading List.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
