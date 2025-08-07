@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/1. Reading List.md",
+                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Reading List"
+              "title": "Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз"
             }
           }
         ],
@@ -250,6 +250,7 @@
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": true,
@@ -257,7 +258,6 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": true,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Создать новую доску": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -266,14 +266,15 @@
   },
   "active": "ecfc2ff88c9156db",
   "lastOpenFiles": [
-    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
-    "BookShelf/1. Reading List.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "BookShelf/1. Reading List.md",
+    "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
+    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "BookShelf/Руководство по DevOps.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
-    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "CoreNotes/Graylog v5.1.md",
     "CoreNotes/Отчет за 28.02.25.md",
     "CoreNotes/План обучения 2023.md",
@@ -292,7 +293,6 @@
     "CoreNotes/Knowledge Base/Python/Изучаем Python.md",
     "CoreNotes/Knowledge Base/Linux/Inode.md",
     "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
-    "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
     "CoreNotes/Knowledge Base/Kubernetes",
