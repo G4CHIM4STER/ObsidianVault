@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
+                "file": "BookShelf/1. Reading List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Высоконагруженные приложения. Программирование, масштабирование, поддержка"
+              "title": "1. Reading List"
             }
           }
         ],
@@ -266,12 +266,13 @@
   },
   "active": "ecfc2ff88c9156db",
   "lastOpenFiles": [
+    "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
+    "BookShelf/1. Reading List.md",
+    "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
     "BookShelf/Руководство по DevOps.md",
-    "Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "BookShelf/1. Reading List.md",
     "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
     "CoreNotes/Graylog v5.1.md",
     "CoreNotes/Отчет за 28.02.25.md",
@@ -292,7 +293,6 @@
     "CoreNotes/Knowledge Base/Linux/Inode.md",
     "CoreNotes/Knowledge Base/Linux/Управление памятью в Linux.md",
     "CoreNotes/Knowledge Base/Linux/Общие правила по обеспечению безопасности в Linux системах.md",
-    "CoreNotes/Knowledge Base/Kubernetes/Компоненты и архитектура K8S.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
     "CoreNotes/Knowledge Base/Kubernetes",
