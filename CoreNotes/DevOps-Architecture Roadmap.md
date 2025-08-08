@@ -36,7 +36,6 @@ ___
 Kubernetes.
 Основы:
 - [ ] FreeCodeCamp 4h YouTube Intro
-- [ ] Kubernetes the Hard Way (Kelsey Hightower)
 - [ ] Labs: Play with Kubernetes, Katacoda
 Продвинутые темы:
 - [ ] Helm, Bitnami charts, custom values
