@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5041847229004,
-    "collapsed": true
+    "width": 268.5041847229004
   },
   "right": {
     "id": "f3c1fdc67df801b5",
@@ -205,12 +204,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,7 +229,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d065ffcd68d31d87",
+  "active": "c2edd85dfa4d7b55",
   "lastOpenFiles": [
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "CoreNotes/DevOps-Architecture Roadmap.md",
