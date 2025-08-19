@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3. Основы.md",
+                "file": "CoreNotes/S3. Основы.md",
                 "mode": "source",
                 "source": false
               },
@@ -244,10 +244,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "8f2f6c251eec8892",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
     "CoreNotes/DevOps-Architecture Roadmap.md",
-    "S3. Основы.md",
+    "CoreNotes/S3. Основы.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
