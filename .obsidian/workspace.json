@@ -27,7 +27,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "CoreNotes/Этыпность ИС в NtechLab.excalidraw.md"
+                "file": "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Этыпность ИС в NtechLab.excalidraw"
@@ -241,13 +241,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d065ffcd68d31d87",
+  "active": "d0174fe088bd33b5",
   "lastOpenFiles": [
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Без названия.md",
     "conflict-files-obsidian-git.md",
     "CoreNotes/Общее про задачи на испытательный.md",
-    "CoreNotes/Этыпность ИС в NtechLab.excalidraw.md",
+    "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "CoreNotes/Учет времени.md",
     "CoreNotes/Цели на 2024 год.md",
