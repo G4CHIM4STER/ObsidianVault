@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/S3. Основы.md",
+                "file": "CoreNotes/Отчет за 28.02.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S3. Основы"
+              "title": "Отчет за 28.02.25"
             }
           }
         ],
@@ -246,8 +246,10 @@
   },
   "active": "8f2f6c251eec8892",
   "lastOpenFiles": [
-    "CoreNotes/Vault.md",
+    "CoreNotes/Переезд.md",
+    "CoreNotes/План обучения 2023.md",
     "CoreNotes/S3. Основы.md",
+    "CoreNotes/Vault.md",
     "Excalidraw/Компоненты K8S.excalidraw.md",
     "Excalidraw/Лаборатория культистов.md",
     "Excalidraw/Разрушенный храм Законника.excalidraw.md",
@@ -269,8 +271,6 @@
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Правила и общие принципы развертки сервисов.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/Переезд.md",
     "CoreNotes/Отчет за 28.02.25.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
