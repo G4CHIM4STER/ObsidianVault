@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/S3. Основы.md",
+                "file": "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S3. Основы"
+              "title": "YSTS. Задачи по обеспечению безопасности сервисных ВМ"
             }
           }
         ],
@@ -244,9 +244,25 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "8f2f6c251eec8892",
   "lastOpenFiles": [
+    "CoreNotes/NocoDB-GIGA-MEGA.md",
+    "CoreNotes/Graylog v5.1.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
+    "CoreNotes/Brainstorm 30.04.25.md",
+    "CoreNotes/Brainstorm 04.04.25.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Срез блока автоматизации 20.03.25.md",
+    "CoreNotes/Срез блока автоматизации 06.06.25.md",
+    "CoreNotes/Срез блока автоматизации 17.03.25.md",
+    "CoreNotes/Правила и общие принципы развертки сервисов.md",
+    "CoreNotes/План обучения 2023.md",
+    "CoreNotes/Переезд.md",
+    "CoreNotes/Отчет за 28.02.25.md",
+    "CoreNotes/Основы Zettelkasten.md",
+    "CoreNotes/Общая мнформация.md",
+    "CoreNotes/Вакансии и работа.md",
+    "CoreNotes/План передачи полномочий.md",
     "CoreNotes/S3. Основы.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
@@ -256,23 +272,7 @@
     "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
     "BookShelf/Python и DevOps Ключ к автоматизации Linux - Гифт Ной Берман Кеннеди Деза Альфредо Георгиу Григ.md",
     "BookShelf/Руководство по DevOps.md",
-    "CoreNotes/Graylog v5.1.md",
-    "CoreNotes/Отчет за 28.02.25.md",
-    "CoreNotes/План обучения 2023.md",
-    "CoreNotes/План передачи полномочий.md",
-    "CoreNotes/Правила и общие принципы развертки сервисов.md",
-    "CoreNotes/Основы Zettelkasten.md",
-    "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/CAP-Теорема.md",
-    "CoreNotes/Учет времени.md",
-    "CoreNotes/Knowledge Base/Zabbix/Процессы Zabbix.md",
-    "CoreNotes/Knowledge Base/Zabbix/Zabbix.ТЗ.md",
-    "CoreNotes/Knowledge Base/Zabbix/Zabbix. Основы.md",
-    "CoreNotes/Knowledge Base/Vault/Цели и назначение продукта.md",
-    "CoreNotes/Knowledge Base/Shell/The Shell Scripting Tutorial.md",
-    "CoreNotes/Knowledge Base/Python/Тестирование и виды тестов для Python.md",
-    "CoreNotes/Knowledge Base/Python/Изучаем Python.md",
-    "CoreNotes/Knowledge Base/Linux/Inode.md",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
     "CoreNotes/Knowledge Base/Kubernetes",
