@@ -25,12 +25,14 @@
             "id": "8f2f6c251eec8892",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Разрушенный храм Законника.excalidraw.md"
+                "file": "CoreNotes/S3. Основы.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Разрушенный храм Законника.excalidraw"
+              "icon": "lucide-file",
+              "title": "S3. Основы"
             }
           }
         ],
@@ -244,13 +246,18 @@
   },
   "active": "8f2f6c251eec8892",
   "lastOpenFiles": [
-    "Projects/YSTS/IS/Prod/Moodle_Prod.md",
+    "CoreNotes/Vault.md",
+    "CoreNotes/S3. Основы.md",
+    "Excalidraw/Компоненты K8S.excalidraw.md",
+    "Excalidraw/Лаборатория культистов.md",
     "Excalidraw/Разрушенный храм Законника.excalidraw.md",
     "Excalidraw/Drawing 2025-04-02 16.07.14.excalidraw.md",
     "Excalidraw/Drawing 2025-06-25 13.39.43.excalidraw.md",
     "Excalidraw/PostgreSQL-Кластер. Общая схема.md",
-    "Excalidraw/Лаборатория культистов.md",
-    "Excalidraw/Компоненты K8S.excalidraw.md",
+    "Templates/01 BookTemplate.md",
+    "Templates/01 DiaryNote.md",
+    "Templates/01 DefaultNote.md",
+    "Projects/YSTS/IS/Prod/Moodle_Prod.md",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/NocoDB-GIGA-MEGA.md",
     "CoreNotes/Graylog v5.1.md",
@@ -265,11 +272,6 @@
     "CoreNotes/План обучения 2023.md",
     "CoreNotes/Переезд.md",
     "CoreNotes/Отчет за 28.02.25.md",
-    "CoreNotes/Основы Zettelkasten.md",
-    "CoreNotes/Общая мнформация.md",
-    "CoreNotes/Вакансии и работа.md",
-    "CoreNotes/План передачи полномочий.md",
-    "CoreNotes/S3. Основы.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
