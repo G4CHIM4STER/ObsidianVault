@@ -25,14 +25,14 @@
             "id": "8f2f6c251eec8892",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CoreNotes/Общее про задачи на испытательный.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Общее про задачи на испытательный"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,11 +256,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e5fadcc4efe8dd6c",
+  "active": "8f2f6c251eec8892",
   "lastOpenFiles": [
     "CoreNotes/Общее про задачи на испытательный.md",
-    "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "CoreNotes/Этыпность ИС в NtechLab.excalidraw.md",
+    "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "CoreNotes/Учет времени.md",
     "CoreNotes/Цели на 2024 год.md",
     "CoreNotes/Цели на начало 23-ого года.md",
