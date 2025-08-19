@@ -48,6 +48,5 @@
   "Templates": "RiShareForwardBoxFill",
   "Zero-Links": "RiLinksFill",
   "Diary": "FabCalendar",
-  "Excalidraw": "RiExchangeBoxLine",
-  "Projects": "RiArchiveDrawerLine"
+  "Excalidraw": "RiExchangeBoxLine"
 }
