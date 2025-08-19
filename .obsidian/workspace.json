@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Срез блока автоматизации 20.03.25.md",
+                "file": "CoreNotes/Общее про задачи на испытательный.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Срез блока автоматизации 20.03.25"
+              "title": "Общее про задачи на испытательный"
+            }
+          },
+          {
+            "id": "e5fadcc4efe8dd6c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CoreNotes/Этыпность ИС в NtechLab.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Этыпность ИС в NtechLab.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,8 +256,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "8f2f6c251eec8892",
+  "active": "e5fadcc4efe8dd6c",
   "lastOpenFiles": [
+    "CoreNotes/Общее про задачи на испытательный.md",
+    "CoreNotes/Срез блока автоматизации 20.03.25.md",
+    "CoreNotes/Этыпность ИС в NtechLab.excalidraw.md",
     "CoreNotes/Учет времени.md",
     "CoreNotes/Цели на 2024 год.md",
     "CoreNotes/Цели на начало 23-ого года.md",
@@ -269,9 +284,6 @@
     "CoreNotes/NocoDB-GIGA-MEGA.md",
     "CoreNotes/Graylog v5.1.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
-    "CoreNotes/Brainstorm 30.04.25.md",
-    "CoreNotes/Brainstorm 04.04.25.md",
-    "CoreNotes/Срез блока автоматизации 20.03.25.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
