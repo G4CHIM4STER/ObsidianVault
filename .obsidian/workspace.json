@@ -196,8 +196,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -206,8 +206,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -216,8 +216,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -226,8 +226,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -241,11 +241,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,11 +266,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5fadcc4efe8dd6c",
+  "active": "04022e6fd078e985",
   "lastOpenFiles": [
+    "CoreNotes/Этыпность ИС в NtechLab.excalidraw.md",
     "CoreNotes/Общее про задачи на испытательный.md",
     "CoreNotes/Срез блока автоматизации 20.03.25.md",
-    "CoreNotes/Этыпность ИС в NtechLab.excalidraw.md",
     "CoreNotes/Учет времени.md",
     "CoreNotes/Цели на 2024 год.md",
     "CoreNotes/Цели на начало 23-ого года.md",
