@@ -11,12 +11,14 @@
             "id": "e5fadcc4efe8dd6c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md"
+                "file": "CoreNotes/Переезд.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Этыпность ИС в NtechLab.excalidraw"
+              "icon": "lucide-file",
+              "title": "Переезд"
             }
           }
         ]
@@ -228,10 +230,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "c2edd85dfa4d7b55",
+  "active": "e5fadcc4efe8dd6c",
   "lastOpenFiles": [
-    "CoreNotes/Без названия.md",
     "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md",
+    "CoreNotes/Без названия.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "conflict-files-obsidian-git.md",
     "CoreNotes/Общее про задачи на испытательный.md",
