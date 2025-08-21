@@ -32,8 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "Этыпность ИС в NtechLab.excalidraw"
             }
+          },
+          {
+            "id": "dd865213f85d69ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,6 +237,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -241,7 +255,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d0174fe088bd33b5",
+  "active": "dd865213f85d69ef",
   "lastOpenFiles": [
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Без названия.md",
