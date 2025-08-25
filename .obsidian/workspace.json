@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BookShelf/1. Reading List.md",
+                "file": "CoreNotes/DevOps-Architecture Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Reading List"
+              "title": "DevOps-Architecture Roadmap"
             }
           }
         ]
@@ -232,9 +232,9 @@
   },
   "active": "e5fadcc4efe8dd6c",
   "lastOpenFiles": [
+    "BookShelf/1. Reading List.md",
     "BookShelf/Руководство по DevOps.md",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
-    "BookShelf/1. Reading List.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
