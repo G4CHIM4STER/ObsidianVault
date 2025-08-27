@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/DevOps-Architecture Roadmap.md",
+                "file": "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps-Architecture Roadmap"
+              "title": "Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз"
+            }
+          },
+          {
+            "id": "ad487a2f1b4d5e44",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,12 +243,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "e5fadcc4efe8dd6c",
+  "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "CoreNotes/DevOps-Architecture Roadmap.md",
     "BookShelf/1. Reading List.md",
     "BookShelf/Руководство по DevOps.md",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
-    "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Graylog v5.1.md",
