@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз"
             }
+          },
+          {
+            "id": "623d2d9c955894e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,7 +257,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ad487a2f1b4d5e44",
+  "active": "623d2d9c955894e6",
   "lastOpenFiles": [
     "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
