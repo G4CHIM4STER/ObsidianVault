@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Перечень архитектурных вопросов по поводу YCloud.md",
+                "file": "CoreNotes/DevOps-Architecture Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перечень архитектурных вопросов по поводу YCloud"
+              "title": "DevOps-Architecture Roadmap"
             }
           }
         ]
@@ -232,8 +232,10 @@
   },
   "active": "01b40869c28f2ca8",
   "lastOpenFiles": [
-    "CoreNotes/Vault.md",
+    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
+    "CoreNotes/Основы Zettelkasten.md",
     "CoreNotes/Перечень архитектурных вопросов по поводу YCloud.md",
+    "CoreNotes/Vault.md",
     "CoreNotes/S3. Основы.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "Инвентаризация ВМ.md",
@@ -252,12 +254,10 @@
     "CoreNotes/План передачи полномочий.md",
     "CoreNotes/Общая мнформация.md",
     "CoreNotes/Общее про задачи на испытательный.md",
-    "CoreNotes/Основы Zettelkasten.md",
     "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/Brainstorm 04.04.25.md",
     "CoreNotes/Zen Zettel.md",
     "CoreNotes/YSTS. Задачи по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
     "CoreNotes/YSTS. План Февраль.md",
     "CoreNotes/RoadMap. Автоматизация.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
