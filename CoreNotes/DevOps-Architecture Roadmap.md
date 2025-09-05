@@ -21,101 +21,36 @@ ___
     - Документация: [CI/CD Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
     - Бесплатный курс: [GitLab CI/CD Fundamentals](https://gitlab.edcast.com/pathways/gitlab-ci-cd-fundamentals)
     - Видео: [GitLab CI/CD Crash Course](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
-    - ### 2. **Bash скриптинг**
+### 2. **Bash скриптинг**
 
 - **Что освоить:**
     
     - Основы (циклы, условия, функции, переменные).
-        
     - Работа с файлами, stdin/stdout/stderr, пайплайны.
-        
     - trap и обработка ошибок.
-        
     - Писать скрипты для автоматизации (чисто и модульно).
-        
 - **Материалы:**
-    
     - Книга: _Classic Shell Scripting_ (Arnold Robbins).
-        
     - Онлайн: [Bash Guide](https://mywiki.wooledge.org/BashGuide)
-        
     - Практика: [exercises](https://www.shellcheck.net/) + [learnshell.org](https://www.learnshell.org/)
-        
 
 ### 3. **Работа с облаками (Yandex Cloud + boto3)**
 
 - **Что освоить:**
     
     - Подключение через `boto3` (AWS SDK).
-        
     - Работа с Object Storage (S3 API): upload, download, list, delete.
-        
     - Работа с IAM (токены, сервисные аккаунты).
-        
-    - Организация пайплайнов с облаком (например, выгрузка артефактов).
-        
+    - Организация пайплайнов с облаком (например, выгрузка артефактов).        
 - **Материалы:**
     
     - Документация: [Yandex Cloud + boto3](https://cloud.yandex.ru/docs/storage/tools/boto3)
-        
     - AWS S3 + boto3 (аналогия): [boto3 docs](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3.html)
-        
-    - Примерный туториал: [Python + S3 with boto3](https://realpython.com/python-boto3-aws-s3/)
-        
+    - Примерный туториал: [Python + S3 with boto3](https://realpython.com/python-boto3-aws-s3/)        
 
 ---
 
-## 📌 Практика (пошагово)
-
-### Этап 1: GitLab CI
-
-**Задача:**  
-Сделай простой `.gitlab-ci.yml`, где есть 3 stage: `build`, `test`, `deploy`.
-
-- В `build` просто собирается артефакт (например, zip-файл с парой текстов).
-    
-- В `test` — распакуй архив и проверь наличие файлов.
-    
-- В `deploy` — сделай `echo "deploy success"`.
-    
-
----
-
-### Этап 2: Bash
-
-**Задача:**  
-Напиши Bash-скрипт:
-
-- Принимает список ID (через строку или файл).
-    
-- Для каждого ID создаёт пустой файл с именем `id_<номер>.txt`.
-    
-- Все эти файлы архивирует.
-    
-- Добавь логирование и обработку ошибок.
-    
-
----
-
-### Этап 3: boto3 + Yandex Cloud
-
-**Задача:**  
-Сделай питоновский скрипт, который:
-
-- Берёт список ID.
-    
-- Для каждого ID создаёт файл `id_<номер>.txt`.
-    
-- Загружает эти файлы в бакет Yandex Cloud.
-    
-- Возвращает список URL-ов.
-    
-
----
-
-⚡ Мой план: давать тебе **по одной задаче на этап**, проверять твоё решение, давать ревью и только потом двигаться дальше. Так мы закрепим каждую тему.
-
-Хочешь, начнём с **Этапа 1 — GitLab CI**, и я дам тебе первую задачку с тремя stage?
+# 
 ## 1. Теория построения систем
 Цель: понять как устроены **масштабируемые**, **отказоустойчивые**, **распределённые**
 системы.
