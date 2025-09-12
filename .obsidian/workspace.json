@@ -33,8 +33,7 @@
               "title": "Этыпность ИС в NtechLab.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,8 +242,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a74eca7d961151bf",
+  "active": "01b40869c28f2ca8",
   "lastOpenFiles": [
+    "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md",
     "CoreNotes/Общее про задачи на испытательный.md",
     "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/CAP-Теорема.md",
@@ -272,7 +272,6 @@
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Общая мнформация.md",
     "CoreNotes/Brainstorm 04.04.25.md",
-    "CoreNotes/Zen Zettel.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
