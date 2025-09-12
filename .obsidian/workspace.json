@@ -33,8 +33,7 @@
               "title": "Этыпность ИС в NtechLab.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,10 +243,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a74eca7d961151bf",
+  "active": "01b40869c28f2ca8",
   "lastOpenFiles": [
-    "CoreNotes/Общее про задачи на испытательный.md",
     "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md",
+    "CoreNotes/Общее про задачи на испытательный.md",
     "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/CAP-Теорема.md",
     "CoreNotes/NocoDB-GIGA-MEGA.md",
