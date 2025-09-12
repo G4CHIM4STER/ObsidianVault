@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Общее про задачи на испытательный"
             }
+          },
+          {
+            "id": "a74eca7d961151bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Этыпность ИС в NtechLab.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,8 +243,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "01b40869c28f2ca8",
+  "active": "a74eca7d961151bf",
   "lastOpenFiles": [
+    "CoreNotes/Общее про задачи на испытательный.md",
     "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/CAP-Теорема.md",
     "CoreNotes/NocoDB-GIGA-MEGA.md",
@@ -257,7 +271,6 @@
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Общая мнформация.md",
-    "CoreNotes/Общее про задачи на испытательный.md",
     "CoreNotes/Brainstorm 04.04.25.md",
     "CoreNotes/Zen Zettel.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
