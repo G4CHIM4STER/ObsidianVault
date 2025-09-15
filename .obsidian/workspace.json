@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01b40869c28f2ca8",
+            "id": "e059ccd94be12b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Общее про задачи на испытательный"
-            }
-          },
-          {
-            "id": "e059ccd94be12b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Полигон для НТехЛаб.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Полигон для НТехЛаб"
             }
           },
           {
@@ -257,36 +243,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "01b40869c28f2ca8",
+  "active": "e059ccd94be12b87",
   "lastOpenFiles": [
-    "Полигон для НТехЛаб.md",
+    "CoreNotes/Общая мнформация.md",
     "CoreNotes/Общее про задачи на испытательный.md",
+    "CoreNotes/Основы Zettelkasten.md",
+    "CoreNotes/Учет времени.md",
+    "CoreNotes/Срез блока автоматизации 20.03.25.md",
+    "CoreNotes/Цели на 2024 год.md",
+    "CoreNotes/Цели на начало 23-ого года.md",
+    "CoreNotes/Срез блока автоматизации 06.06.25.md",
+    "CoreNotes/Срез блока автоматизации 17.03.25.md",
+    "CoreNotes/Правила и общие принципы развертки сервисов.md",
+    "CoreNotes/Полигон для НТехЛаб.md",
+    "CoreNotes/План передачи полномочий.md",
+    "CoreNotes/DevOps-Architecture Roadmap.md",
+    "CoreNotes/NocoDB-GIGA-MEGA.md",
+    "CoreNotes/S3. Основы.md",
+    "**Полигон**.md",
     "Excalidraw/Этыпность ИС в NtechLab.excalidraw.md",
     "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/CAP-Теорема.md",
-    "CoreNotes/NocoDB-GIGA-MEGA.md",
     "CoreNotes/RoadMap. Автоматизация.md",
     "CoreNotes/Graylog v5.1.md",
     "CoreNotes/Vault.md",
-    "CoreNotes/Учет времени.md",
     "CoreNotes/YSTS. План по обеспечению безопасности сервисных ВМ.md",
-    "CoreNotes/Срез блока автоматизации 06.06.25.md",
-    "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Список книг на 2023.md",
-    "CoreNotes/План передачи полномочий.md",
     "CoreNotes/Перечень архитектурных вопросов по поводу YCloud.md",
-    "CoreNotes/Правила и общие принципы развертки сервисов.md",
-    "CoreNotes/DevOps-Architecture Roadmap.md",
-    "CoreNotes/Основы Zettelkasten.md",
-    "CoreNotes/S3. Основы.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
-    "Инвентаризация ВМ.md",
     "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
-    "BookShelf/1. Reading List.md",
-    "BookShelf/Руководство по DevOps.md",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
-    "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/Общая мнформация.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
