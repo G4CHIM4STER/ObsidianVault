@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План РК для продуктивной БД.md",
+                "file": "CoreNotes/План РК для продуктивной БД.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,8 @@
               "title": "План РК для продуктивной БД"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,12 +245,12 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ad487a2f1b4d5e44",
+  "active": "6edc01ac3193e64c",
   "lastOpenFiles": [
-    "План РК для продуктивной БД.md",
     "CoreNotes/Общее про задачи на испытательный.md",
-    "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Полигон для НТехЛаб.md",
+    "CoreNotes/План РК для продуктивной БД.md",
+    "CoreNotes/DevOps-Architecture Roadmap.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "CoreNotes/Перечень архитектурных вопросов по поводу YCloud.md",
     "Инвентаризация ВМ.md",
