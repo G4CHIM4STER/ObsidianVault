@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бэкапы БД.md",
+                "file": "План РК для продуктивной БД.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Бэкапы БД"
+              "title": "План РК для продуктивной БД"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,9 +244,9 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "6edc01ac3193e64c",
+  "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
-    "Бэкапы БД.md",
+    "План РК для продуктивной БД.md",
     "CoreNotes/Общее про задачи на испытательный.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
     "CoreNotes/Полигон для НТехЛаб.md",
