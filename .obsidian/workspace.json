@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "f37c923cf6c31590",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.14"
+            }
+          },
+          {
             "id": "6edc01ac3193e64c",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,7 +271,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "2a2bb9955cdb9c4d",
+  "active": "f37c923cf6c31590",
   "lastOpenFiles": [
     "CoreNotes/Общее про задачи на испытательный.md",
     "Zero-Links/00 NTechLab.md",
