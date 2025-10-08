@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "42976e4494a9b3e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "a74eca7d961151bf",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5e812cc1cf404de7",
+  "active": "42976e4494a9b3e0",
   "lastOpenFiles": [
     "Zero-Links/00 NTechLab.md",
     "CoreNotes/План РК для продуктивной БД.md",
