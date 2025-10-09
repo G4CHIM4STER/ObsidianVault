@@ -9,10 +9,8 @@ views:
     order:
       - file.name
       - status
-      - formula.Untitled
       - category
-      - tags
-      - tag
+      - formula.Untitled
     sort:
       - property: formula.Untitled
         direction: ASC
@@ -20,5 +18,4 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    columnSize:
-      note.tags: 130
+    columnSize: {}

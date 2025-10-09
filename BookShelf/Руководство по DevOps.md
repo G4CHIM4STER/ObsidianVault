@@ -1,6 +1,6 @@
 ---
 title: Руководство по DevOps
-subtitle: 
+subtitle:
 author:
   - Ким
 authors: Хамбл, Ким, Дюбуа
@@ -16,8 +16,8 @@ previewLink: http://books.google.ru/books?id=64KzDwAAQBAJ&pg=PA9&dq=devops&hl=&a
 isbn13: 9785041924805
 isbn10: 5041924805
 tags:
-  - 📚Book
 status: Прочитано
+tag: 📚Book
 ---
 ---
 # Руководство по DevOps
