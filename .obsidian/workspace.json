@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:📚Book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "01 NocoDB"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,9 +246,10 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
+    "BookShelf/1. Reading List.base",
     "BookShelf/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
-    "BookShelf/1. Reading List.base",
     "BookShelf/1. Reading List.md",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "Zero-Links/00 NTechLab.md",
@@ -274,7 +276,6 @@
     "CoreNotes/План передачи полномочий.md",
     "CoreNotes/Общая мнформация.md",
     "CoreNotes/Основы Zettelkasten.md",
-    "CoreNotes/Brainstorm 30.04.25.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
