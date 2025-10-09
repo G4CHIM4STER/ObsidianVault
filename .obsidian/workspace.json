@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "BookShelf/Без названия.base",
+                "file": "BookShelf/Reading List.base",
                 "viewName": "Таблица"
               },
               "icon": "lucide-table",
-              "title": "Без названия"
+              "title": "Reading List"
             }
           },
           {
@@ -246,7 +246,8 @@
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
     "BookShelf/1. Reading List.md",
-    "BookShelf/Без названия.base",
+    "BookShelf/Reading List.base",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "Zero-Links/00 NTechLab.md",
     "Untitled.md",
     "CoreNotes/Общее про задачи на испытательный.md",
@@ -256,7 +257,6 @@
     "CoreNotes/План РК для продуктивной БД.md",
     "CoreNotes/Полигон для НТехЛаб.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
-    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "CoreNotes/Перечень архитектурных вопросов по поводу YCloud.md",
     "Инвентаризация ВМ.md",
     "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",

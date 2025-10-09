@@ -8,7 +8,9 @@ views:
         - file.inFolder("BookShelf")
     order:
       - file.name
-      - file.ext
+      - status
     sort:
+      - property: status
+        direction: ASC
       - property: file.name
         direction: ASC
