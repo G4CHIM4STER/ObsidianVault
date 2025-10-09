@@ -13,10 +13,10 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Без названия.base",
-                "viewName": "представление"
+                "file": "BookShelf/Без названия.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-layout-grid",
+              "icon": "lucide-table",
               "title": "Без названия"
             }
           },
@@ -245,9 +245,12 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "Untitled.md",
+    "BookShelf/1. Reading List.md",
+    "BookShelf/Без названия.base",
     "CoreNotes/Общее про задачи на испытательный.md",
-    "Zero-Links/00 Работа.md",
     "Без названия.base",
+    "Zero-Links/00 Работа.md",
     "Drawing 2025-10-09 21.03.11.excalidraw.md",
     "CoreNotes/План РК для продуктивной БД.md",
     "Zero-Links/00 NTechLab.md",
@@ -257,7 +260,6 @@
     "CoreNotes/Перечень архитектурных вопросов по поводу YCloud.md",
     "Инвентаризация ВМ.md",
     "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
-    "BookShelf/1. Reading List.md",
     "BookShelf/Руководство по DevOps.md",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
@@ -273,7 +275,6 @@
     "CoreNotes/Brainstorm 30.04.25.md",
     "CoreNotes/Brainstorm 04.04.25.md",
     "CoreNotes/Zen Zettel.md",
-    "CoreNotes/Vault.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
@@ -281,7 +282,6 @@
     "CoreNotes/Knowledge Base/Zabbix",
     "CoreNotes/Knowledge Base/Vault",
     "Files/Pasted Image 20250402165245_112.png",
-    "CoreNotes/Knowledge Base/Shell",
     "DMNotes/Орифлейм и Ко/Ravenloft Adventures/АКТ4/Схема приключения.canvas",
     "Pasted image 20240106123703.png",
     "Files/GetImage.png",
