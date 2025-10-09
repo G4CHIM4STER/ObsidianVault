@@ -5,7 +5,7 @@ views:
     name: Таблица
     filters:
       and:
-        - file.inFolder("Files")
+        - file.inFolder("BookShelf")
     order:
       - file.name
       - file.ext
