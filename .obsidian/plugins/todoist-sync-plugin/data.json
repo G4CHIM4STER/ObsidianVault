@@ -7,5 +7,8 @@
   "renderLabelsIcon": true,
   "shouldWrapLinksInParens": false,
   "addTaskButtonAddsPageLink": "content",
+  "taskCreationDefaultDueDate": "none",
+  "taskCreationDefaultProject": null,
+  "taskCreationDefaultLabels": [],
   "debugLogging": false
 }
