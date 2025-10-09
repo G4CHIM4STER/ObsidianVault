@@ -1,8 +1,13 @@
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Таблица
+    filters:
+      and:
+        - file.inFolder("Files")
     order:
-      - title
+      - file.name
     sort:
       - property: file.name
         direction: ASC
