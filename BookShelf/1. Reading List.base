@@ -10,7 +10,6 @@ views:
       - file.name
       - status
       - category
-      - formula.Untitled
     sort:
       - property: formula.Untitled
         direction: ASC
@@ -18,4 +17,6 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
-    columnSize: {}
+    columnSize:
+      note.status: 194
+      note.category: 128
