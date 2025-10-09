@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiDatabase2Line",
+      "LiDatabase",
       "RiArchiveDrawerLine",
       "RiExchangeBoxLine",
-      "RiBookLine",
-      "FabChessRook",
-      "RiLinksFill"
+      "RiBookLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -48,5 +48,6 @@
   "Templates": "RiShareForwardBoxFill",
   "Zero-Links": "RiLinksFill",
   "Diary": "FabCalendar",
-  "Excalidraw": "RiExchangeBoxLine"
+  "Excalidraw": "RiExchangeBoxLine",
+  "BookShelf/1. Reading List.base": "RiDatabase2Line"
 }

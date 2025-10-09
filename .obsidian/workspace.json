@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "BookShelf/Reading List.base",
+                "file": "BookShelf/1. Reading List.base",
                 "viewName": "Таблица"
               },
               "icon": "lucide-table",
-              "title": "Reading List"
+              "title": "1. Reading List"
             }
           },
           {
@@ -245,8 +245,10 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "BookShelf/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
+    "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
+    "BookShelf/1. Reading List.base",
     "BookShelf/1. Reading List.md",
-    "BookShelf/Reading List.base",
     "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "Zero-Links/00 NTechLab.md",
     "Untitled.md",
@@ -273,7 +275,6 @@
     "CoreNotes/Общая мнформация.md",
     "CoreNotes/Основы Zettelkasten.md",
     "CoreNotes/Brainstorm 30.04.25.md",
-    "CoreNotes/Brainstorm 04.04.25.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
