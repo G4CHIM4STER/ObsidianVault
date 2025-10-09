@@ -8,6 +8,7 @@ views:
         - file.inFolder("Files")
     order:
       - file.name
+      - file.ext
     sort:
       - property: file.name
         direction: ASC
