@@ -18,5 +18,6 @@ views:
       - property: file.name
         direction: ASC
     columnSize:
+      file.name: 268
       note.status: 194
       note.category: 128
