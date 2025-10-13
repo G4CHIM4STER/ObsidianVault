@@ -11,13 +11,14 @@
             "id": "ad487a2f1b4d5e44",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "BookShelf/1. Reading List.base",
-                "viewName": "Таблица"
+                "file": "CoreNotes/Без названия.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "1. Reading List"
+              "icon": "lucide-file",
+              "title": "Без названия"
             }
           },
           {
@@ -245,8 +246,9 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
-    "Untitled.md",
     "BookShelf/1. Reading List.base",
+    "CoreNotes/Без названия.md",
+    "Untitled.md",
     "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
     "BookShelf/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
@@ -273,7 +275,6 @@
     "CoreNotes/Учет времени.md",
     "CoreNotes/Список книг на 2023.md",
     "CoreNotes/План передачи полномочий.md",
-    "CoreNotes/Общая мнформация.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
