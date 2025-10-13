@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Без названия.md",
+                "file": "CoreNotes/План тренировки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "План тренировки"
             }
           },
           {
@@ -247,7 +247,7 @@
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
     "BookShelf/1. Reading List.base",
-    "CoreNotes/Без названия.md",
+    "CoreNotes/План тренировки.md",
     "Untitled.md",
     "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
     "BookShelf/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
