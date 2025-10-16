@@ -21,7 +21,7 @@ openssl pkcs12 -in ntech.p12 -clcerts -nokeys -out ntech-cert.pem
 openssl pkcs12 -in ntech.p12 -cacerts -nokeys -out rootCA.pem
 ```
 
-3. asd
+3. Проверка
 ```sh
 
 ```
