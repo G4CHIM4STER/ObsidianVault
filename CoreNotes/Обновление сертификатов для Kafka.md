@@ -28,6 +28,8 @@ openssl verify -verbose -CAfile rootCA.pem ntech-cert.pem
 openssl rsa -modulus -noout -in ntech-key.pem | openssl md5
 openssl x509 -modulus -noout -in ntech-cert.pem | openssl md5
 ```
+
+4. Далее сертификаты нужны вставить в нужный `vault` нужного окружения.
 ___
 ### Zero-Links
 - [[00 Работа]]
