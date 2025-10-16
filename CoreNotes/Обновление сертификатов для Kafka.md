@@ -31,7 +31,14 @@ openssl x509 -modulus -noout -in ntech-cert.pem | openssl md5
 
 4. Далее сертификаты нужны вставить в нужный `vault` нужного окружения, предварительно прочитав ключи и сертификаты в формате пригодном для `yml`
 ```sh
+echo "  vault_kafka_key_client: |"
+awk '{print "      " $0}' ntech-key.pem
 
+echo "  vault_kafka_cert_client: |"
+awk '{print "      " $0}' ntech-cert.pem
+
+echo "  vault_kafka_cert_ca: |"
+awk '{print "      " $0}' rootCA.pem
 ```
 
 ___
