@@ -23,7 +23,10 @@ openssl pkcs12 -in ntech.p12 -cacerts -nokeys -out rootCA.pem
 
 3. Проверка
 ```sh
-
+openssl rsa -check -noout -in ntech-key.pem
+openssl verify -verbose -CAfile rootCA.pem ntech-cert.pem
+openssl rsa -modulus -noout -in ntech-key.pem | openssl md5
+openssl x509 -modulus -noout -in ntech-cert.pem | openssl md5
 ```
 ___
 ### Zero-Links
