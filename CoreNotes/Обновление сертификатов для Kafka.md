@@ -9,7 +9,7 @@ ___
 1. Конвертируем `.jks` в `.p12`
 ```sh
 keytool -importkeystore \
-  -srckeystore mykeystore.jks -srcstoretype JKS \
+  -srckeystore ntech.jks -srcstoretype JKS \
   -destkeystore ntech.p12 -deststoretype PKCS12 \
   -srcalias ntech
 ```
