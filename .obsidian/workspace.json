@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "66d5d119f0bfe6e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.3"
+            }
+          },
+          {
             "id": "6edc01ac3193e64c",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "00 NTechLab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,7 +257,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ad487a2f1b4d5e44",
+  "active": "66d5d119f0bfe6e5",
   "lastOpenFiles": [
     "CoreNotes/План тренировки.md",
     "CoreNotes/Обновление сертификатов для Kafka.md",
