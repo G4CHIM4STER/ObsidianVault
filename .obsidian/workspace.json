@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Обновление сертификатов для Kafka.md",
+                "file": "CoreNotes/Цели на 2026 год.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обновление сертификатов для Kafka"
+              "title": "Цели на 2026 год"
             }
           }
         ]
@@ -232,9 +232,10 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "CoreNotes/Обновление сертификатов для Kafka.md",
+    "CoreNotes/Цели на 2026 год.md",
     "Zero-Links/00 NTechLab.md",
     "CoreNotes/План тренировки.md",
-    "CoreNotes/Обновление сертификатов для Kafka.md",
     "test.md",
     "BookShelf/1. Reading List.base",
     "Untitled.md",
@@ -261,7 +262,6 @@
     "CoreNotes/NocoDB-GIGA-MEGA.md",
     "CoreNotes/Цели на начало 23-ого года.md",
     "CoreNotes/Учет времени.md",
-    "CoreNotes/Список книг на 2023.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
