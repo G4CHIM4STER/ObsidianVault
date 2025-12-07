@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Обновление сертификатов для Kafka"
             }
-          },
-          {
-            "id": "c6deb323f3102c36",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +230,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "c6deb323f3102c36",
+  "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
     "Zero-Links/00 NTechLab.md",
     "CoreNotes/План тренировки.md",
