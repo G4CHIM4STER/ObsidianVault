@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "962dad659c82b03f",
+        "id": "5c63f52fa4a8163c",
         "type": "tabs",
         "children": [
           {
-            "id": "214cf0f97b598934",
+            "id": "dace7cc5a0057b5d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,6 +176,6 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "0901a68c5cb864ef",
+  "active": "dace7cc5a0057b5d",
   "lastOpenFiles": []
 }

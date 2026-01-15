@@ -10,5 +10,6 @@
   "taskCreationDefaultDueDate": "none",
   "taskCreationDefaultProject": null,
   "taskCreationDefaultLabels": [],
+  "defaultAddTaskAction": "add",
   "debugLogging": false
 }
