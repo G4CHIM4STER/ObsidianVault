@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Цели на 2026 год.md",
+                "file": "CoreNotes/Общее про задачи на испытательный.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Цели на 2026 год"
+              "title": "Общее про задачи на испытательный"
             }
           }
         ]
@@ -202,6 +202,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d656e7272c6e042b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
         "currentTab": 6
@@ -212,11 +222,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": true,
@@ -224,26 +237,29 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": true,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Создать новую доску": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "CoreNotes/Общая мнформация.md",
     "CoreNotes/Обновление сертификатов для Kafka.md",
+    "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
+    "BookShelf/Основы компьютерных сетей - Виктор Григорьевич Олифер.md",
+    "BookShelf/Изучаем PostgreSQL 10 - Салахалдин Джуба Андрей Волков.md",
+    "BookShelf/Грокаем алгоритмы - Aditya Y Bhargava.md",
+    "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
+    "BookShelf/Внутреннее устройство Linux 3-е изд - Уорд Брайан.md",
+    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
+    "BookShelf/1. Reading List.base",
     "CoreNotes/Цели на 2026 год.md",
     "Zero-Links/00 NTechLab.md",
     "CoreNotes/План тренировки.md",
     "test.md",
-    "BookShelf/1. Reading List.base",
     "Untitled.md",
-    "BookShelf/Высоконагруженные приложения. Программирование, масштабирование, поддержка.md",
     "BookShelf/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/1. Reading List.md",
-    "BookShelf/Безопасность контейнеров Фундаментальный подход к защите контейнеризированных приложений - Райс Лиз.md",
     "CoreNotes/Общее про задачи на испытательный.md",
     "Без названия.base",
     "Zero-Links/00 Работа.md",
@@ -256,12 +272,6 @@
     "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "BookShelf/Руководство по DevOps.md",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
-    "CoreNotes/Срез блока автоматизации 06.06.25.md",
-    "CoreNotes/Срез блока автоматизации 17.03.25.md",
-    "CoreNotes/Graylog v5.1.md",
-    "CoreNotes/NocoDB-GIGA-MEGA.md",
-    "CoreNotes/Цели на начало 23-ого года.md",
-    "CoreNotes/Учет времени.md",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
     "Files/Vnutrennee_ustroystvo_Linux_2016_Brayan_Uord.pdf",
     "Без названия",
