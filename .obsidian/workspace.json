@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Общее про задачи на испытательный.md",
+                "file": "CoreNotes/Цели на 2026 год.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Общее про задачи на испытательный"
+              "title": "Цели на 2026 год"
             }
           }
         ]
@@ -242,6 +242,7 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "CoreNotes/Общее про задачи на испытательный.md",
     "CoreNotes/Общая мнформация.md",
     "CoreNotes/Обновление сертификатов для Kafka.md",
     "BookShelf/Простой Python Современный стиль программирования 2-е изд - Любанович Билл.md",
@@ -260,7 +261,6 @@
     "BookShelf/Микросервисы и контейнеры Docker - Парминдер Сингх Кочер.md",
     "BookShelf/Классические задачи Computer Science на языке Python - Копец Дэвид.md",
     "BookShelf/1. Reading List.md",
-    "CoreNotes/Общее про задачи на испытательный.md",
     "Без названия.base",
     "Zero-Links/00 Работа.md",
     "Drawing 2025-10-09 21.03.11.excalidraw.md",
