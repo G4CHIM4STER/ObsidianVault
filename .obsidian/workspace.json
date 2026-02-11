@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Полигон для НТехЛаб.md",
+                "file": "CoreNotes/Этапы деклаудизации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полигон для НТехЛаб"
+              "title": "Этапы деклаудизации"
             }
           }
         ]
@@ -242,6 +242,8 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
+    "CoreNotes/Полигон для НТехЛаб.md",
+    "CoreNotes/Этапы деклаудизации.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
     "CoreNotes/Цели на 2026 год.md",
@@ -267,9 +269,7 @@
     "Zero-Links/00 Работа.md",
     "Drawing 2025-10-09 21.03.11.excalidraw.md",
     "CoreNotes/План РК для продуктивной БД.md",
-    "CoreNotes/Полигон для НТехЛаб.md",
     "CoreNotes/DevOps-Architecture Roadmap.md",
-    "CoreNotes/Перечень архитектурных вопросов по поводу YCloud.md",
     "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
