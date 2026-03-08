@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Этапы деклаудизациибля"
             }
+          },
+          {
+            "id": "323f2e8698fb6c06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,7 +253,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ad487a2f1b4d5e44",
+  "active": "323f2e8698fb6c06",
   "lastOpenFiles": [
     "Без названия.md",
     "CoreNotes/Этапы деклаудизациибля.md",
