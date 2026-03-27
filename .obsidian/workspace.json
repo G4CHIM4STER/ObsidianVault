@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Этапы деклаудизациибля"
             }
-          },
-          {
-            "id": "323f2e8698fb6c06",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +169,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -192,8 +179,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -212,8 +199,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -222,8 +209,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           }
         ],
@@ -235,10 +222,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -247,13 +237,10 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": true,
       "markdown-importer:Импорт Markdown-файлов": true,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": true,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "zk-prefixer:Создать заметку с уникальным идентификатором": true
     }
   },
-  "active": "323f2e8698fb6c06",
+  "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
     "Без названия.md",
     "CoreNotes/Этапы деклаудизациибля.md",
