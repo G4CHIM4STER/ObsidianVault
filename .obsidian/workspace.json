@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Этапы деклаудизациибля.md",
+                "file": "CoreNotes/Обновление сертификатов для Kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Этапы деклаудизациибля"
+              "title": "Обновление сертификатов для Kafka"
             }
           }
         ]
@@ -242,8 +242,8 @@
   },
   "active": "ad487a2f1b4d5e44",
   "lastOpenFiles": [
-    "Без названия.md",
     "CoreNotes/Этапы деклаудизациибля.md",
+    "Без названия.md",
     "CoreNotes/Полигон для НТехЛаб.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
