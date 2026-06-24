@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad487a2f1b4d5e44",
+            "id": "90891b5aaf529383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreNotes/Описание бармену.md",
+                "file": "Обновление контура racoon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Описание бармену"
+              "title": "Обновление контура racoon"
             }
           }
         ]
@@ -240,10 +240,11 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": true
     }
   },
-  "active": "ad487a2f1b4d5e44",
+  "active": "90891b5aaf529383",
   "lastOpenFiles": [
-    "CoreNotes/Обновление сертификатов для Kafka.md",
+    "Обновление контура racoon.md",
     "CoreNotes/Описание бармену.md",
+    "CoreNotes/Обновление сертификатов для Kafka.md",
     "CoreNotes/Этапы деклаудизациибля.md",
     "Без названия.md",
     "CoreNotes/Полигон для НТехЛаб.md",
@@ -269,7 +270,6 @@
     "BookShelf/1. Reading List.md",
     "Без названия.base",
     "Zero-Links/00 Работа.md",
-    "Drawing 2025-10-09 21.03.11.excalidraw.md",
     "Files/Безопасность_контейнеров_Фундаментальный_подход_к_защите_контейнеризованных.pdf",
     "Files/dokumen.pub_devops-1nbsped-9785001007500.pdf",
     "Files/Высоконагруженные приложения. Программирование, масштабирование, поддержка (Клеппман 2018).pdf",
