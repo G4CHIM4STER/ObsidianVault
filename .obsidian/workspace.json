@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Обновление контура racoon.md",
+                "file": "CoreNotes/Демонстрация интеграции. Сбер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обновление контура racoon"
+              "title": "Демонстрация интеграции. Сбер"
             }
           }
         ]
@@ -220,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,12 +245,12 @@
   },
   "active": "90891b5aaf529383",
   "lastOpenFiles": [
+    "CoreNotes/Обновление контура racoon.md",
     "Без названия 1.md",
-    "Обновление контура racoon.md",
     "CoreNotes/Описание бармену.md",
     "CoreNotes/Обновление сертификатов для Kafka.md",
     "CoreNotes/Этапы деклаудизациибля.md",
-    "Без названия.md",
+    "CoreNotes/Демонстрация интеграции. Сбер.md",
     "CoreNotes/Полигон для НТехЛаб.md",
     "CoreNotes/Срез блока автоматизации 17.03.25.md",
     "CoreNotes/Срез блока автоматизации 06.06.25.md",
